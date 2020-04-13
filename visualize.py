@@ -10,7 +10,7 @@ def run(fpath):
     G = nx.MultiDiGraph()
     G = nx.read_gexf(fpath)
 
-    plt.figure(figsize=(10, 7))
+    plt.figure(figsize=(5, 5))
     # pos = nx.planar_layout(G)
     node_color = [6 + int(G.degree(n)) for n in G.nodes()]
 
@@ -24,8 +24,4 @@ def run(fpath):
 
 if __name__ == "__main__":
     path = sys.argv[1]
-    for _, _, files in os.walk(path):
-        for fname in files:
-            if fname.endswith('.gexf'):
-                fpath = path + fname
-                run(fpath)
+    run(path)

@@ -24,8 +24,11 @@ class Environment():
         reward_ = self.graph.degree(action) / (2*len(self.graph.edges()))
         reward = reward_
         for key in self.keys:
-            if str(action).lower() == key:
-                reward = 1000 * reward_
+            k, theta = key.split()
+            if str(action).lower() == k:
+                reward = int(theta) * reward_
+                if (action, action) in self.graph.edges():
+                    reward *= 2
 
         next_state = action
 

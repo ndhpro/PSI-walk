@@ -1,14 +1,16 @@
-main
-start
-processcmd
-startthelelz
-miraiscanner
-telnetscanner
-sendudp
-sendtcp
-sendjunk
-sendhold
-sendhttp
-sendcnc
-sendstd
-sendunknown
+main 50
+start 50
+processcmd 50
+startthelelz 50
+miraiscanner 50
+miraiscan 50
+telnetscanner 50
+telnetscan 50
+sendudp 100
+sendtcp 100
+sendjunk 100
+sendhold 100
+sendhttp 100
+sendcnc 100
+sendstd 100
+sendunknown 100
