@@ -40,19 +40,18 @@ def update(num_episode):
         cost = 0
         done = False
         state = env.reset()
-        avail_action = env.get_avail_action(state)
 
         while not done:
             avail_action = env.get_avail_action(state)
+
             action = RL.choose_action(str(state), avail_action)
 
-            state_, reward, done = env.step(action)
-
+            state_, reward, done = env.step(action, state)
             cost += RL.learn(str(state), action,
                              reward, str(state_))
 
             state = state_
-            # print(state, end=' ')
+            # print(state[0], end=' ')
 
             i += 1
             if i == 20:
@@ -78,20 +77,20 @@ def get_final_path():
     print('\33[91m')
     while not done and i < 20:
         avail_actions = env.get_avail_action(state)
-        state_action = Q.loc[state, avail_actions]
+        state_action = Q.loc[str(state), avail_actions]
         action = state_action.idxmax()
-        state, _, done = env.step(str(action))
-        print(state, end=' ')
-        if (state, state) in G.edges():
-            print(state, end=' ')
+        state, _, done = env.step(action, state)
+        print(state[0], end=' ')
+        if (state[0], state[0]) in G.edges():
+            print(state[0], end=' ')
         i += 1
     print('\33[00m')
-    print(round((time.time()-t),2))
+    print(round((time.time()-t), 2))
 
     RL.plot_results(steps, all_costs)
-    
 
-# Main 
+
+# Main
 G = load_graph(sys.argv[1])
 keys = load_keys('key.txt')
 env = Environment(graph=G, root='ndhpro', keys=keys)
@@ -101,8 +100,7 @@ all_costs = []
 
 t = time.time()
 update(min(1000, max(500, 2*len(G.edges()))))
-print(round((time.time()-t),2))
+print(round((time.time()-t), 2))
 
 get_final_path()
-
 
