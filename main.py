@@ -3,7 +3,6 @@ import time
 from copy import copy, deepcopy
 import networkx as nx
 import pandas as pd
-from numpy.random import choice
 from env import Environment
 from agent import QLearningTable
 
@@ -30,7 +29,6 @@ def load_graph(path):
             start_edge.append(('ndhpro', n))
     G.add_edges_from(start_edge)
 
-    print(len(G.nodes()), len(G.edges()), end=' ')
     return G
 
 
@@ -97,6 +95,7 @@ def get_final_path(path, env, RL, steps, all_costs):
 def run_file(path, keys):
     print(path)
     G = load_graph(path)
+    print(len(G.nodes()), len(G.edges()), end=' ')
     env = Environment(graph=G, root='ndhpro', keys=keys)
     RL = QLearningTable(actions=G.nodes())
     steps = []
@@ -109,3 +108,9 @@ def run_file(path, keys):
 
     get_final_path(path, env, RL, steps, all_costs)
 
+
+if __name__ == "__main__":
+    with open('key.txt', 'r') as f:
+        lines = f.readlines()
+    keys = [str(line)[:-1] for line in lines]
+    run_file(sys.argv[1], keys)
