@@ -1,0 +1,13 @@
+StartTheLelz
+StartTheLelz
+HackerScan2
+HackerScan2
+szprintf
+print
+print
+printi
+prints
+printchar
+write
+__libc_write
+__errno_location

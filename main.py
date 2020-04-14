@@ -10,7 +10,14 @@ from agent import QLearningTable
 
 def load_graph(path):
     G = nx.MultiDiGraph()
-    G = nx.read_gexf(path)
+    with open(path, 'r') as f:
+        lines = f.readlines()
+
+    for line in lines[2:]:
+        line = line.strip()
+        if ' ' in line and line.find(' ') == line.rfind(' '):
+            (u, v) = line.split(' ')
+            G.add_edge(u, v)
 
     # Add super_root
     child = set()
@@ -23,19 +30,11 @@ def load_graph(path):
             start_edge.append(('ndhpro', n))
     G.add_edges_from(start_edge)
 
-    print(len(G.nodes()), len(G.edges()))
+    print(len(G.nodes()), len(G.edges()), end=' ')
     return G
 
 
-def load_keys(path):
-    with open(path, 'r') as f:
-        lines = f.readlines()
-    return [str(line)[:-1] for line in lines]
-
-
-def update(num_episode):
-    global steps, all_costs
-
+def update(num_episode, env, RL, steps, all_costs):
     for e in range(num_episode):
         i = 0
         cost = 0
@@ -52,21 +51,22 @@ def update(num_episode):
                              reward, str(state_))
 
             state = deepcopy(state_)
-            print(state['node'], end=' ')
+            # print(state['node'], end=' ')
 
             i += 1
             if i == 50:
                 break
         all_costs.append(cost)
         steps.append(i)
-        print()
+        # print()
 
         if (e+1) % (num_episode//9) == 0:
             RL.reduce_epsilon()
 
 
-def get_final_path():
-    t = time.time()
+def get_final_path(path, env, RL, steps, all_costs):
+    f_name = path[path.rfind('\\')+1:]
+    f_path = 'results/' + f_name
     Q = RL.get_q_table()
     # print('Length of full Q-table =', len(Q.index))
     # print('Full Q-table:')
@@ -75,37 +75,37 @@ def get_final_path():
     state = env.reset()
     i = 0
     done = 0
-    print()
-    while not done and i < 50:
-        avail_actions = env.get_avail_action(state)
-        try:
-            state_action = Q.loc[str(state), avail_actions]
-        except Exception as e:
-            print('\n', e)
-            break
-        action = state_action.idxmax()
-        state, _, done = env.step(action, state)
-        print(state['node'], end=' ')
-        if (state['node'], state['node']) in G.edges():
-            print(state['node'], end=' ')
-        i += 1
-    print()
-    print(i, round((time.time()-t), 2))
+    with open(f_path, 'w') as f:
+        while not done and i < 50:
+            avail_actions = env.get_avail_action(state)
+            try:
+                state_action = Q.loc[str(state), avail_actions]
+            except Exception as e:
+                print(e)
+                break
+            action = state_action.idxmax()
+            state, _, done = env.step(action, state)
+            f.write(str(state['node']) + '\n')
+            if (state['node'], state['node']) in env.graph.edges():
+                f.write(str(state['node']) + '\n')
+            i += 1
 
-    RL.plot_results(steps, all_costs)
+    # RL.plot_results(steps, all_costs)
 
 
 # Main
-G = load_graph(sys.argv[1])
-keys = load_keys('key.txt')
-env = Environment(graph=G, root='ndhpro', keys=keys)
-RL = QLearningTable(actions=G.nodes())
-steps = []
-all_costs = []
+def run_file(path, keys):
+    print(path)
+    G = load_graph(path)
+    env = Environment(graph=G, root='ndhpro', keys=keys)
+    RL = QLearningTable(actions=G.nodes())
+    steps = []
+    all_costs = []
 
-t = time.time()
-update(min(1000, max(500, 2*len(G.edges()))))
-print(round((time.time()-t), 2))
+    t = time.time()
+    n_epoch = min(1000, max(500, 2*len(G.edges())))
+    update(n_epoch, env, RL, steps, all_costs)
+    print(round((time.time()-t), 2))
 
-get_final_path()
+    get_final_path(path, env, RL, steps, all_costs)
 
