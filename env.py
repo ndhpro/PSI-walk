@@ -1,12 +1,12 @@
 import numpy as np
 import networkx as nx
-import copy
+from copy import copy, deepcopy
 
 
 class Environment():
     def __init__(self, graph, root, keys):
         self.graph = graph
-        self.init_state = [root, dict()]
+        self.init_state = dict({'node': root, 'edge': dict()})
         self.gone_edge = set()
         self.keys = keys
 
@@ -15,7 +15,7 @@ class Environment():
         return self.init_state
 
     def get_avail_action(self, state):
-        cur = state[0]
+        cur = state['node']
         ret = list()
 
         for nei in self.graph.adj[cur]:
@@ -32,15 +32,15 @@ class Environment():
             if str(action).lower() == k:
                 reward = int(theta) * reward_
 
-        cur, e = state
-        edge = copy.deepcopy(e)
+        cur = state['node']
+        edge = deepcopy(state['edge'])
         if (cur, action) in self.gone_edge:
             edge[str(cur) + ' ' + str(action)] = edge.get(str(cur) + ' ' + str(action), 0) + 1
             edge = dict(sorted(edge.items()))
             reward //= (2**(edge[str(cur) + ' ' + str(action)]))
 
         self.gone_edge.add((cur, action))
-        next_state = [action, edge]
+        next_state = dict({'node': action, 'edge': edge})
 
         done = True
         if len(self.get_avail_action(next_state)):

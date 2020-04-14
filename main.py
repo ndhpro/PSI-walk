@@ -1,5 +1,6 @@
 import sys
 import time
+from copy import copy, deepcopy
 import networkx as nx
 import pandas as pd
 from numpy.random import choice
@@ -45,14 +46,13 @@ def update(num_episode):
             avail_action = env.get_avail_action(state)
 
             action = RL.choose_action(str(state), avail_action)
-
             state_, reward, done = env.step(action, state)
 
             cost += RL.learn(str(state), action,
                              reward, str(state_))
 
-            state = state_
-            # print(state[0], end=' ')
+            state = deepcopy(state_)
+            # print(state['node'], end=' ')
 
             i += 1
             if i == 50:
@@ -75,7 +75,7 @@ def get_final_path():
     state = env.reset()
     i = 0
     done = 0
-    print('\33[91m')
+    print()
     while not done and i < 50:
         avail_actions = env.get_avail_action(state)
         try:
@@ -85,12 +85,12 @@ def get_final_path():
             break
         action = state_action.idxmax()
         state, _, done = env.step(action, state)
-        print(state[0], end=' ')
-        if (state[0], state[0]) in G.edges():
-            print(state[0], end=' ')
+        print(state['node'], end=' ')
+        if (state['node'], state['node']) in G.edges():
+            print(state['node'], end=' ')
         i += 1
-    print('\33[00m')
-    print(round((time.time()-t), 2))
+    print()
+    print(i, round((time.time()-t), 2))
 
     RL.plot_results(steps, all_costs)
 
