@@ -102,7 +102,7 @@ def run_file(path, keys):
     all_costs = []
 
     t = time.time()
-    n_epoch = min(1000, max(500, 2*len(G.edges())))
+    n_epoch = 1000
     update(n_epoch, env, RL, steps, all_costs)
     print(round((time.time()-t), 2))
 
