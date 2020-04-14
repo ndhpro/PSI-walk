@@ -47,6 +47,7 @@ def update(num_episode):
             action = RL.choose_action(str(state), avail_action)
 
             state_, reward, done = env.step(action, state)
+
             cost += RL.learn(str(state), action,
                              reward, str(state_))
 
@@ -54,7 +55,7 @@ def update(num_episode):
             # print(state[0], end=' ')
 
             i += 1
-            if i == 20:
+            if i == 50:
                 break
         all_costs.append(cost)
         steps.append(i)
@@ -75,9 +76,13 @@ def get_final_path():
     i = 0
     done = 0
     print('\33[91m')
-    while not done and i < 20:
+    while not done and i < 50:
         avail_actions = env.get_avail_action(state)
-        state_action = Q.loc[str(state), avail_actions]
+        try:
+            state_action = Q.loc[str(state), avail_actions]
+        except Exception as e:
+            print('\n', e)
+            break
         action = state_action.idxmax()
         state, _, done = env.step(action, state)
         print(state[0], end=' ')
