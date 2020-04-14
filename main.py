@@ -52,16 +52,16 @@ def update(num_episode):
                              reward, str(state_))
 
             state = deepcopy(state_)
-            # print(state['node'], end=' ')
+            print(state['node'], end=' ')
 
             i += 1
             if i == 50:
                 break
         all_costs.append(cost)
         steps.append(i)
-        # print()
+        print()
 
-        if (e+1) % (num_episode//10) == 0:
+        if (e+1) % (num_episode//9) == 0:
             RL.reduce_epsilon()
 
 
