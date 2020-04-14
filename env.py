@@ -6,12 +6,12 @@ import copy
 class Environment():
     def __init__(self, graph, root, keys):
         self.graph = graph
-        self.init_state = [root, list()]
-        self.gone_edge = list()
+        self.init_state = [root, dict()]
+        self.gone_edge = set()
         self.keys = keys
 
     def reset(self):
-        self.gone_edge = list()
+        self.gone_edge = set()
         return self.init_state
 
     def get_avail_action(self, state):
@@ -35,11 +35,11 @@ class Environment():
         cur, e = state
         edge = copy.deepcopy(e)
         if (cur, action) in self.gone_edge:
-            reward //= 2
-            edge.append(str(cur) + ' ' + str(action))
-            edge.sort()
+            edge[str(cur) + ' ' + str(action)] = edge.get(str(cur) + ' ' + str(action), 0) + 1
+            edge = dict(sorted(edge.items()))
+            reward //= (2**(edge[str(cur) + ' ' + str(action)]))
 
-        self.gone_edge.append((cur, action))
+        self.gone_edge.add((cur, action))
         next_state = [action, edge]
 
         done = True
