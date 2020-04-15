@@ -4,11 +4,10 @@ from copy import copy, deepcopy
 
 
 class Environment():
-    def __init__(self, graph, root, keys):
+    def __init__(self, graph, root):
         self.graph = graph
         self.init_state = dict({'node': root, 'edge': dict()})
         self.gone_edge = set()
-        self.keys = keys
 
     def reset(self):
         self.gone_edge = set()
@@ -25,14 +24,15 @@ class Environment():
         return ret
 
     def step(self, action, state):
-        freq = 5 * self.graph.out_degree(action) / (len(self.graph.edges()))
-        reward_ = 1 / (1 + np.exp(-freq))
-        reward = reward_
+        if (action, action) in self.graph.edges():
+            n_loops = len(self.graph.get_edge_data(action, action))
+        else: 
+            n_loops = 0
+
+        reward = 2 * self.graph.out_degree(action) - n_loops
         tmp = str(action).lower()
-        for key in self.keys:
-            k, theta = key.split()
-            if tmp == k:
-                reward = int(theta) * (1+reward_)
+        if tmp.startswith('_') or self.graph.out_degree(action) == n_loops:
+            reward = 1
 
         cur = state['node']
         edge = deepcopy(state['edge'])

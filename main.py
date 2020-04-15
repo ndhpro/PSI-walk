@@ -5,6 +5,7 @@ import networkx as nx
 import pandas as pd
 from env import Environment
 from agent import QLearningTable
+from pathlib import Path
 
 
 def load_graph(path):
@@ -64,9 +65,7 @@ def update(num_episode, env, RL, steps, all_costs):
 
 
 def get_final_path(path, env, RL, steps, all_costs):
-    # f_name = path[path.rfind('\\')+1:] #windows
-    f_name = path[path.rfind('/')+1:]  # linux
-    f_path = 'results/' + f_name
+    f_path = Path('results/') / (Path(path).stem + '.txt')
     Q = RL.get_q_table()
     # print('Length of full Q-table =', len(Q.index))
     # print('Full Q-table:')
@@ -94,28 +93,25 @@ def get_final_path(path, env, RL, steps, all_costs):
 
 
 # Main
-def run_file(path, keys):
+def run_file(path):
     print(path)
     G = load_graph(path)
     if len(G.edges()) == 0:
         print('Graph has no edge')
         return
-    print(len(G.nodes()), len(G.edges()), end=' ')
-    env = Environment(graph=G, root='ndhpro', keys=keys)
+    # print(len(G.nodes()), len(G.edges()), end=' ')
+    env = Environment(graph=G, root='ndhpro')
     RL = QLearningTable(actions=G.nodes())
     steps = []
     all_costs = []
 
-    t = time.time()
+    # t = time.time()
     n_epoch = 1000
     update(n_epoch, env, RL, steps, all_costs)
-    print(round((time.time()-t), 2))
+    # print(round((time.time()-t), 2))
 
     get_final_path(path, env, RL, steps, all_costs)
 
 
 if __name__ == "__main__":
-    with open('key.txt', 'r') as f:
-        lines = f.readlines()
-    keys = [str(line)[:-1] for line in lines]
-    run_file(sys.argv[1], keys)
+    run_file(sys.argv[1])
