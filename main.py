@@ -63,7 +63,8 @@ def update(num_episode, env, RL, steps, all_costs):
 
 
 def get_final_path(path, env, RL, steps, all_costs):
-    f_name = path[path.rfind('\\')+1:]
+    # f_name = path[path.rfind('\\')+1:] #windows
+    f_name = path[path.rfind('/')+1:] #linux
     f_path = 'results/' + f_name
     Q = RL.get_q_table()
     # print('Length of full Q-table =', len(Q.index))
