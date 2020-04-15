@@ -25,8 +25,9 @@ def load_graph(path):
             child.add(v)
     start_edge = list()
     for n in G.nodes():
-        if n not in child:
+        if len(child) == len(G.nodes) or n not in child:
             start_edge.append(('ndhpro', n))
+
     G.add_edges_from(start_edge)
 
     return G
@@ -63,7 +64,8 @@ def update(num_episode, env, RL, steps, all_costs):
 
 
 def get_final_path(path, env, RL, steps, all_costs):
-    f_name = path[path.rfind('\\')+1:]
+    # f_name = path[path.rfind('\\')+1:] #windows
+    f_name = path[path.rfind('/')+1:] #linux
     f_path = 'results/' + f_name
     Q = RL.get_q_table()
     # print('Length of full Q-table =', len(Q.index))
