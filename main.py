@@ -25,8 +25,9 @@ def load_graph(path):
             child.add(v)
     start_edge = list()
     for n in G.nodes():
-        if n not in child:
+        if len(child) == len(G.nodes) or n not in child:
             start_edge.append(('ndhpro', n))
+
     G.add_edges_from(start_edge)
 
     return G
