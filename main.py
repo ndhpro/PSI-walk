@@ -65,7 +65,7 @@ def update(num_episode, env, RL, steps, all_costs):
 
 def get_final_path(path, env, RL, steps, all_costs):
     # f_name = path[path.rfind('\\')+1:] #windows
-    f_name = path[path.rfind('/')+1:] #linux
+    f_name = path[path.rfind('/')+1:]  # linux
     f_path = 'results/' + f_name
     Q = RL.get_q_table()
     # print('Length of full Q-table =', len(Q.index))
@@ -97,6 +97,9 @@ def get_final_path(path, env, RL, steps, all_costs):
 def run_file(path, keys):
     print(path)
     G = load_graph(path)
+    if len(G.edges()) == 0:
+        print('Graph has no edge')
+        return
     print(len(G.nodes()), len(G.edges()), end=' ')
     env = Environment(graph=G, root='ndhpro', keys=keys)
     RL = QLearningTable(actions=G.nodes())
