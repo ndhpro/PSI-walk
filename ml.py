@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import GridSearchCV, train_test_split
 from sklearn.feature_selection import SelectFromModel
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import StandardScaler, Normalizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import LinearSVC, SVC
 from sklearn.tree import DecisionTreeClassifier
@@ -27,7 +27,7 @@ for folder in folders:
         for name in files:
             try:
                 with open(root_path/folder/name, 'r') as f:
-                    doc = f.read()
+                    doc = f.read().replace('\n', ' ')[:-1]
                 corpus.append(doc)
                 if 'benign' in folder:
                     labels.append(1)
@@ -38,6 +38,17 @@ for folder in folders:
 
 corpus, index = np.unique(corpus, axis=0, return_index=True)
 labels = np.array(labels)[index]
+
+# Saving for analysis
+with open('corpus_malware.txt', 'w') as f:
+    print(len(corpus[labels==0]))
+    for i in corpus[labels==0]:
+        f.write(str(i) + '\n')
+
+with open('corpus_benign.txt', 'w') as f:
+    print(len(corpus[labels==1]))
+    for i in corpus[labels==1]:
+        f.write(str(i) + '\n')
 
 X_train, X_test, y_train, y_test = train_test_split(
     corpus, labels, test_size=0.3, random_state=42)
@@ -54,6 +65,8 @@ model = SelectFromModel(
 X_train = model.transform(X_train).A
 X_test = model.transform(X_test).A
 
+np.savez('data_ml', X_train, X_test, y_train, y_test)
+
 # Normalizing data
 scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
@@ -64,12 +77,12 @@ print(X_train.shape, X_test.shape)
 names = ['Logistic Regression', 'SVM', 'Decision Tree',
          'kNN', 'Naive Bayes', 'Random Forest']
 models = [
-    LogisticRegression(random_state=42, n_jobs=-1),
-    SVC(random_state=42),
-    DecisionTreeClassifier(random_state=42),
+    LogisticRegression(random_state=42, n_jobs=-1, class_weight='balanced'),
+    SVC(random_state=42, class_weight='balanced'),
+    DecisionTreeClassifier(random_state=42, class_weight='balanced'),
     KNeighborsClassifier(n_jobs=-1),
     GaussianNB(),
-    RandomForestClassifier(random_state=42, n_jobs=-1)
+    RandomForestClassifier(random_state=42, n_jobs=-1, class_weight='balanced')
 ]
 hyperparams = [
     {},
@@ -95,6 +108,11 @@ for name, model, hyper, color in zip(names, models, hyperparams, colors):
     fpr, tpr, thresholds = metrics.roc_curve(y_test, y_hat)
     auc = metrics.roc_auc_score(y_test, y_hat)
     plt.plot(fpr, tpr, color=color, label='%s (AUC = %0.3f)' % (name, auc))
+
+    # y_hat = clf.predict(X_train)
+    # print(metrics.classification_report(y_train, y_hat))
+    # print(metrics.confusion_matrix(y_train, y_hat))
+    # print()
 
 # Drawing ROC curve
 plt.xlim([0.0, 1.0])

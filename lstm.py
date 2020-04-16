@@ -13,6 +13,7 @@ from keras.layers import Dense, Embedding, LSTM, SpatialDropout1D
 
 X = np.load('corpus.npy')
 labels = np.load('labels.npy')
+print('Corpus size: ', X.shape)
 vocab_size = 12910
 
 model = Sequential()
