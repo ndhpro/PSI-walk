@@ -4,11 +4,11 @@ from keras.layers import Dense, Embedding, LSTM, SpatialDropout1D
 from keras.models import Sequential
 from keras.preprocessing.sequence import pad_sequences
 from keras.preprocessing.text import Tokenizer
-from sklearn.model_selection import GridSearchCV, train_test_split
+from sklearn.model_selection import train_test_split
+from sklearn import metrics
 from matplotlib import pyplot as plt
 import numpy as np
 from pathlib import Path
-
 
 # Loading corpus
 corpus = list()
@@ -28,7 +28,7 @@ tokenizer.fit_on_texts(corpus)
 X = tokenizer.texts_to_sequences(corpus)
 X = pad_sequences(X, maxlen=100)
 vocab_size = len(tokenizer.word_index) + 1
-print(vocab_size)
+print(f'Vocab size: {vocab_size}, Unique nodes:', end=' ')
 unique_word = 0
 for k in tokenizer.word_docs:
     if tokenizer.word_docs[k] == 1:
@@ -43,16 +43,19 @@ model.add(LSTM(units=16, dropout=0.2, recurrent_dropout=0.2))
 model.add(Dense(1, activation='sigmoid'))
 model.compile(loss='binary_crossentropy',
               optimizer='adam', metrics=['accuracy'])
-# print(model.summary())
+print(model.summary())
 
 X_train, X_test, y_train, y_test = train_test_split(
     X, labels, test_size=0.15, random_state=42)
-print(X_train.shape, X_test.shape)
+print('Train on', X_train.shape, ', test on', X_test.shape)
 
-batch_size = 128
-model.fit(X_train, y_train, epochs=10, batch_size=batch_size,
+batch_size = 512
+history = model.fit(X_train, y_train, epochs=20, batch_size=batch_size,
           verbose=2, validation_split=3/17)
 
-score, acc = model.evaluate(X_test, y_test, verbose=2, batch_size=batch_size)
-print("test loss: %.4f" % (score))
-print("accuracy: %.4f" % (acc))
+print()
+y_pred = model.predict(X_test, verbose=1, batch_size=batch_size)
+y_pred = [y >= 0.5 for y in y_pred]
+
+print(metrics.classification_report(y_test, y_pred, digits=4))
+print(metrics.confusion_matrix(y_test, y_pred))

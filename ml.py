@@ -7,11 +7,12 @@ from sklearn.svm import LinearSVC, SVC
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import StandardScaler, Normalizer
 from sklearn.feature_selection import SelectFromModel
-from sklearn.model_selection import GridSearchCV, train_test_split
+from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 from matplotlib import pyplot as plt
 import numpy as np
 from pathlib import Path
+import time
 
 
 # Loading corpus
@@ -70,14 +71,18 @@ hyperparams = [
 colors = ['blue', 'orange', 'green', 'red', 'purple', 'brown', 'pink', 'gray']
 
 for name, model, hyper, color in zip(names, models, hyperparams, colors):
-    clf = GridSearchCV(model, param_grid=hyper, cv=5, n_jobs=-1)
     print(name)
+    clf = model
 
+    t = time.time()
     clf.fit(X_train, y_train)
+    print(time.time() - t)
 
+    t = time.time()
     y_hat = clf.predict(X_test)
+    print(time.time() - t)
 
-    print(metrics.classification_report(y_test, y_hat))
+    print(metrics.classification_report(y_test, y_hat, digits=4))
     print(metrics.confusion_matrix(y_test, y_hat))
     print()
 
