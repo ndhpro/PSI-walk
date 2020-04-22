@@ -8,14 +8,21 @@ from networkx.drawing.nx_agraph import to_agraph
 
 def run(fpath):
     G = nx.MultiDiGraph()
-    G = nx.read_gexf(fpath)
+    with open(path, 'r') as f:
+        lines = f.readlines()
 
-    plt.figure(figsize=(5, 5))
+    for line in lines[2:]:
+        line = line.strip()
+        if ' ' in line and line.find(' ') == line.rfind(' '):
+            (u, v) = line.split(' ')
+            G.add_edge(u, v)
+
+    plt.figure(figsize=(7, 7))
     # pos = nx.planar_layout(G)
     node_color = [6 + int(G.degree(n)) for n in G.nodes()]
 
     nx.draw_networkx(G, node_size=100, node_color=node_color,
-                     with_labels=True, font_size=9, edge_color='.4', cmap=plt.cm.get_cmap('Reds'), vmin=0)
+                     with_labels=True, edge_color='.4', cmap=plt.cm.get_cmap('Reds'), vmin=0)
 
     plt.axis('off')
     plt.tight_layout()
