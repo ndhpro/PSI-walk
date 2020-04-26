@@ -1,5 +1,5 @@
 import os
-# os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 from pathlib import Path
 import numpy as np
 from matplotlib import pyplot as plt
@@ -59,7 +59,7 @@ print()
 y_pred = model.predict(X_test, verbose=1, batch_size=batch_size)
 y_pred = [y >= 0.5 for y in y_pred]
 
-# model.save('lstm.h5')
+# model.save('output/model.h5')
 
 print(metrics.classification_report(y_test, y_pred, digits=4))
 print()
@@ -75,7 +75,7 @@ ax[1].plot(history.history['accuracy'], color='b', label="Training accuracy")
 ax[1].plot(history.history['val_accuracy'],
            color='r', label="Validation accuracy")
 legend = ax[1].legend(loc='best', shadow=True)
-# plt.savefig('training_history.png')
+# plt.savefig('model/training_history.png')
 
 
 def plot_confusion_matrix(cm, classes,
@@ -109,7 +109,7 @@ def plot_confusion_matrix(cm, classes,
 
 
 plot_confusion_matrix(metrics.confusion_matrix(y_test, y_pred), classes=[0, 1])
-# plt.savefig('confusion_matrix.png')
+# plt.savefig('model/confusion_matrix.png')
 
 # Drawing ROC curve
 plt.figure()
@@ -123,4 +123,4 @@ plt.xlabel('1-Specificity(False Positive Rate)')
 plt.ylabel('Sensitivity(True Positive Rate)')
 plt.title('Receiver Operating Characteristic')
 plt.legend()
-# plt.savefig('LSTM.png')
+# plt.savefig('output/roc.png')

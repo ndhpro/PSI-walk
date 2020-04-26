@@ -1,1 +1,1 @@
-# PSI path finding by Reinforcement Learning
+# PSI-walk
