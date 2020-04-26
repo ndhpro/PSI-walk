@@ -1,14 +1,14 @@
 import os
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+# os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 from pathlib import Path
 import numpy as np
 from matplotlib import pyplot as plt
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
-from keras.preprocessing.text import Tokenizer
-from keras.preprocessing.sequence import pad_sequences
-from keras.models import Sequential
-from keras.layers import Dense, Embedding, LSTM, SpatialDropout1D
+from tensorflow.keras.preprocessing.text import Tokenizer
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Embedding, LSTM, SpatialDropout1D
 import itertools
 
 # Loading corpus
@@ -23,6 +23,7 @@ with open(Path('corpus/benign.txt'), 'r') as f:
     lines = f.readlines()
 corpus.extend([data[:-1] for data in lines])
 labels.extend([1] * len(lines))
+labels = np.array(labels)
 
 tokenizer = Tokenizer(filters='')
 tokenizer.fit_on_texts(corpus)
@@ -58,7 +59,7 @@ print()
 y_pred = model.predict(X_test, verbose=1, batch_size=batch_size)
 y_pred = [y >= 0.5 for y in y_pred]
 
-model.save('lstm.h5')
+# model.save('lstm.h5')
 
 print(metrics.classification_report(y_test, y_pred, digits=4))
 print()
@@ -74,7 +75,7 @@ ax[1].plot(history.history['accuracy'], color='b', label="Training accuracy")
 ax[1].plot(history.history['val_accuracy'],
            color='r', label="Validation accuracy")
 legend = ax[1].legend(loc='best', shadow=True)
-plt.savefig('training_history.png')
+# plt.savefig('training_history.png')
 
 
 def plot_confusion_matrix(cm, classes,
@@ -108,4 +109,18 @@ def plot_confusion_matrix(cm, classes,
 
 
 plot_confusion_matrix(metrics.confusion_matrix(y_test, y_pred), classes=[0, 1])
-plt.savefig('confusion_matrix.png')
+# plt.savefig('confusion_matrix.png')
+
+# Drawing ROC curve
+plt.figure()
+fpr, tpr, thresholds = metrics.roc_curve(y_test, y_pred)
+auc = metrics.roc_auc_score(y_test, y_pred)
+plt.plot(fpr, tpr, color='blue', label='AUC = %0.4f' % (auc))
+plt.xlim([0.0, 1.0])
+plt.ylim([0.0, 1.05])
+plt.plot([0, 1], [0, 1], 'r--')
+plt.xlabel('1-Specificity(False Positive Rate)')
+plt.ylabel('Sensitivity(True Positive Rate)')
+plt.title('Receiver Operating Characteristic')
+plt.legend()
+# plt.savefig('LSTM.png')
