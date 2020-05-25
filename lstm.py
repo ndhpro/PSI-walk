@@ -5,21 +5,21 @@ import numpy as np
 from matplotlib import pyplot as plt
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Embedding, LSTM, SpatialDropout1D
+from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.sequence import pad_sequences
+from keras.models import Sequential
+from keras.layers import Dense, Embedding, LSTM, SpatialDropout1D
 import itertools
 
 # Loading corpus
 corpus = list()
 labels = list()
-with open(Path('corpus/malware.txt'), 'r') as f:
+with open(Path('corpusv2/malware.txt'), 'r') as f:
     lines = f.readlines()
 corpus.extend([data[:-1] for data in lines])
 labels.extend([0] * len(lines))
 
-with open(Path('corpus/benign.txt'), 'r') as f:
+with open(Path('corpusv2/benign.txt'), 'r') as f:
     lines = f.readlines()
 corpus.extend([data[:-1] for data in lines])
 labels.extend([1] * len(lines))
@@ -48,18 +48,18 @@ model.compile(loss='binary_crossentropy',
 print(model.summary())
 
 X_train, X_test, y_train, y_test = train_test_split(
-    X, labels, test_size=0.15, random_state=42)
+    X, labels, test_size=0.1, random_state=42)
 print('Train on', X_train.shape, ', test on', X_test.shape)
 
 batch_size = 512
 history = model.fit(X_train, y_train, epochs=20, batch_size=batch_size,
-                    verbose=2, validation_split=3/17)
+                    verbose=2, validation_split=1/9)
 
 print()
 y_pred = model.predict(X_test, verbose=1, batch_size=batch_size)
 y_pred = [y >= 0.5 for y in y_pred]
 
-# model.save('output/model.h5')
+model.save('output/model_v2.h5')
 
 print(metrics.classification_report(y_test, y_pred, digits=4))
 print()
@@ -75,7 +75,7 @@ ax[1].plot(history.history['accuracy'], color='b', label="Training accuracy")
 ax[1].plot(history.history['val_accuracy'],
            color='r', label="Validation accuracy")
 legend = ax[1].legend(loc='best', shadow=True)
-# plt.savefig('model/training_history.png')
+plt.savefig('output/training_history_v2.png')
 
 
 def plot_confusion_matrix(cm, classes,
@@ -109,7 +109,7 @@ def plot_confusion_matrix(cm, classes,
 
 
 plot_confusion_matrix(metrics.confusion_matrix(y_test, y_pred), classes=[0, 1])
-# plt.savefig('model/confusion_matrix.png')
+plt.savefig('output/confusion_matrix_v2.png')
 
 # Drawing ROC curve
 plt.figure()
@@ -123,4 +123,23 @@ plt.xlabel('1-Specificity(False Positive Rate)')
 plt.ylabel('Sensitivity(True Positive Rate)')
 plt.title('Receiver Operating Characteristic')
 plt.legend()
-# plt.savefig('output/roc.png')
+plt.savefig('output/roc_v2.png')
+
+# test zeroday
+zeroday = list()
+for _, _, files in os.walk(Path('datav2/zeroday/')):
+    for file_ in files:
+        file_path = Path('datav2/zeroday/') / file_
+        with open(file_path, 'r') as f:
+            line = f.read()
+            line = line.replace('\n', ' ').strip()
+            zeroday.append(line)
+X_0 = tokenizer.texts_to_sequences(zeroday)
+X_0 = pad_sequences(X_0, maxlen=100)
+y_pred = model.predict(X_0, verbose=1, batch_size=batch_size)
+print(np.hstack([np.array(files).reshape(-1,1),y_pred]))
+y_pred = [y >= 0.5 for y in y_pred]
+y_true = [0] * len(y_pred)
+print(metrics.classification_report(y_true, y_pred, digits=4))
+print()
+print(metrics.confusion_matrix(y_true, y_pred))
