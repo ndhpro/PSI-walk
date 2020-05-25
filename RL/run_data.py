@@ -20,11 +20,15 @@ if __name__ == "__main__":
 
     for line in malware['md5'].values[:600]:
         continue_fl = False
-        for _, dirs, _ in os.walk('final_report'):
-            for dir in dirs:
-                if str(file_name) in dir:
-                    print('Found final report!')
+        for _, _, files in os.walk('results/'):
+            for file_ in files:
+                if line in file_:
+                    print('Found results!')
                     continue_fl = True
 
         if not continue_fl:
-            run_file(sys.argv[1]+'psi_graph-malwre/'+line+'.txt')
+            path = sys.argv[1]+'psi_graph-malwre/'+line+'.txt'
+            if os.path.exists(path):
+                run_file(path)
+            else:
+                print('PSI not exists')
