@@ -1,0 +1,1420 @@
+start sub_F45C sub_F45C sub_E8E8 sub_E8E8 1
+main main HTTPSCANNER_SCanner_init HTTPSCANNER_SCanner_init socket 1
+main eapd_wksp_auto_config eapd_wksp_auto_config nas_app_enabled nas_app_enabled 0
+processCmd processCmd StartTheCheats StartTheCheats fcntl fcntl64 __errno_location 1
+bruteforce_login bruteforce_login read_char_and_nego_process read_char_and_nego_process nego nego select __errno_location 1
+main main processCmd processCmd StartTheLelz StartTheLelz connect 1
+main main ParseASUSDiscoveryPackage ParseASUSDiscoveryPackage PROCESS_UNPACK_GET_INFO PROCESS_UNPACK_GET_INFO 0
+main main processCmd processCmd StartTheLelz StartTheLelz HackerPrint HackerPrint send __errno_location 1
+do_xfrm_state do_xfrm_state sub_4169FC sub_4169FC xfrm_id_parse xfrm_id_parse get_prefix get_prefix get_prefix_1 get_prefix_1 get_addr_1 get_addr_1 0
+processCmd processCmd StartTheLelz StartTheLelz fcntl fcntl64 __errno_location 1
+sub_41A108 sub_41A108 sub_419FA0 sub_419FA0 sub_419990 sub_419990 sub_41948C sub_41948C sprint_nip6 sprint_nip6 sub_4064E4 sub_4064E4 0
+main main itdb_callout_set_ipod_properties itdb_callout_set_ipod_properties sub_404220 sub_404220 sub_403FE0 sub_403FE0 sub_403CA0 sub_403CA0 sub_403B20 sub_403B20 0
+enc_main enc_main load_config load_config 0
+main main sub_4047F0 sub_4047F0 sub_407254 sub_407254 sub_406550 sub_406550 sub_409F8C sub_409F8C sub_407D28 sub_407D28 sub_4078D8 sub_4078D8 0
+main main FindAllApp FindAllApp ctrlpt ctrlpt process_device_response process_device_response store_description store_description 0
+start sub_1000B440 sub_1000B440 1
+main main sub_400BA4 sub_400BA4 0
+main main sub_4047DC sub_4047DC dhcp6_get_options dhcp6_get_options sub_40A8A4 sub_40A8A4 dhcp6_add_listval dhcp6_add_listval dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf safefile safefile dprintf dprintf 0
+main main Process_upnphttp Process_upnphttp sub_405C64 sub_405C64 ExecuteSoapAction ExecuteSoapAction sub_407EB0 sub_407EB0 SendRespAndClose_upnphttp SendRespAndClose_upnphttp sub_405AA0 sub_405AA0 0
+main main processCmd processCmd StartTheLelz StartTheLelz sockprintf sockprintf print print 1
+main main auth_check_options auth_check_options sub_41C6F8 sub_41C6F8 sub_41C0D4 sub_41C0D4 getword getword die die print_link_stats print_link_stats 0
+start sub_13B98 sub_13B98 1
+gethostbyname realloc realloc malloc malloc _int_malloc _int_malloc sysmalloc sysmalloc __malloc_assert __malloc_assert __fxprintf __fxprintf vfprintf vfprintf strerror_r strerror_r dcgettext __dcigettext __dcigettext malloc malloc _int_malloc _int_malloc sysmalloc sysmalloc _int_free _int_free __malloc_assert __malloc_assert fflush 1
+main if_wan_phyconnected chk_proto check_ppp_exist 0
+start sub_EC04 sub_EC04 1
+wpsm_wksp_mainloop wpsm_wksp_dispatch wpsm_wksp_dispatch wpsm_check_UI wpsm_check_UI sub_408BBC sub_408BBC sub_40773C sub_40773C wps_wl_set_wps_ie wps_wl_set_wps_ie wps_del_wps_ie wps_del_wps_ie 0
+main main sub_400860 sub_400860 0
+detectWAN_arp is_phyconnected 0
+main main processCmd processCmd MiraiScanner MiraiScanner RemoveTempDirs RemoveTempDirs system system signal __sigaddset 1
+do_iplink do_iplink ipaddr_list_or_flush ipaddr_list_or_flush sub_430800 sub_430800 rtnl_rtscope_n2a rtnl_rtscope_n2a sub_437430 sub_437430 0
+sub_400E68 usage usage 0
+main main insert_user_in_smbpasswd insert_user_in_smbpasswd 0
+start sub_12FE4 sub_12FE4 1
+main main processCmd processCmd SendBO2 SendBO2 sendto 1
+main main SetMtrEntry SetMtrEntry 0
+main table_init table_init 1
+main main processCmd processCmd StartTheLelz StartTheLelz select 1
+sub_207C8 configparser configparser sub_22618 sub_22618 sub_219D8 sub_219D8 array_insert_unique array_insert_unique 0
+mtd_get_dev_info legacy_get_dev_info legacy_get_dev_info proc_parse_start proc_parse_start xmalloc_3 xmalloc_3 0
+SSHScanner SSHScanner RemoveTempDirs RemoveTempDirs system system signal sigaction __syscall_rt_sigaction __errno_location 1
+config_switch generate_switch_para generate_switch_para switch_gen_config switch_gen_config _switch_gen_config _switch_gen_config 0
+sub_1000FA00 _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+main main sub_403D58 sub_403D58 sub_401CCC sub_401CCC wmlog_dumphexasc wmlog_dumphexasc 0
+TelnetScanner TelnetScanner sockprintf print print printi prints printchar write __errno_location 1
+sub_433A5C sub_433A5C mxmlElementSetAttr mxmlElementSetAttr mxml_error mxml_error 0
+main scanner_init scanner_init socket 1
+start sub_BF4C sub_BF4C sub_A9B8 sub_A9B8 1
+createPlainEmail printHeaders printHeaders printToHeaders printToHeaders formatEmailAddr formatEmailAddr encodeUtf8String encodeUtf8String mimeQpEncodeString mimeQpEncodeString qpStdout qpStdout dsbPrintf dsbPrintf dsbResize dsbResize xrealloc xrealloc 0
+SSHScanner SSHScanner sockprintf sockprintf print print printi prints printchar write __errno_location 1
+main main sub_402014 sub_402014 UPNP_AddAnyPortMapping UPNP_AddAnyPortMapping simpleUPnPcommand simpleUPnPcommand simpleUPnPcommand2 simpleUPnPcommand2 getHTTPResponse getHTTPResponse receivedata receivedata 0
+sub_1000F9F8 _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+start sub_DE54 sub_EA5C sub_EA5C 1
+_ppfs_init sub_109B8 sub_109B8 memcpy 1
+sub_4184F0 sub_4184F0 sub_417D48 sub_417D48 get_prefix_1 get_prefix_1 get_addr_1 get_addr_1 dnet_pton dnet_pton 0
+start sub_8048199 sub_804836A 1
+start sub_E918 sub_E918 sub_DAB4 sub_DAB4 sub_B3CC sub_B3CC sub_93C0 sub_93C0 sub_8F4C sub_8F4C 1
+_ftext sub_4012A8 sub_4012A8 sub_401260 sub_401260 0
+processCmd kill __errno_location 1
+main main options_from_file options_from_file sub_23434 sub_23434 int_option int_option option_error option_error vslprintf vslprintf 0
+findARandomIP HackerScan1 HackerScan1 inet_addr inet_aton 1
+main main timeout timeout update_interfaces update_interfaces int_create int_create dolog dolog 0
+start sub_D9D8 sub_D9D8 sub_CC9C sub_CC9C sub_A56C sub_A56C sub_99C0 sub_99C0 1
+RemoveTMP RemoveTMP system system signal sigaction memcpy 1
+main main processCmd processCmd StartTheLelz StartTheLelz echoLoader echoLoader socket_connect socket_connect 1
+_ZN6vectorIjEC2Ej _ZN6vectorIjEC2Ej 0
+main main processCmd processCmd StartTheLelz StartTheLelz infectlol infectlol system system do_system do_system sigaction memcpy 1
+start sub_E0AC sub_EE18 sub_EE18 sub_EB08 sub_EB08 1
+main main sub_400E58 sub_400E58 0
+main main processCmd processCmd system system signal sigaction memcpy 1
+main main processCmd processCmd TelnetScanner TelnetScanner RemoveTempDirs RemoveTempDirs system signal sigaction memcpy 1
+main main getcwd getpagesize 1
+main main sub_403B70 sub_403B70 sub_4038A4 sub_4038A4 sub_4028D4 sub_4028D4 sub_402BD4 sub_402BD4 sub_4028D4 sub_4028D4 sub_402BD4 sub_402BD4 sub_4028D4 sub_4028D4 sub_402CD4 sub_402CD4 sub_4028D4 sub_4028D4 sub_402CD4 sub_402CD4 sub_4028D4 sub_4028D4 sub_402BD4 sub_402BD4 sub_4028D4 sub_4028D4 sub_4027AC sub_4027AC sub_40284C sub_40284C tap_bring_down tap_bring_down 0
+scanner_init scanner_init consume_user_prompt consume_user_prompt 1
+sub_1D604 sub_1D604 sub_1B964 sub_1B964 sub_13428 sub_13428 sub_9238 sub_9238 print print 1
+sub_41D248 sub_41D248 ej_wl_status ej_wl_status wf_chspec_ntoa wf_chspec_ntoa 0
+main main processCmd processCmd CleanDevice CleanDevice system system signal sigaction __errno_location 1
+_ftext _ftext sub_401020 sub_401020 0
+main main scanner_init scanner_init close 1
+main main readArguments readArguments readConfigFile readConfigFile ReadParseParam ReadParseParam 0
+StartTheLelz StartTheLelz malloc malloc __malloc_consolidate sysconf sysconf nprocessors_onln nprocessors_onln __GI_config_open __GI_config_open calloc malloc malloc __malloc_consolidate abort raise 1
+_ftext _ftext sub_401658 sub_401658 sub_401500 sub_401500 0
+start sub_D710 sub_E31C sub_E31C 1
+main main sub_400E50 sub_400E50 sub_400D6C sub_400D6C 0
+ScannerCMD TelnetScanner TelnetScanner fcntl fcntl64 __errno_location 1
+main main processCmd processCmd StartTheLelz StartTheLelz infectlol infectlol system system wait4 __errno_location 1
+_ftext _ftext sub_400C00 sub_400C00 0
+hotplug_net hotplug_net start_wan_if start_wan_if start_firewall start_firewall filter_setting filter_setting start_pptpd start_pptpd get_broadcast get_broadcast 0
+start sub_FC54 sub_FC54 sub_E758 sub_E758 sub_AFB4 sub_AFB4 sub_8DA0 sub_8DA0 sub_8920 sub_8920 1
+_ftext _ftext sub_40183C sub_40183C sub_401760 sub_401760 0
+cncinput atol strtol 1
+_ftext _ftext sub_401860 sub_401860 0
+StartTheLelz StartTheLelz matchPrompt matchPrompt strlen 1
+start sub_F578 sub_F578 sub_1002C sub_1002C 1
+filecheck filecheck system system signal sigaction memcpy 1
+main main processCmd processCmd maps_rape maps_rape system system wait4 __errno_location 1
+start sub_DEF8 sub_DEF8 sub_D320 sub_D320 sub_AE80 sub_AE80 sub_9198 sub_9198 sub_8D24 sub_8D24 1
+start sub_10420 sub_10420 sub_EE50 sub_EE50 sub_AADC sub_AADC sub_102CC sub_102CC sub_13FB0 sub_13FB0 1
+sub_4060AC sub_4060AC dhcp6_get_options dhcp6_get_options sub_40B944 sub_40B944 dhcp6_add_listval dhcp6_add_listval my_dprintf my_dprintf 0
+start sub_81A4 sub_81A4 sub_B27C sub_B27C sub_3BB9C sub_3BB9C sub_38A10 sub_38A10 sub_375FC sub_375FC sub_40A00 sub_40A00 0
+main main sub_4011A4 sub_4011A4 sub_400F2C sub_400F2C 0
+main main sub_401684 sub_401684 0
+main main script_call script_call sub_408404 sub_408404 0
+main main sub_405218 sub_405218 sub_404E68 sub_404E68 0
+start sub_1000B5BC sub_1000B5BC 1
+main main sub_400A8C sub_400A8C 0
+hotplug_net hotplug_net start_wan_if start_wan_if wan_up wan_up start_firewall start_firewall filter_setting filter_setting start_pptpd start_pptpd write_chap_secret write_chap_secret 0
+asus_tty asus_tty init_3g_param init_3g_param sub_4952EC sub_4952EC 0
+sub_4079C0 sub_4079C0 sub_40BA00 sub_40BA00 _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+sub_409D50 sub_409D50 AdvertiseAndReply AdvertiseAndReply ServiceReply ServiceReply sub_4200F4 sub_4200F4 http_MakeMessage http_MakeMessage get_sdk_info get_sdk_info 0
+start sub_CD78 sub_CD78 sub_C4B4 sub_C4B4 sub_AAF4 sub_AAF4 sub_8A60 sub_8A60 1
+start sub_F2AC sub_F2AC sub_FC60 sub_FC60 1
+iptables_restore_main iptables_restore_main do_command4 do_command4 sub_40C09C sub_40C09C print_rule4 print_rule4 sub_40B4EC sub_40B4EC 0
+BeceemAPI_ProcessMessages BeceemAPI_ProcessMessages sub_416D58 sub_416D58 BeceemAPI_NetworkSearchRequest BeceemAPI_NetworkSearchRequest BeceemAPI_OpenDevice BeceemAPI_OpenDevice BeceemAPI_GetSSInfoRequest BeceemAPI_GetSSInfoRequest BeceemAPI_OpenDevice BeceemAPI_OpenDevice BeceemAPI_GetSSInfoRequest BeceemAPI_GetSSInfoRequest BeceemAPI_OpenDevice BeceemAPI_OpenDevice BeceemAPI_SetState BeceemAPI_SetState BeceemAPI_DecodeState BeceemAPI_DecodeState BeceemAPI_ProgramError BeceemAPI_ProgramError 0
+main main processCmd processCmd StartTheLelz StartTheLelz readUntil readUntil recv __errno_location 1
+do_iplink do_iplink ipaddr_list_or_flush ipaddr_list_or_flush sub_430890 sub_430890 rtnl_rtscope_n2a rtnl_rtscope_n2a sub_4374C0 sub_4374C0 0
+sub_80491B6 sub_80491B6 _ZN6vectorIjED2Ev 0
+main main processCmd processCmd SnoopDogg SnoopDogg send __errno_location 1
+sub_403B70 ntfs_attr_add ntfs_attr_add ntfs_attr_pwrite ntfs_attr_pwrite sub_433DC4 sub_433DC4 ntfs_attr_pwrite ntfs_attr_pwrite sub_433DC4 sub_433DC4 ntfs_attr_pwrite ntfs_attr_pwrite ntfs_compressed_pwrite ntfs_compressed_pwrite sub_43BDC0 sub_43BDC0 ntfs_malloc ntfs_malloc 0
+main main scanner_init fcntl 1
+main main sub_400830 sub_400830 0
+new_exp.constprop.3 malloc malloc arena_get2.part.3 arena_get2.part.3 __malloc_assert __malloc_assert __fxprintf __fxprintf vfwprintf vfwprintf free free _int_free _int_free munmap_chunk munmap_chunk __malloc_assert __malloc_assert __fxprintf __fxprintf vfprintf vfprintf free free _int_free _int_free munmap_chunk munmap_chunk munmap 1
+main main ProcessIncomingNATPMPPacket ProcessIncomingNATPMPPacket _upnp_delete_redir _upnp_delete_redir delete_redirect_and_filter_rules delete_redirect_and_filter_rules sub_413938 sub_413938 0
+main main sub_4016FC sub_4016FC sub_40142C sub_40142C 0
+start sub_EC00 sub_EC00 sub_DED4 sub_DED4 sub_AAD4 sub_AAD4 sub_9348 sub_9348 sub_8EC8 sub_8EC8 1
+main main processCmd processCmd maps_rape maps_rape system system signal sigaction memcpy 1
+start sub_13330 sub_13330 1
+main main read_opts read_opts sub_414F24 sub_414F24 sub_4148C8 sub_4148C8 sub_40E3B8 sub_40E3B8 sub_414F24 sub_414F24 sub_4148C8 sub_4148C8 sub_40E3B8 sub_40E3B8 sub_414F24 sub_414F24 sub_4148C8 sub_4148C8 sub_40E3B8 sub_40E3B8 sub_40DD40 sub_40DD40 0
+main main makestring makestring fgets _pthread_cleanup_pop_restore 1
+main main processCmd processCmd SendBO2 SendBO2 sockprintf sockprintf print print 1
+sub_1AE1C sub_1AE1C sub_19B78 sub_19B78 StartTheLelz StartTheLelz infectlol infectlol system system execl 1
+sub_400A14 sub_400A14 get_webdav_https_port get_webdav_https_port 0
+sub_10006614 _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+_ftext _ftext sub_40140C sub_40140C sub_4010E0 sub_4010E0 0
+main main cncinput cncinput atcp atcp socket __errno_location 1
+start sub_11E7C sub_11E7C sub_BF88 sub_BF88 1
+sub_407014 sub_407014 read_disk_data read_disk_data create_disk create_disk create_partition create_partition find_partition_label find_partition_label volume_id_probe_vfat volume_id_probe_vfat sub_407660 sub_407660 0
+start sub_11210 sub_E22C sub_E22C 1
+start sub_E92C 1
+processCmd scan scan select 1
+start sub_100069D0 sub_100069D0 1
+_ftext _ftext nvram_save_new nvram_save_new get_rand get_rand 0
+StartTheLelz StartTheLelz fcntl fcntl64 __errno_location 1
+TelnetScanner TelnetScanner 1
+main main processCmd processCmd ICMPFlood ICMPFlood system system signal sigaction __errno_location 1
+main main processCmd processCmd httphex httphex fork __errno_location 1
+wps_ui_process_msg wps_ui_process_msg wps_ie_set wps_ie_set wps_wl_set_wps_ie wps_wl_set_wps_ie wps_wl_del_wps_ie wps_wl_del_wps_ie 0
+sub_10003D88 _ZN6vectorIjEC2Ej 0
+main sub_4010C4 iw_in_addr iw_check_mac_addr_type 0
+botkiller botkiller system signal sigaction memcpy 1
+main main vsf_standalone_main vsf_standalone_main vsf_sysutil_setproctitle vsf_sysutil_setproctitle str_getbuf str_getbuf private_str_alloc_memchunk private_str_alloc_memchunk vsf_sysutil_malloc vsf_sysutil_malloc bug bug vsf_sysutil_activate_noblock vsf_sysutil_activate_noblock 0
+main main sockprintf malloc malloc __malloc_consolidate sysconf sysconf nprocessors_onln nprocessors_onln __GI_config_close free __malloc_consolidate sysconf sysconf nprocessors_onln nprocessors_onln __GI_config_read malloc malloc free __pthread_return_0 1
+sub_409D50 sub_409D50 AdvertiseAndReply AdvertiseAndReply ServiceReply ServiceReply sub_4200E4 sub_4200E4 http_MakeMessage http_MakeMessage get_sdk_info get_sdk_info 0
+telnetfindARandomIP HackerScan1 HackerScan1 inet_addr inet_aton 1
+main main processCmd processCmd xtcp xtcp strcoll 1
+sub_404BA0 sub_404BA0 is_private_ip is_private_ip get_src_ip get_src_ip nvram_get_mac_addr nvram_get_mac_addr 0
+sub_1002662C _ZN6vectorItEC2ERKS0_ 0
+main main processCmd processCmd TelnetScanner TelnetScanner RemoveTempDirs RemoveTempDirs system system fork __errno_location 1
+sub_40B958 sub_40B958 daap_response_songlist daap_response_songlist daap_add_song_entry daap_add_song_entry daap_free daap_free err_log err_log 0
+main main processCmd processCmd httphex httphex write __errno_location 1
+start sub_E0A0 sub_ECB4 sub_ECB4 1
+sub_10079674 sub_10077C54 sub_10077C54 _ZN6vectorIjED2Ev 0
+main main processCmd processCmd sendTCP sendTCP HackerScan2 HackerScan2 szprintf print print printi prints 1
+main main processCmd processCmd TelnetRep TelnetRep random_telnet random_telnet inet_addr inet_aton 1
+attack_app_http attack_app_http calloc malloc sbrk __init_brk _brk __errno_location 1
+sub_FD10 sub_FD10 sub_E7F8 sub_E7F8 sub_AFB4 sub_AFB4 sub_8DA0 sub_8DA0 print print 1
+main main sdp_process_vpd_page sdp_process_vpd_page sg_ll_inquiry sg_ll_inquiry sg_cmds_process_resp sg_cmds_process_resp sg_get_sense_str sg_get_sense_str sg_get_asc_ascq_str sg_get_asc_ascq_str 0
+sub_806AA10 ctor_001 ctor_001 sub_8053EA4 sub_8053EA4 sub_8053DA7 0
+start start sub_1F01C sub_1F01C sub_1EF70 sub_1EF70 1
+iptables_main do_command print_rule xtables_find_match xtables_malloc 0
+main main if_wan_phyconnected if_wan_phyconnected first_enter_repeater first_enter_repeater pre_rSetting pre_rSetting find_name_by_proc find_name_by_proc check_task check_task 0
+start sub_ACA4 sub_ACA4 sub_A9AC sub_A9AC sub_A3F4 sub_A3F4 1
+MiraiScanner MiraiScanner RemoveTempDirs RemoveTempDirs system system signal sigaction __syscall_rt_sigaction __errno_location 1
+start sub_E0A0 sub_E0A0 sub_ECA0 sub_ECA0 1
+log_sys_open open_logfile_or_pipe open_logfile_or_pipe log_error_write log_error_write buffer_append_long_hex buffer_append_long_hex buffer_prepare_append buffer_prepare_append 0
+main main connection_state_machine connection_state_machine http_response_prepare http_response_prepare config_patch_connection config_patch_connection config_check_cond config_check_cond sub_44B9F4 sub_44B9F4 sub_44A824 sub_44A824 sub_44B9F4 sub_44B9F4 sub_44A824 sub_44A824 sub_44B9F4 sub_44B9F4 sub_44A824 sub_44A824 log_error_write log_error_write buffer_append_long_hex buffer_append_long_hex buffer_prepare_append buffer_prepare_append 0
+sub_100E2D4C _ZN6vectorIjED2Ev 0
+_ftext _ftext sub_40309C sub_40309C sub_402610 sub_402610 sub_4041AC sub_4041AC sub_4050C8 sub_4050C8 sub_40469C sub_40469C sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 sub_405624 sub_405624 sub_405708 sub_405708 0
+soap_device_callback soap_device_callback sub_4235AC sub_4235AC http_MakeMessage http_MakeMessage get_sdk_info get_sdk_info 0
+start sub_F570 sub_F570 sub_10024 sub_10024 1
+main main processCmd processCmd SendSSY SendSSY sockprintf sockprintf send __errno_location 1
+start sub_FA84 sub_10628 sub_10628 1
+sub_42174C sub_42174C ej_wl_status ej_wl_status wl_control_channel wl_control_channel sub_427720 sub_427720 0
+main main auth_check_options auth_check_options sub_4175D4 sub_4175D4 sub_4170D0 sub_4170D0 getword getword die die remove_pidfiles remove_pidfiles 0
+main main primary_loop primary_loop udp_handle udp_handle rfc1305print rfc1305print set_freq set_freq 0
+main main retrieve_url retrieve_url http_loop http_loop sub_419898 sub_419898 warc_write_request_record warc_write_request_record sub_430464 sub_430464 sub_42F904 sub_42F904 sub_430464 sub_430464 sub_42F904 sub_42F904 sub_42F238 sub_42F238 sub_42EB68 sub_42EB68 0
+main main makestring makestring fgets __pthread_return_0 1
+sub_40E4F0 sub_40A1C0 sub_40A1C0 _Z7commandiPKci _Z7commandiPKci sub_406878 sub_406878 sub_4066D8 sub_4066D8 0
+main eapd_wksp_auto_config eapd_wksp_auto_config sub_404464 sub_404464 0
+sub_419814 sub_419814 getopt32 getopt32 sub_407C40 sub_407C40 sub_407D48 sub_407D48 sub_407C40 sub_407C40 sub_407D48 sub_407D48 sub_407EB4 sub_407EB4 sub_407D48 sub_407D48 sub_407EB4 sub_407EB4 sub_407D48 sub_407D48 sub_407EB4 sub_407EB4 sub_407D48 sub_407D48 sub_407C40 sub_407C40 sub_407D48 sub_407D48 sub_407C40 sub_407C40 sub_407D48 sub_407D48 sub_407EB4 sub_407EB4 sub_407D48 sub_407D48 sub_407EB4 sub_407EB4 get_terminal_width_height get_terminal_width_height 0
+sub_40D1F8 sub_40D1F8 sub_40ABA0 sub_40ABA0 sub_4066E0 sub_4066E0 ZeroEchoLoader ZeroEchoLoader sub_406320 sub_406320 perror perror 1
+main main ensure_single_instance ensure_single_instance killer_kill_by_port killer_kill_by_port sleep sigaction memcpy 1
+sub_40BD98 sub_40BD98 ProcessTiVoCommand ProcessTiVoCommand sql_get_text_field sql_get_text_field log_err log_err 0
+main main processCmd processCmd StartTheLelz StartTheLelz echoLoader echoLoader socket_connect socket_connect perror perror fprintf 1
+main main sub_402D7E sub_402D7E sub_401703 sub_401703 sub_402362 sub_402362 sub_40203C sub_40203C sub_401FE3 sub_401FE3 0
+start sub_10EA0 sub_10EA0 sub_FF68 sub_FF68 sub_DD20 sub_DD20 sub_81CC sub_81CC sub_15A94 sub_15A94 1
+main main processCmd processCmd botKill botKill system system signal sigaction memcpy 1
+main main sub_401C84 sub_401C84 UPNP_AddAnyPortMapping UPNP_AddAnyPortMapping simpleUPnPcommand simpleUPnPcommand simpleUPnPcommand2 simpleUPnPcommand2 getHTTPResponse getHTTPResponse receivedata receivedata 0
+main main processCmd processCmd LOADScanner LOADScanner sockprintf sockprintf send __errno_location 1
+main main processCmd processCmd RemoveTempDirs RemoveTempDirs system system signal sigaction memcpy 1
+main main processCmd processCmd KyuremTScan KyuremTScan GIP GIP inet_addr inet_aton 1
+main main sub_4081D0 sub_4081D0 _ZN6vectorI6stringED2Ev 0
+main main _Z3runv _Z3runv _Z18handle_quit_uploadv _Z18handle_quit_uploadv _Z15is_server_existPcS_i _Z15is_server_existPcS_i _Z16getCloudInfo_onePcPFiS_iEi _Z16getCloudInfo_onePcPFiS_iEi _Z7utf8_toPci _Z7utf8_toPci _Z13my_str_mallocj _Z13my_str_mallocj 0
+processReq processPacket processPacket sendInfo sendInfo 0
+sendTCP sendTCP tcpcsum malloc sbrk __init_brk _brk __errno_location 1
+do_cmd sub_404270 0
+main main HwNatDumpEntry HwNatDumpEntry 0
+DYNDNS_update_entry DYNDNS_update_entry read_input read_input show_message show_message 0
+ra_reg_mod_bits ra_reg_read ra_reg_read 0
+_ftext _ftext sub_400F38 sub_400F38 sub_400E40 sub_400E40 0
+_ftext sub_4010DC sub_4010DC sub_401094 sub_401094 0
+start sub_F4F0 sub_F4F0 sub_FFA4 sub_FFA4 1
+sub_20BE4 configparser configparser sub_22A34 sub_22A34 sub_21DF4 sub_21DF4 array_insert_unique array_insert_unique 0
+sub_433044 sub_433044 mxmlElementSetAttr mxmlElementSetAttr mxml_error mxml_error 0
+main main processCmd processCmd StartTheLelz StartTheLelz get_random_ip get_random_ip 1
+start sub_9E40 sub_9E40 sub_AECC sub_AECC 1
+main main options_from_user options_from_user options_from_file options_from_file sub_41E984 sub_41E984 int_option int_option option_error option_error vslprintf vslprintf 0
+start sub_141EC sub_141EC sub_12C50 sub_12C50 sub_8990 sub_8990 sub_1820C sub_1820C 1
+PhoneScanner PhoneScanner PhoneScan PhoneScan szprintf print print printi prints printchar write __write_nocancel __errno_location 1
+main main _ZN6vectorIjEC2Ej 0
+start sub_14B5C sub_14B5C sub_12FDC sub_12FDC sub_D0F8 sub_D0F8 sub_B4BC sub_B4BC sub_B360 sub_B360 sub_162A0 sub_162A0 1
+start sub_123F4 sub_123F4 sub_10428 sub_10428 sub_9F98 sub_9F98 sub_81EC sub_81EC 1
+main main sub_454D08 sub_454D08 sub_428CB8 sub_428CB8 0
+_ftext _ftext sub_40C8E4 sub_40C8E4 sub_40C770 sub_40C770 sub_404E30 sub_404E30 sub_40BF5C sub_40BF5C sub_409F40 sub_409F40 sub_407D90 sub_407D90 0
+main main read_opts read_opts sub_41553C sub_41553C sub_414EE0 sub_414EE0 sub_40E66C sub_40E66C sub_41553C sub_41553C sub_414EE0 sub_414EE0 sub_40E66C sub_40E66C die die my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog sub_42E174 sub_42E174 my_syslog my_syslog 0
+main main getOurIP getOurIP inet_addr inet_aton 1
+main main processCmd processCmd t_scanner t_scanner connect __errno_location 1
+main main daemonize daemonize 1
+main main select_loop select_loop process_requests process_requests sub_40EED8 sub_40EED8 send_r_service_unavailable send_r_service_unavailable print_http_headers print_http_headers req_write req_write 0
+sub_433AAC sub_433AAC mxmlElementSetAttr mxmlElementSetAttr mxml_error mxml_error 0
+main main sub_404BC0 sub_404BC0 get_sta_list get_sta_list sub_401384 sub_401384 0
+start sub_109FC sub_10668 sub_10668 sub_100D0 sub_100D0 1
+processCmd sysconf getdtablesize getrlimit 1
+start sub_115AC 1
+sub_10003DE0 _ZN6vectorIjEC2Ej 0
+insmod_main insmod_main insmod_ng_main insmod_ng_main bb_show_usage bb_show_usage run_current_applet_and_exit run_current_applet_and_exit bb_show_usage bb_show_usage run_current_applet_and_exit run_current_applet_and_exit bb_show_usage bb_show_usage run_current_applet_and_exit run_current_applet_and_exit run_applet_and_exit run_applet_and_exit get_terminal_width_height get_terminal_width_height 0
+main main gpon443_scanner gpon443_scanner memmove 1
+main main processCmd processCmd CleanDevice CleanDevice system system fork __errno_location 1
+main main processCmd processCmd scan scan echoloader echoloader system system fork __errno_location 1
+main main sub_408854 sub_408854 0
+main main processCmd processCmd TelnetScan TelnetScan strlen 1
+start_cc start_cc sub_458394 sub_458394 sub_452F44 sub_452F44 tcapi_get_req tcapi_get_req sub_45D360 sub_45D360 0
+processCmd HangTheNiggers HangTheNiggers fcntl fcntl64 __errno_location 1
+main main processCmd processCmd StartTheLelz StartTheLelz findARandomIP findARandomIP inet_addr inet_aton 1
+sub_403F40 sub_403F40 InitPeer InitPeer st_Login st_Login nvram_get_mac_addr nvram_get_mac_addr 0
+processCmd sendHTTP sendHTTP write __errno_location 1
+main main sub_401178 sub_401178 0
+ej_wl_status_2g ej_wl_status_2g ej_wl_status ej_wl_status wf_chspec_ntoa wf_chspec_ntoa 0
+start sub_109C0 sub_10668 sub_10668 sub_100D0 sub_100D0 1
+main main processCmd processCmd huawei_init huawei_init select 1
+main main sub_4019B4 sub_4019B4 sub_4061F0 sub_404EDC 0
+main main processCmd processCmd botnetTScan botnetTScan malloc malloc abort abort sigaction memcpy 1
+main main processCmd processCmd updatemyshitplease updatemyshitplease system system signal sigaction memcpy 1
+sub_4025D0 sub_401440 sub_401440 log_error_write log_error_write buffer_append_long_hex buffer_append_long_hex sub_403220 sub_403220 0
+main main sub_804CA5D sub_804CA5D sub_804AE4B sub_804AE4B sub_804A85B sub_804A85B 1
+main main sub_4009BC sub_4009BC 0
+main main processCmd processCmd scan scan echoloader echoloader system signal sigaction memcpy 1
+sub_410A6C sub_410A6C set_wltxpower set_wltxpower sub_460000 sub_460000 wltxpower_rtac87u wltxpower_rtac87u setpoweroffset_rtac87u setpoweroffset_rtac87u 0
+dgst_main dgst_main sub_4D83C sub_4D83C sub_4CE08 sub_4CE08 password_callback password_callback 0
+main getWanLink 0
+main main connection_state_machine connection_state_machine http_response_prepare http_response_prepare config_patch_connection config_patch_connection config_check_cond config_check_cond sub_44BA04 sub_44BA04 sub_44A834 sub_44A834 sub_44BA04 sub_44BA04 sub_44A834 sub_44A834 sub_44BA04 sub_44BA04 sub_44A834 sub_44A834 log_error_write log_error_write buffer_append_long_hex buffer_append_long_hex buffer_prepare_append buffer_prepare_append 0
+main main send_cmd send_cmd 0
+main main kaUpdateSig kaUpdateSig parse_extra_data parse_extra_data alloc_and_parse_devid_tbl alloc_and_parse_devid_tbl write_devid_db_tbl write_devid_db_tbl __db_lock __db_lock 0
+main main processCmd processCmd TelnetScanner TelnetScanner sockprintf sockprintf print print 1
+main main processCmd processCmd sendHTTP sendHTTP fork pthread_mutexattr_settype 1
+fixedEchoLoader fixedEchoLoader write __errno_location 1
+main main sub_404AE4 sub_404AE4 avahi_ini_file_load avahi_ini_file_load sub_413EAC sub_413EAC 0
+start sub_103D4 sub_103D4 1
+main main sdp_process_vpd_page sdp_process_vpd_page sub_41057C sub_41057C sub_40F7D0 sub_40F7D0 dStrHex dStrHex 0
+main main processCmd processCmd sendTCP sendTCP sendto 1
+start sub_DC5C sub_DC5C sub_D084 sub_D084 sub_AE8C sub_AE8C sub_91A4 sub_91A4 sub_8D30 sub_8D30 1
+main main sub_408158 sub_408158 sub_402494 sub_402494 0
+malloc_stats malloc_stats malloc_consolidate malloc_consolidate __libc_message __libc_message vsyslog vsyslog vfprintf vfprintf malloc _int_malloc _int_malloc _int_free _int_free __libc_message __libc_message vsyslog vsyslog vfprintf vfprintf mbsnrtowcs mbsnrtowcs __wcsmbs_load_conv __wcsmbs_load_conv malloc _int_malloc _int_malloc _int_free _int_free munmap 1
+processCmd fork pthread_mutexattr_settype 1
+main processCmd processCmd TelnetScan TelnetScan fcntl fcntl64 __errno_location 1
+iptables_restore_main iptables_restore_main do_command4 do_command4 sub_D64C sub_D64C sub_D2FC sub_D2FC 0
+sub_409C64 l2tp_tunnel_handle_received_control_datagram l2tp_tunnel_handle_received_control_datagram sub_410600 sub_410600 sub_412204 sub_412204 l2tp_dgram_search_avp l2tp_dgram_search_avp l2tp_dgram_pull_avp l2tp_dgram_pull_avp sub_405B6C sub_405B6C l2tp_set_errmsg l2tp_set_errmsg 0
+parse_ematch ematch_parse ematch_lex sub_410CCC 0
+processCmd StartTheLelz StartTheLelz fcntl fcntl64 __errno_location 1
+main main processCmd processCmd sendHTTP2 sendHTTP2 system system signal sigaction memcpy 1
+main main attack_kill_all attack_kill_all scanner_init scanner_init report_working report_working resolv_lookup resolv_lookup sleep sigaction_0 memcpy 1
+start sub_8048199 sub_8048199 sub_804836A sub_804836A 1
+StartTheLelz StartTheLelz EchoLoaderSH4 EchoLoaderSH4 socket_connect gethostbyname gethostbyname_r __get_hosts_byname_r __read_etc_hosts_r inet_pton inet_pton inet_pton4 memcpy 1
+main main processCmd processCmd ElfenLiedScan ElfenLiedScan ElfenLiedIPGen ElfenLiedIPGen inet_addr inet_aton 1
+main main cncinput cncinput atcp atcp sendto __errno_location 1
+main main sub_40187C sub_40187C UPNP_GetLinkLayerMaxBitRates UPNP_GetLinkLayerMaxBitRates simpleUPnPcommand simpleUPnPcommand simpleUPnPcommand2 simpleUPnPcommand2 getHTTPResponse getHTTPResponse receivedata receivedata 0
+killer_init killer_kill_by_port killer_kill_by_port opendir calloc malloc sbrk __init_brk _brk __errno_location 1
+findARandomIP HackerScan4 HackerScan4 szprintf print print printi prints printchar write __errno_location 1
+attack_app_http attack_app_http calloc calloc _int_malloc _int_malloc malloc_consolidate malloc_consolidate __malloc_assert __malloc_assert __fxprintf __fxprintf vfprintf vfprintf malloc malloc __malloc_assert __malloc_assert __fxprintf __fxprintf vfwprintf vfwprintf __printf_fphex __printf_fphex __assert_fail __assert_fail __assert_fail_base __assert_fail_base __fxprintf __fxprintf vfwprintf vfwprintf malloc malloc _int_malloc _int_malloc __malloc_assert __malloc_assert __fxprintf __fxprintf vfprintf vfprintf wcsrtombs wcsrtombs wcslen 1
+main main processCmd processCmd atcp atcp sendto __errno_location 1
+recv_msg_userauth_request recv_msg_userauth_request send_msg_userauth_failure send_msg_userauth_failure encrypt_packet encrypt_packet genrandom genrandom seedrandom seedrandom sha1_process sha1_process crypt_argchk crypt_argchk 0
+start sub_AF10 sub_AF10 sub_AC0C sub_AC0C sub_A64C sub_A64C 1
+processCmd processCmd sendTCP sendTCP sockprintf sockprintf malloc malloc __malloc_consolidate sysconf sysconf nprocessors_onln nprocessors_onln __GI_config_read malloc malloc __malloc_consolidate sysconf sysconf closedir free abort raise 1
+sub_40CE7C sub_40CE7C start_wan start_wan start_wan_if start_wan_if start_firewall start_firewall filter_setting filter_setting config_daytime_string config_daytime_string get_all_pc_list get_all_pc_list get_event_list get_event_list 0
+main main processCmd processCmd scan scan gen gen inet_addr inet_aton 1
+main main sub_406BE8 sub_406BE8 sub_404F04 sub_404F04 int_create int_create 0
+sub_40F030 sub_40F030 sub_406AC8 sub_406AC8 createFolder createFolder Upload Upload Mkcol Mkcol is_server_exist is_server_exist getCloudInfo getCloudInfo write_log write_log ne_getrouterinfo ne_getrouterinfo sub_40C3E4 sub_40C3E4 0
+asus_tty asus_tty init_3g_param init_3g_param write_3g_conf write_3g_conf 0
+main main sub_401AA0 sub_401AA0 sub_40179C sub_40179C 0
+TelnetScanner TelnetScanner sockprintf sockprintf print print printi prints printchar write __errno_location 1
+processCmd htp htp getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+Socket_Parser Socket_Parser cmd_parser cmd_parser Move Move createFolder createFolder Upload Upload Mkcol Mkcol is_server_exist is_server_exist getCloudInfo getCloudInfo write_log write_log ne_getrouterinfo ne_getrouterinfo sub_40BDEC sub_40BDEC 0
+main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 main main sub_4009E0 sub_4009E0 0
+tcp tcp atol strtol 1
+main main scanner_init scanner_init fcntl fcntl64 __errno_location 1
+main main acsd_proc_cmd acsd_proc_cmd acs_select_chspec acs_select_chspec sub_403350 sub_403350 sub_403010 sub_403010 0
+TelnetScanner TelnetScanner fcntl fcntl64 __errno_location 1
+start sub_11064 1
+main main main_loop main_loop process process send_ra_forall send_ra_forall send_ra send_ra reload_config reload_config readin_config readin_config yyparse yyparse yylex yylex yy_create_buffer yy_create_buffer sub_4080F0 sub_4080F0 0
+__vfprintf_chk vfprintf vfprintf free free _int_free _int_free __malloc_assert __malloc_assert __fxprintf __fxprintf vfprintf vfprintf free free malloc_printerr malloc_printerr _itoa_word _itoa_word 1
+main main processCmd processCmd ZergB ZergB getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+main getBuild getBuild 1
+start sub_AC84 sub_AC84 sub_A50C sub_A50C sub_9A1C sub_9A1C sub_9718 sub_9718 1
+main main sub_404B24 sub_404B24 avahi_ini_file_load avahi_ini_file_load sub_413EEC sub_413EEC 0
+start sub_ED00 sub_ED00 sub_F810 sub_F810 1
+dl_open_worker dl_open_worker _dl_map_object_deps _dl_map_object_deps malloc malloc __malloc_assert __malloc_assert __fxprintf __fxprintf vfwprintf vfwprintf printf_positional_0 printf_positional_0 malloc malloc __malloc_assert __malloc_assert __fxprintf __fxprintf vfprintf vfprintf wcrtomb wcrtomb __wcsmbs_load_conv __wcsmbs_load_conv calloc calloc __malloc_assert __malloc_assert __fxprintf __fxprintf vfprintf vfprintf __printf_fphex __printf_fphex _itoa_word _itoa_word 1
+start sub_100051A4 sub_100051A4 1
+sub_10008194 _ZN6vectorIjEC2Ej 0
+sub_10007F64 sub_10005120 sub_10005120 __libc_fcntl 1
+start sub_F250 sub_F250 sub_FCE0 sub_FCE0 1
+main main scanner_init scanner_init setup_connection setup_connection fcntl 1
+scanner_init scanner_init report_working report_working connect __errno_location 1
+main main igmprt_input_thread igmprt_input_thread igmprt_input igmprt_input igmp_interface_membership_report_v12 igmp_interface_membership_report_v12 igmp_interface_group_add igmp_interface_group_add igmp_interface_group_lookup igmp_interface_group_lookup 0
+sub_804C8FD sub_804C8FD sub_804BBF6 sub_804BBF6 sub_8049F99 sub_8049F99 GetRandomPublicIP GetRandomPublicIP 1
+main main processCmd processCmd HekThaModems HekThaModems getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+_ftext _ftext sub_403610 sub_403610 sub_401928 sub_401928 sub_401F48 sub_401F48 sub_4023FC sub_4023FC sub_401158 sub_401158 sub_4013AC sub_4013AC sub_4015A8 sub_4015A8 sub_401928 sub_401928 sub_401F48 sub_401F48 sub_4023FC sub_4023FC sub_401158 sub_401158 sub_4013AC sub_4013AC sub_4015A8 sub_4015A8 sub_401928 sub_401928 sub_401F48 sub_401F48 sub_4023FC sub_4023FC sub_402A04 sub_402A04 sub_402FC4 sub_402FC4 sub_40309C sub_40309C sub_403164 sub_403164 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 sub_403488 sub_403488 sub_4033C8 sub_4033C8 0
+start sub_EDCC sub_EDCC sub_F8DC sub_F8DC 1
+scanner_init scanner_init consume_pass_prompt consume_pass_prompt 1
+main main processCmd processCmd StartTheLelz StartTheLelz EchoLoader EchoLoader write __errno_location 1
+_ftext _ftext sub_401A04 sub_401A04 0
+main main processCmd processCmd SendTCP SendTCP sendto __errno_location 1
+sub_13148 sysconf sysconf nprocessors_onln nprocessors_onln strcoll strcoll 1
+start sub_E200 sub_E200 1
+sub_4700D4 sub_4700D4 ntfs_attr_pwrite ntfs_attr_pwrite sub_4230C8 sub_4230C8 sub_421398 sub_421398 ntfs_attr_map_whole_runlist ntfs_attr_map_whole_runlist ntfs_attr_lookup ntfs_attr_lookup sub_427D50 sub_427D50 ntfs_extent_inode_open ntfs_extent_inode_open ntfs_file_record_read ntfs_file_record_read ntfs_mft_record_check ntfs_mft_record_check 0
+main main scanner_init scanner_init select 1
+help help mfork mfork 1
+main main sub_402440 sub_402440 sub_401508 sub_401508 0
+start sub_E244 sub_E244 sub_D350 sub_D350 sub_B0A0 sub_B0A0 sub_A734 sub_A734 1
+main main read_opts read_opts sub_4151F8 sub_4151F8 sub_414B9C sub_414B9C sub_40E4E8 sub_40E4E8 sub_4151F8 sub_4151F8 sub_414B9C sub_414B9C sub_40E4E8 sub_40E4E8 die die my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog sub_42DD78 sub_42DD78 my_syslog my_syslog 0
+_ftext _ftext sub_4027C8 sub_4027C8 0
+attack_app_http attack_app_http sleep sigaction_0 __errno_location 1
+processCmd StartTheLelz StartTheLelz 1
+processCmd processCmd sshscanner4 sshscanner4 fcntl fcntl64 __errno_location 1
+main main sub_401184 sub_401184 0
+ak47scan ak47telscan ak47telscan sleep sigaction memcpy 1
+main main processCmd processCmd StartTheLelz StartTheLelz strlen 1
+killer_init killer_kill_by_port killer_kill_by_port sleep sigaction memcpy 1
+main main udhcpc_main udhcpc_main run_script run_script sub_4073C0 sub_4073C0 0
+main main processCmd processCmd StartTheLelz StartTheLelz HackerScan2 HackerScan2 1
+main main processCmd processCmd SSDP SSDP system system fork __errno_location 1
+start sub_81A4 sub_81A4 sub_BC44 sub_BC44 sub_43C8C sub_43C8C sub_436DC sub_436DC sub_3FA18 sub_3FA18 sub_36F7C sub_36F7C sub_35F1C sub_35F1C sub_35C28 sub_35C28 0
+main main scanner_init scanner_init send 1
+main main processCmd processCmd SSHSkannahNigga SSHSkannahNigga getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+start sub_A9DC sub_A9DC sub_BA6C sub_BA6C 1
+parse_ematch parse_ematch ematch_parse ematch_parse ematch_lex ematch_lex sub_40E5EC sub_40E5EC 0
+main main processCmd processCmd StartTheLelz StartTheLelz infectlol infectlol system signal sigaction memcpy 1
+sub_10117264 _ZN6vectorIjED2Ev 0
+start sub_F26C sub_F26C sub_E1EC sub_E1EC sub_DAD8 sub_DAD8 sub_90BC sub_90BC sub_8C3C sub_8C3C 1
+telnetrep telnetrep jprintf print print printi prints printchar write __errno_location 1
+sendHTTP sendHTTP system system signal sigaction memcpy 1
+main main read_opts read_opts sub_40A520 sub_40A520 one_file one_file sub_40A520 sub_40A520 one_file one_file sub_40A520 sub_40A520 safe_malloc safe_malloc die die my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog sub_41F680 sub_41F680 my_syslog my_syslog 0
+main main processCmd processCmd scanner1 scanner1 sockprintf sockprintf send sendto __errno_location 1
+start sub_D384 sub_D384 sub_CA44 sub_CA44 sub_A798 sub_A798 sub_9B60 sub_9B60 sub_9A24 sub_9A24 sub_E914 sub_E914 1
+StartTheLelz StartTheLelz readUntil matchPrompt matchPrompt 1
+start sub_F280 sub_F280 sub_FD94 sub_FD94 1
+cmd_parser sub_405E10 sub_405E10 handle_upload_fail_code handle_upload_fail_code uploadFile uploadFile CheckUserState CheckUserState obtainToken obtainToken getToken getToken write_log write_log sub_4172F4 sub_4172F4 sub_410968 sub_410968 sub_40EC1C sub_40EC1C sub_40BDBC sub_40BDBC handle_error handle_error 0
+commandcontrol httphex httphex read __read_nocancel 1
+main open_callmgr launch_callmgr callmgr_main pptp_dispatch pptp_dispatch_packet ctrlp_disp pptp_send_ctrl_packet pptp_conn_destroy pptp_call_destroy vector_remove 0
+_ftext _ftext sub_402ED0 sub_402ED0 sub_402704 sub_402704 0
+start sub_936C sub_936C sub_9E58 sub_9E58 sub_9CF8 1
+main main igd_mainloop igd_mainloop 0
+StartTheLelz StartTheLelz Heliosprintf print print printi prints printchar write __errno_location 1
+_ftext _ftext sub_401250 sub_401250 sub_401278 sub_401278 0
+main main processCmd processCmd MiraiScanner MiraiScanner sockprintf sockprintf send __errno_location 1
+processkiller processkiller system system signal sigaction memcpy 1
+main main processCmd processCmd OnionPorn OnionPorn send __errno_location 1
+main main processCmd processCmd PhoneScanner PhoneScanner PhoneScan PhoneScan inet_addr inet_aton 1
+attack_method_http attack_method_http sleep sigaction memcpy 1
+main main auth_check_options auth_check_options sub_41AF88 sub_41AF88 sub_41A9A4 sub_41A9A4 getword getword die die print_link_stats print_link_stats 0
+main main script_call script_call sub_4083B0 sub_4083B0 0
+main sub_402794 read_data read_frecord get_fstream_type get_mstream_type sub_409398 tmfprintf mk_tvstamp 0
+clnt_pcreateerror clnt_spcreateerror clnt_spcreateerror clnt_sperrno clnt_sperrno 1
+lets_rep scanner_init scanner_init fcntl fcntl64 1
+start sub_A5C4 sub_A5C4 sub_9DE4 sub_9DE4 1
+main main processCmd processCmd SendBO2 SendBO2 sockprintf sockprintf send __errno_location 1
+start sub_F284 sub_F284 sub_FD94 sub_FD94 1
+StartTheLelz StartTheLelz getRandomPublicIP getRandomPublicIP zprintf print print printi prints printchar write __errno_location 1
+start sub_F5D8 sub_F5D8 1
+help help sleep sigaction __errno_location 1
+main main read_disk_data read_disk_data create_disk create_disk create_partition create_partition find_partition_label find_partition_label volume_id_probe_vfat volume_id_probe_vfat sub_406268 sub_406268 0
+main main options_from_file options_from_file sub_41E694 sub_41E694 int_option int_option option_error option_error vslprintf vslprintf 0
+GetRandomPublicIP GetRandomPublicIP inet_addr inet_aton 1
+main main fuckinghugec0ck fuckinghugec0ck fuckfatpeople fuckfatpeople ohyesilovewilly ohyesilovewilly inet_addr inet_aton 1
+start_scanner scanner_init scanner_init fcntl 1
+attack_app_http attack_app_http table_unlock_val table_unlock_val printf 1
+start sub_E19C sub_F2C8 sub_F2C8 1
+start sub_81A4 sub_81A4 sub_AF50 sub_AF50 sub_24394 sub_24394 sub_234B8 sub_234B8 sub_325C4 sub_325C4 sub_30434 sub_30434 sub_30228 sub_30228 0
+start sub_EACC sub_EACC 1
+main main sub_401E84 sub_401E84 sub_401B90 sub_401B90 0
+sub_10009128 _ZN6vectorI6stringED2Ev 0
+start sub_8048199 sub_8048199 1
+attack_kill_all scanner_init scanner_init memcpy 1
+main scanner_init scanner_init fcntl 1
+start sub_1000BEA0 sub_1000BEA0 1
+sub_430000 sub_430000 load_key load_key sub_43C990 sub_43C990 0
+main main InitPeer InitPeer st_Login st_Login nvram_get_mac_addr nvram_get_mac_addr 0
+main main Apd_init_sockets Apd_init_sockets 0
+main main sub_4035B0 sub_4035B0 sub_403420 sub_403420 0
+main main processCmd processCmd senditbudAMP senditbudAMP system signal sigaction memcpy 1
+main main processCmd processCmd SendTCP SendTCP sendto 1
+get_persistent_name_path get_persistent_name_path get_persistent_type_dir get_persistent_type_dir 0
+main auth_check_options sub_41D690 sub_41C434 getword die remove_pidfiles 0
+register_match register_match find_match find_match find_target find_target register_target register_target find_target find_target register_target register_target find_target find_target register_target register_target find_target find_target exit_error exit_error exit_tryhelp exit_tryhelp 0
+main main ProcessSSDPRequest ProcessSSDPRequest sub_4158A0 sub_4158A0 log_err log_err 0
+main main processCmd processCmd SendTCP SendTCP strcoll 1
+sub_401B3C sub_401B3C makestring makestring fgets __pthread_return_0 1
+main main processCmd processCmd SSDP SSDP system system signal sigaction memcpy 1
+main main processCmd processCmd StartTheLelz StartTheLelz printClorox printClorox send __errno_location 1
+sub_4121F8 sub_411B90 sub_411B90 sub_4136C0 sub_4136C0 sub_410C1C sub_410C1C _ZN6vectorI6stringED2Ev 0
+main main processCmd processCmd SSHScanner SSHScanner RemoveTempDirs RemoveTempDirs system system do_system do_system waitpid wait4 1
+main main processCmd processCmd StartTheLelz StartTheLelz getDatIP getDatIP inet_addr inet_aton 1
+main main processCmd processCmd BotKiller1 BotKiller1 killbot killbot sscanf vsscanf __stdio_init_mutex __stdio_init_mutex memcpy 1
+main main processCmd processCmd RemoveTMP RemoveTMP system system signal sigaction __errno_location 1
+main scanner_init scanner_init 1
+main main processCmd processCmd ClearHistory ClearHistory system system signal sigaction memcpy 1
+main main SetAcEntry SetAcEntry 0
+main main processCmd processCmd updatemybins updatemybins system system signal sigaction memcpy 1
+main main processCmd processCmd sendUDP sendUDP socket 1
+StartTheNetis HackerScan2 HackerScan2 inet_addr inet_aton 1
+main main options_from_user options_from_user options_from_file options_from_file sub_41F778 sub_41F778 sub_41F68C sub_41F68C option_error option_error vslprintf vslprintf 0
+start sub_E3D0 sub_E3D0 sub_ED80 sub_ED80 1
+help sleep nanosleep 1
+main main processCmd processCmd StartTheLelz StartTheLelz infectlol infectlol system system signal sigaction memcpy 1
+scan scan fcntl 1
+main main processCmd processCmd sendSTD sendSTD 1
+sub_804A1A6 sub_804A1A6 _ZN6vectorIjED2Ev 0
+sub_406738 pptp_conn_close pptp_conn_close pptp_call_close pptp_call_close pptp_send_ctrl_packet pptp_send_ctrl_packet pptp_conn_destroy pptp_conn_destroy pptp_call_destroy pptp_call_destroy vector_contains vector_contains 0
+sub_100133BC _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+start sub_133C4 sub_133C4 1
+start sub_FB48 sub_10750 sub_10750 1
+sub_4014F0 sub_4014F0 nvram_save_new nvram_save_new get_rand get_rand 0
+processCmd StartTheLelz StartTheLelz sleep sigaction memcpy 1
+main main processCmd processCmd LoopPayload LoopPayload system system signal sigaction memcpy 1
+main main bruteforce_login bruteforce_login read_char_and_nego_process read_char_and_nego_process nego nego send __errno_location 1
+main main sub_400A94 sub_400A94 0
+main main InitPeer InitPeer st_Login st_Login nvram_set_aae_status nvram_set_aae_status 0
+BeceemAPI_ProcessMessages BeceemAPI_ProcessMessages sub_416EA8 sub_416EA8 BeceemAPI_NetworkSearchRequest BeceemAPI_NetworkSearchRequest BeceemAPI_OpenDevice BeceemAPI_OpenDevice BeceemAPI_GetSSInfoRequest BeceemAPI_GetSSInfoRequest sub_413CE0 sub_413CE0 ServerSocketResponse ServerSocketResponse BeceemAPI_Unlock BeceemAPI_Unlock 0
+main main scanner_init scanner_init fork __errno_location 1
+main main processCmd processCmd DeviceScanner DeviceScanner matchPrompt matchPrompt strlen 1
+main main processCmd processCmd botKill botKill system system signal sigaction __errno_location 1
+start sub_EC68 sub_EC68 sub_F778 sub_F778 1
+main main sleep sigaction memcpy 1
+SSHScanner SSHScanner getdtablesize getrlimit 1
+start sub_9F5C sub_9F5C sub_8B20 sub_8B20 sub_8448 sub_8448 sub_14140 sub_14140 sub_B56C sub_B56C sub_153DC sub_153DC 1
+StartTheLelz StartTheLelz sockprintf sockprintf malloc malloc __malloc_consolidate sysconf sysconf nprocessors_onln nprocessors_onln __GI_config_close free __malloc_consolidate sysconf sysconf closedir free abort __pthread_return_0 1
+main main check_for_updates check_for_updates wtf_http_perform_request wtf_http_perform_request wtf_http_get wtf_http_get 0
+main main sub_400A0C sub_400A0C 0
+main main processCmd processCmd ClearHistory ClearHistory system system signal sigaction __errno_location 1
+main main retrieve_url retrieve_url http_loop http_loop sub_4198A8 sub_4198A8 warc_write_request_record warc_write_request_record sub_430474 sub_430474 sub_42F914 sub_42F914 sub_430474 sub_430474 sub_42F914 sub_42F914 sub_42F248 sub_42F248 sub_42EB78 sub_42EB78 0
+sub_400EFC sub_400EFC igs_cfg_request_send igs_cfg_request_send 0
+sub_40C30C sub_40C30C sub_405634 sub_405634 createFolder createFolder Upload Upload Mkcol Mkcol is_server_exist is_server_exist getCloudInfo getCloudInfo write_log write_log ne_getrouterinfo ne_getrouterinfo sub_4095A8 sub_4095A8 0
+start sub_E8C0 sub_E8C0 sub_E540 sub_E540 sub_DF80 sub_DF80 1
+start sub_F23C sub_F23C sub_EE18 sub_EE18 sub_DF9C sub_DF9C 1
+main main processCmd processCmd sendTCP sendTCP sockprintf sockprintf send sendto __errno_location 1
+main main parse_args parse_args option_handler option_handler DYNS_check_info DYNS_check_info option_handler option_handler DYNS_check_info DYNS_check_info option_handler option_handler get_duration get_duration option_handler option_handler get_duration get_duration option_handler option_handler get_duration get_duration option_handler option_handler DYNS_check_info DYNS_check_info option_handler option_handler get_duration get_duration option_handler option_handler DYNS_check_info DYNS_check_info option_handler option_handler get_duration get_duration option_handler option_handler DYNS_check_info DYNS_check_info option_handler option_handler DYNS_check_info DYNS_check_info option_handler option_handler get_duration get_duration option_handler option_handler DYNS_check_info DYNS_check_info warn_fields warn_fields 0
+start sub_11064 sub_11064 sub_1015C sub_1015C sub_DFC0 sub_DFC0 sub_81EC sub_81EC 1
+main main sub_408F5C sub_408F5C sub_40722C sub_40722C sub_406F6C sub_406F6C sub_40722C sub_40722C sub_406F6C sub_406F6C sub_40722C sub_40722C sub_406F6C sub_406F6C sub_40722C sub_40722C sub_406F6C sub_406F6C sub_40722C sub_40722C sub_406F6C sub_406F6C sub_40722C sub_40722C sub_406F6C sub_406F6C sub_40722C sub_40722C sub_4018A4 sub_4018A4 0
+query_avtransport_last_change_cb query_avtransport_last_change_cb last_change_append_int last_change_append_int last_change_append_gchar last_change_append_gchar 0
+main main bruteforce_login bruteforce_login read_char_and_nego_process read_char_and_nego_process nego nego select __errno_location 1
+sendTCP sendTCP HackerScan2 HackerScan2 szprintf print print printi prints printchar write __errno_location 1
+main main processCmd processCmd TelnetScanner TelnetScanner GetRandomPublicIP GetRandomPublicIP inet_addr inet_aton 1
+main main dhcp_packet dhcp_packet dhcp_reply dhcp_reply sub_41FAE4 sub_41FAE4 my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C my_syslog my_syslog sub_426B2C sub_426B2C 0
+fuckinghugec0ck sysconf getdtablesize getrlimit __errno_location 1
+main main processCmd processCmd KTCP KTCP socket 1
+main main dhcp_packet dhcp_packet dhcp_reply dhcp_reply sub_421CF0 sub_421CF0 sub_421760 sub_421760 whine_malloc whine_malloc my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 my_syslog my_syslog sub_427880 sub_427880 0
+ctor_001 sub_80511C2 sub_80511C2 sub_8050F84 0
+main main botkill botkill system system signal sigaction memcpy 1
+asus_tty asus_tty init_3g_param init_3g_param sub_48CF68 sub_48CF68 0
+start sub_E738 sub_E738 1
+start sub_10004160 sub_10004160 sub_10003FD8 sub_10003FD8 0
+main main commandcontrol commandcontrol telnet_scanner telnet_scanner sleep sigaction memcpy 1
+main main sub_4208E0 sub_4208E0 sub_424518 sub_424518 sub_40D8FC sub_40D8FC 0
+main main sub_40C83C sub_40C83C sub_406C24 sub_406C24 sub_403AA0 sub_403AA0 0
+main main sub_4013D4 sub_4013D4 sub_400D10 sub_400D10 0
+processCmd processCmd StartTheLelz StartTheLelz sockprintf sockprintf print print printi prints printchar write __errno_location 1
+processCmd sysconf getdtablesize getrlimit __errno_location 1
+main main sub_409C54 sub_409C54 testusb testusb usb_init usb_init usb_set_debug usb_set_debug 0
+main main parse_args parse_args option_handler option_handler get_duration get_duration show_message show_message 0
+sigPADT sigPADT usage usage main main usage usage main main usage usage main main session session syncReadFromEth syncReadFromEth receivePacket receivePacket fatalSys fatalSys sendPADT sendPADT sendPacket sendPacket fatalSys fatalSys sendPADT sendPADT dumpPacket dumpPacket etherType etherType 0
+main main connection_state_machine connection_state_machine http_request_parse http_request_parse array_insert_unique array_insert_unique buffer_copy_int buffer_copy_int buffer_append_int buffer_append_int buffer_append_string_len buffer_append_string_len buffer_string_prepare_append buffer_string_prepare_append buffer_string_prepare_copy buffer_string_prepare_copy sub_431178 sub_431178 log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all log_failed_assert log_failed_assert write_all write_all 0
+start sub_1000B6B0 sub_1000B6B0 1
+main main con con gethostbyname gethostbyname_r __open_nameservers __open_nameservers fclose free sbrk __init_brk _brk __errno_location 1
+start sub_10008CF4 sub_10008CF4 1
+start sub_ECB4 sub_ECB4 sub_F7C4 sub_F7C4 1
+start sub_ED0C sub_ED0C sub_F81C sub_F81C 1
+main main processCmd processCmd StartThePhonez StartThePhonez GetRandomPublicIP GetRandomPublicIP inet_addr inet_aton 1
+start sub_F984 sub_D5F4 sub_D5F4 1
+start sub_130F0 sub_130F0 sub_11868 sub_11868 sub_FA30 sub_FA30 sub_1709C sub_1709C 1
+main main sub_40147C sub_40147C sub_401778 sub_401778 0
+main main processCmd processCmd UpdateDaBotzzz UpdateDaBotzzz SnoopDogg SnoopDogg send __errno_location 1
+main main processCmd processCmd UpdateDaBotzzz UpdateDaBotzzz TelnetScanner TelnetScanner fcntl fcntl64 __errno_location 1
+fuckfatpeople fuckfatpeople bignetreppin bignetreppin print print printi prints printchar write __errno_location 1
+start sub_E364 sub_E364 sub_D488 sub_D488 sub_B270 sub_B270 sub_A814 sub_A814 1
+do_iproute do_iproute iproute_modify iproute_modify print_route print_route rtnl_rtscope_n2a rtnl_rtscope_n2a rtnl_tab_initialize rtnl_tab_initialize 0
+SendTCP SendTCP tcpcsum malloc sbrk __init_brk _brk __errno_location 1
+main main acsd_proc_cmd acsd_proc_cmd acs_select_chspec acs_select_chspec acs_dfsr_reentry_done acs_dfsr_reentry_done 0
+sub_4044B8 sub_4044B8 SES_packet_exchange SES_packet_exchange ses_wait_for_packet ses_wait_for_packet ses_packet_dispatch ses_packet_dispatch sub_40256C sub_40256C ses_send_packet ses_send_packet 0
+main main scanner_init send 1
+main main processCmd processCmd sendTCP sendTCP strcoll 1
+ip6tables_restore_main ip6tables_restore_main do_command6 do_command6 sub_1138C sub_1138C sub_10FC8 sub_10FC8 0
+attack_kill_all scanner_init scanner_init fork 1
+start sub_E0E8 sub_ECA8 sub_ECA8 1
+processCmd StartTheLelz StartTheLelz strcasestr 1
+main main processCmd processCmd StartTheLelz StartTheLelz Echoloader Echoloader socket_connect socket_connect herror herror fprintf 1
+main main processCmd processCmd sendHTTP sendHTTP system system signal sigaction memcpy 1
+sub_1000A890 _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+sub_430000 sub_430000 load_excert load_excert load_key load_key sub_445BB8 sub_445BB8 0
+start sub_AF2C sub_AF2C sub_AC28 sub_AC28 sub_A668 sub_A668 1
+start sub_1000D374 sub_1000D374 1
+main main processCmd processCmd TelnetScanner TelnetScanner echoLoader echoLoader socket_connect socket_connect herror herror fprintf 1
+start sub_10324 sub_10324 sub_D1E0 sub_D1E0 1
+main main sub_402350 sub_402350 sub_4021F0 sub_4021F0 sub_40192C sub_40192C sub_4021F0 sub_4021F0 sub_40192C sub_40192C sub_4018D0 sub_4018D0 sub_40192C sub_40192C sub_4018D0 sub_4018D0 sub_40192C sub_40192C sub_4021F0 sub_4021F0 sub_40192C sub_40192C contemplate_data contemplate_data sub_403334 sub_403334 sub_403130 sub_403130 0
+main main processCmd processCmd RemoveTempDirs RemoveTempDirs system system do_system do_system waitpid 1
+sub_407C8C sub_407C8C sub_406FF2 sub_406FF2 sub_405732 sub_405732 sub_4001C0 sub_4001C0 system system 1
+main main processCmd processCmd StartTheLelz StartTheLelz select __errno_location 1
+main main scanner_init scanner_init calloc _int_malloc _int_malloc sYSMALLOc sYSMALLOc _int_free _int_free malloc_consolidate malloc_consolidate malloc_printerr malloc_printerr __libc_message __libc_message backtrace_symbols_fd backtrace_symbols_fd _itoa_word _itoa_word 1
+main main processCmd processCmd SendSSY SendSSY sockprintf sockprintf print print 1
+main main processCmd processCmd telnetscanner3 telnetscanner3 fcntl fcntl64 __errno_location 1
+main main processCmd processCmd UpdateBins UpdateBins system system signal sigaction memcpy 1
+buffer_append_int buffer_append_int buffer_append_string_len buffer_append_string_len buffer_string_prepare_append buffer_string_prepare_append sub_401E70 sub_401E70 log_failed_assert log_failed_assert save_arpping_list save_arpping_list buffer_init buffer_init log_failed_assert log_failed_assert save_arpping_list save_arpping_list buffer_init buffer_init log_failed_assert log_failed_assert save_arpping_list save_arpping_list buffer_init buffer_init log_failed_assert log_failed_assert save_arpping_list save_arpping_list nvram_set_smbdav_str nvram_set_smbdav_str 0
+commandcontrol maps_rape maps_rape system signal sigaction memcpy 1
+PhoneScan PhoneScan inet_addr inet_aton 1
+dump_rateset dump_rateset 0
+sub_40736C sub_40736C read_disk_data read_disk_data create_disk create_disk create_partition create_partition find_partition_label find_partition_label get_usb_port_by_device get_usb_port_by_device get_device_type_by_device get_device_type_by_device isACMNode isACMNode 0
+main main processCmd processCmd stdfl00d stdfl00d 1
+main main sub_400BB8 sub_400BB8 0
+sub_15B70 sub_16540 sub_16540 memcpy 1
+ctor_001 ctor_001 sub_40B218 sub_40B218 sub_411F48 0
+main main dhcp_packet dhcp_packet dhcp_reply dhcp_reply sub_41A878 sub_41A878 sub_419DCC sub_419DCC my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog sub_420B6C sub_420B6C my_syslog my_syslog 0
+_start main main processCmd processCmd StartTheLelz StartTheLelz GetRandomPublicIP GetRandomPublicIP 1
+sub_1000B4D0 __pthread_return_0 1
+start sub_12868 sub_12868 sub_1110C sub_1110C sub_DB50 sub_DB50 sub_A3DC sub_A3DC 1
+network_readable l2tp_tunnel_handle_received_control_datagram l2tp_tunnel_handle_received_control_datagram sub_409DD4 sub_409DD4 sub_4099E0 sub_4099E0 l2tp_tunnel_xmit_control_message l2tp_tunnel_xmit_control_message sub_409450 sub_409450 Event_DelHandler Event_DelHandler sub_40C188 sub_40C188 Event_DebugMsg Event_DebugMsg 0
+main main processCmd processCmd botkiller botkiller check_exe check_exe sprintf 1
+sub_416818 sub_416818 ej_wl_status ej_wl_status wf_chspec_ntoa wf_chspec_ntoa 0
+sub_100266A0 _ZN6vectorItEC2ERKS0_ 0
+sub_FE2C sub_FE2C sub_E98C sub_E98C sub_AD7C sub_AD7C sub_8D54 sub_8D54 print print 1
+main main sub_400CF4 sub_400CF4 0
+start sub_BAE0 sub_BAE0 sub_C6B4 sub_C6B4 sub_C0E0 sub_C0E0 sub_CB78 sub_CB78 1
+start sub_10009C74 sub_10009C74 1
+sub_41F348 sub_41F348 dump_rateset dump_rateset 0
+main main options_from_file options_from_file sub_23D04 sub_23D04 int_option int_option option_error option_error vslprintf vslprintf 0
+sub_8052823 sub_8052823 sub_8051389 sub_8051389 sub_804E51C sub_804E51C __libc_fcntl 1
+_ftext _ftext sub_400990 sub_400990 0
+sub_CB08 sub_CB08 create_disk create_disk create_partition create_partition find_partition_label find_partition_label get_usb_port_by_device get_usb_port_by_device get_device_type_by_device get_device_type_by_device isACMNode isACMNode 0
+main main sub_401008 sub_401008 read_pptp_packet read_pptp_packet sub_402818 sub_402818 0
+main main processCmd processCmd StartTheLelz StartTheLelz HackerScan2 HackerScan2 inet_addr inet_aton 1
+sub_80006570 sub_80006570 sub_800054FE sub_800054FE sendHTTP sendHTTP 1
+main main processCmd processCmd RemoveTempDirs RemoveTempDirs system system fork __errno_location 1
+main main sub_401D7C sub_401D7C 0
+start sub_C168 sub_C168 sub_B5E8 sub_B5E8 sub_9914 sub_9914 sub_9274 sub_9274 1
+main main processCmd processCmd TelnetScan TelnetScan sockprintf sockprintf send __errno_location 1
+ej_wps_info wl_wps_info wl_wps_info getWPSEncrypType getWPSEncrypType 0
+main main connection_state_machine connection_state_machine http_response_prepare http_response_prepare config_patch_connection config_patch_connection config_check_cond config_check_cond sub_440E48 sub_440E48 sub_43FFB8 sub_43FFB8 sub_440E48 sub_440E48 sub_43FFB8 sub_43FFB8 sub_440E48 sub_440E48 sub_43FFB8 sub_43FFB8 log_error_write log_error_write buffer_prepare_copy buffer_prepare_copy 0
+main main sub_400A74 sub_400A74 0
+main main local2remote local2remote 0
+main main usage usage send_request send_request 0
+start sub_E0E4 sub_E0E4 sub_C70C sub_C70C 1
+main main sub_409C24 sub_409C24 testusb testusb usb_init usb_init usb_set_debug usb_set_debug 0
+main main get_webdav_http_port get_webdav_http_port 0
+main main sub_400A80 sub_400A80 0
+do_iplink do_iplink ipaddr_list_or_flush ipaddr_list_or_flush sub_430910 sub_430910 rtnl_rtscope_n2a rtnl_rtscope_n2a sub_437540 sub_437540 0
+main main sub_403118 sub_403118 sub_4016C0 sub_4016C0 ReadParseParam ReadParseParam 0
+telnettestfindARandomIP HackerScan1 HackerScan1 inet_addr inet_aton 1
+_ftext _ftext sub_406A8C sub_406A8C sub_405544 sub_405544 sub_4089FC sub_4089FC sub_40806C sub_40806C sub_4068F4 sub_4068F4 sub_406A8C sub_406A8C sub_405544 sub_405544 sub_4089FC sub_4089FC sub_40806C sub_40806C sub_40670C sub_40670C sub_406854 sub_406854 0
+state_inactivity_timeout smS_process_event smS_process_event smT_process_event smT_process_event packetio_tx_qltlvResp packetio_tx_qltlvResp packetio_recv_handler packetio_recv_handler state_process_packet state_process_packet smT_process_event smT_process_event packetio_tx_qltlvResp packetio_tx_qltlvResp die die warn warn 0
+main main processCmd processCmd StartTheLelz StartTheLelz send sendto __errno_location 1
+start sub_10006E84 sub_10006E84 1
+TelnetScanner TelnetScanner echoLoader echoLoader socket_connect socket_connect herror herror fprintf vfprintf _vfprintf_internal _vfprintf_internal fputs_unlocked fwrite_unlocked __stdio_fwrite __stdio_wcommit __stdio_WRITE write __errno_location 1
+main main processCmd processCmd UpdateDaBotzzz UpdateDaBotzzz TelnetScanner TelnetScanner connect __errno_location 1
+main main processCmd processCmd MiraiScanner MiraiScanner sockprintf sockprintf print print 1
+main sub_400A10 sub_400A10 0
+main repeater_wps_client repeater_wps_client sub_400C10 sub_400C10 getWscStatus getWscStatus 0
+main main sub_400AC0 sub_400AC0 0
+main main processCmd processCmd PonyScanner PonyScanner fcntl __errno_location 1
+start sub_11D84 sub_11D84 sub_10428 sub_10428 sub_9F98 sub_9F98 sub_81EC sub_81EC 1
+main main processCmd processCmd TelnetSkannahNigga TelnetSkannahNigga EchoLoaderNigger EchoLoaderNigger socket_connect socket_connect herror herror fprintf 1
+main main processCmd processCmd botkiller botkiller sleep sigaction memcpy 1
+main main processCmd processCmd SendBO2 SendBO2 sockprintf sockprintf send sendto __errno_location 1
+sub_804EFFD sub_804EFFD sub_804E2B4 sub_804E2B4 sub_804C6C5 sub_804C6C5 infectlol infectlol system system execl 1
+StartTheLelz StartTheLelz malloc sbrk __init_brk _brk __errno_location 1
+start sub_DCE4 sub_DCE4 sub_D148 sub_D148 sub_B128 sub_B128 sub_9214 sub_9214 sub_8D94 sub_8D94 1
+processCmd StartTheLelz StartTheLelz fcntl __errno_location 1
+main main processCmd processCmd StartTheLelz StartTheLelz socket __errno_location 1
+start sub_1000C00C sub_1000C00C 1
+exif_loader_get_data exif_data_load_data exif_data_load_data exif_entry_get_value exif_entry_get_value sub_4CAACC sub_4CAACC 0
+main main hnapscanner_scanner_init hnapscanner_scanner_init send 1
+main main processCmd processCmd StartTheLelz StartTheLelz sockprintf sockprintf send __errno_location 1
+ether_etoa ether_etoa 0
+processCmd TelnetScan TelnetScan fcntl fcntl64 __errno_location 1
+scanner_init scanner_init report_working report_working send sendto __errno_location 1
+_ftext _ftext sub_405810 sub_405810 sub_4040C0 sub_4040C0 sub_403D5C sub_403D5C sub_4038F8 sub_4038F8 0
+start sub_11D98 sub_11D98 sub_10964 sub_10964 sub_F6E0 sub_F6E0 sub_15D5C sub_15D5C 1
+main scanner_init scanner_init select 1
+start sub_1000B468 sub_1000B468 1
+telnet_scanner telnet_scanner process_retrieve_binary process_retrieve_binary calloc malloc malloc __malloc_consolidate sysconf sysconf opendir fd_to_DIR calloc malloc malloc sbrk _brk 1
+main main commandcontrol commandcontrol telnet_scanner telnet_scanner parse_elf_response parse_elf_response memcpy 1
+main main processCmd processCmd sendTCP sendTCP socket 1
+start sub_123F4 sub_123F4 1
+main main sub_400D04 sub_400D04 sub_400C94 sub_400C94 0
+main main connect_and_join_cac_server connect_and_join_cac_server get_command get_command strcpy 1
+sub_FCA0 sub_FCA0 sub_E980 sub_E980 sendTCP sendTCP sub_8EEC sub_8EEC print print 1
+main main sub_401AB0 sub_401AB0 sub_4017AC sub_4017AC 0
+main main sub_409C34 sub_409C34 testusb testusb usb_init usb_init usb_set_debug usb_set_debug 0
+main main processCmd processCmd StartTheLelz StartTheLelz infectlol infectlol system system fork __errno_location 1
+main processCmd processCmd kill __errno_location 1
+main main processCmd processCmd sendTCP sendTCP socket __errno_location 1
+sub_10006598 _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+main main processCmd processCmd SendPHT SendPHT makeSAHeader makeSAHeader inet_addr inet_aton 1
+main main processCmd processCmd sendHTTP sendHTTP socket_connect socket_connect herror herror fprintf 1
+main main processCmd processCmd RemoveTMP RemoveTMP system system fork __errno_location 1
+processCmd TelnetScanner TelnetScanner fcntl 1
+sub_4296B0 sub_4296B0 sub_429610 sub_429610 sub_429380 sub_429380 log_entry_print log_entry_print msg_flags_string msg_flags_string 0
+_ftext _ftext sub_402F28 sub_402F28 ttloop ttloop telrcv telrcv sub_404BE8 sub_404BE8 netflush netflush 0
+parse_ematch parse_ematch ematch_parse ematch_parse ematch_lex ematch_lex sub_14B18 sub_14B18 0
+processCmd HackaShit HackaShit fcntl fcntl64 __errno_location 1
+main main processCmd processCmd PonyScanner PonyScanner connect __errno_location 1
+main main process_entry process_entry get_protocol get_protocol get_protocol_name get_protocol_name 0
+filecheck filecheck system signal sigaction memcpy 1
+processCmd StartTheLelz StartTheLelz send __errno_location 1
+processCmd StartTheLelz StartTheLelz fcntl 1
+_ftext _ftext sub_4018FC sub_4018FC sub_401294 sub_401294 sub_4011B8 sub_4011B8 sub_401020 sub_401020 0
+main main primary_loop primary_loop udp_handle udp_handle rfc1305print rfc1305print contemplate_data contemplate_data polygon_point polygon_point find_shift find_shift 0
+main main processCmd processCmd MiraiScanner MiraiScanner RemoveTempDirs RemoveTempDirs system system signal sigaction __errno_location 1
+main main processCmd processCmd t_scanner t_scanner get_request get_request socket_connect socket_connect herror herror fprintf 1
+sub_4050FD sub_4050FD sub_40430C sub_40430C sub_40288B sub_40288B GetRandomPublicIP GetRandomPublicIP 1
+main main processCmd processCmd StartTheLelz StartTheLelz socket 1
+process_sup_wpa eapol_sup_process_key eapol_sup_process_key sub_407E50 sub_407E50 sub_40678C sub_40678C 0
+sub_402D34 sub_402D34 ieee802_1x_receive ieee802_1x_receive eapol_sm_step eapol_sm_step sub_404458 sub_404458 ieee802_1x_send_resp_to_server ieee802_1x_send_resp_to_server Radius_client_send Radius_client_send Radius_msg_finish Radius_msg_finish Radius_msg_add_attr Radius_msg_add_attr 0
+start start 1
+start sub_E240 sub_E240 sub_D350 sub_D350 sub_B0A0 sub_B0A0 sub_A734 sub_A734 1
+main main processCmd processCmd sendTCP sendTCP sendto __errno_location 1
+main repeater_wps_client repeater_wps_client sub_400B40 sub_400B40 getWscStatus getWscStatus 0
+start sub_F430 sub_F430 sub_FCD0 sub_FCD0 1
+main main sub_4017D4 sub_4017D4 sub_401314 sub_401314 0
+processCmd TelnetScanner TelnetScanner getdtablesize getrlimit 1
+main main set_device_id set_device_id st_Login st_Login nvram_get_mac_addr nvram_get_mac_addr 0
+main main ensure_single_instance ensure_single_instance system system do_system do_system waitpid wait4 1
+_start main main processCmd processCmd StartTheLelz StartTheLelz __libc_fcntl fcntl64 1
+main main processCmd processCmd SnoopDogg SnoopDogg connect __errno_location 1
+SSHScanner SSHScanner getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+sub_E360 sub_E360 sub_D488 sub_D488 sub_B270 sub_B270 GetRandomPublicIP GetRandomPublicIP 1
+main main processCmd processCmd htp htp getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+start sub_100099B4 sub_100099B4 1
+StartTheLelz StartTheLelz getRandomPublicIP getRandomPublicIP szprintf print print printi prints printchar write __errno_location 1
+main main scanner_init scanner_init resolv_lookup resolv_lookup sleep sigaction 1
+sub_41118C sub_410F20 sub_410F20 sub_40FE3C sub_40FE3C sub_40EB10 sub_40EB10 cmdedit_read_input cmdedit_read_input sub_417BA4 sub_417BA4 concat_path_file concat_path_file bb_xasprintf bb_xasprintf 0
+wfa_GetDeviceInfo wfa_GetDeviceInfo wps_libupnp_ProcessMsg wps_libupnp_ProcessMsg wps_ie_set wps_ie_set wps_wl_set_wps_ie wps_wl_set_wps_ie wps_wl_del_wps_ie wps_wl_del_wps_ie 0
+main main sub_401194 sub_401194 sub_400BD8 sub_400BD8 0
+main main ntfs_volume_check_hiberfile ntfs_volume_check_hiberfile ntfs_inode_lookup_by_name ntfs_inode_lookup_by_name ntfs_attr_mst_pread ntfs_attr_mst_pread ntfs_attr_pread ntfs_attr_pread ntfs_attr_lookup ntfs_attr_lookup ntfs_extent_inode_open ntfs_extent_inode_open ntfs_file_record_read ntfs_file_record_read ntfs_mft_record_check ntfs_mft_record_check 0
+ctor_001 sub_409238 sub_409238 sub_40A854 0
+main main sub_401368 sub_401368 sub_401C3C sub_401C3C sub_401930 sub_401930 0
+u32_parse_opt u32_parse_opt parse_selector parse_selector parse_ip6_addr parse_ip6_addr parse_selector parse_selector parse_ip6_addr parse_ip6_addr parse_selector parse_selector parse_u8 parse_u8 parse_at parse_at parse_u32 parse_u32 parse_u16 parse_u16 parse_at parse_at parse_u32 parse_u32 parse_at parse_at incomplete_command incomplete_command getcmdline getcmdline 0
+start sub_F540 sub_F540 sub_FDE0 sub_FDE0 1
+telnetscanner telnetscanner malloc sbrk __init_brk _brk __errno_location 1
+sub_80519F7 sub_80519F7 sub_805059A sub_805059A sub_804D8AF sub_804D8AF __libc_fcntl 1
+TelnetScan TelnetScan fcntl fcntl64 __errno_location 1
+start sub_F460 sub_F460 sub_FF14 sub_FF14 1
+main main nvram_restore nvram_restore issyspara issyspara 0
+scanner_init scanner_init report_working report_working inet_addr inet_aton 1
+main main processCmd processCmd BotKiller1 BotKiller1 killbot killbot 1
+start sub_C5F4 sub_C5F4 sub_C2BC sub_C2BC 1
+processCmd StartTheLelz StartTheLelz __libc_fcntl fcntl64 1
+main main processCmd processCmd ZergB ZergB zergprint zergprint send __errno_location 1
+main main sub_400810 sub_400810 0
+main main convert_asus_values convert_asus_values convert_routes convert_routes general_conv general_conv 0
+sub_80006314 sub_80006314 sub_80005256 sub_80005256 sub_800021A0 sub_800021A0 getRandomPublicIP getRandomPublicIP 1
+main main processCmd processCmd killer_init killer_init killer_kill_by_port killer_kill_by_port sleep sigaction __errno_location 1
+main main sub_401BE8 sub_401BE8 sub_401188 sub_401188 0
+findARandomIP HackerScan4 HackerScan4 szprintf print print printi prints printchar write __libc_write __errno_location 1
+main main processCmd processCmd SSHScanner SSHScanner getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+network_readable l2tp_tunnel_handle_received_control_datagram l2tp_tunnel_handle_received_control_datagram sub_FC38 sub_FC38 sub_FAF4 sub_FAF4 l2tp_tunnel_xmit_control_message l2tp_tunnel_xmit_control_message sub_F6BC sub_F6BC l2tp_dgram_send_to_wire l2tp_dgram_send_to_wire l2tp_debug_describe_dgram l2tp_debug_describe_dgram l2tp_debug_message_type_to_str l2tp_debug_message_type_to_str 0
+main main scanner_init scanner_init printf printf vfprintf vfprintf malloc _int_malloc _int_malloc sYSMALLOc sYSMALLOc _int_free _int_free malloc_consolidate malloc_consolidate malloc_printerr malloc_printerr __libc_message __libc_message backtrace_symbols_fd backtrace_symbols_fd _itoa_word _itoa_word 1
+htp htp sockprintf print print printi prints printchar write __errno_location 1
+processCmd t_scanner t_scanner fcntl fcntl64 __errno_location 1
+main main processCmd processCmd sendHTTP sendHTTP getdtablesize getrlimit __errno_location 1
+main main processCmd processCmd xtcp xtcp strcoll strcoll 1
+main main sub_403B4C sub_403B4C sub_403320 sub_403320 sub_403194 sub_403194 sub_401E8C sub_401E8C sub_401D8C sub_401D8C sub_401A08 sub_401A08 sub_401BC0 sub_401BC0 sub_401ABC sub_401ABC sub_401A08 sub_401A08 sub_401BC0 sub_401BC0 sub_401A08 sub_401A08 sub_401BC0 sub_401BC0 sub_401ABC sub_401ABC sub_401A08 sub_401A08 sub_401BC0 sub_401BC0 sub_401A08 sub_401A08 sub_401BC0 sub_401BC0 sub_401ABC sub_401ABC sub_40195C sub_40195C sub_400EB0 sub_400EB0 0
+main main processCmd processCmd TelnetRep TelnetRep socket __errno_location 1
+start sub_E02C sub_E02C sub_D490 sub_D490 sub_B580 sub_B580 sub_B1E0 sub_B1E0 sub_B0A4 sub_B0A4 sub_F180 sub_F180 1
+GetNiggerIPS GetNiggerIPS inet_addr inet_aton 1
+sub_408DE0 sub_408DE0 sub_4076B0 sub_4076B0 StartTheLelz StartTheLelz GetRandomPublicIP GetRandomPublicIP 1
+vasprintf vfprintf vfprintf free free _int_free _int_free malloc_consolidate malloc_consolidate __libc_message __libc_message backtrace_symbols_fd backtrace_symbols_fd _itoa_word _itoa_word 1
+sub_44F568 sub_44F568 mxmlElementSetAttr mxmlElementSetAttr mxml_error mxml_error 0
+main main Process_upnphttp Process_upnphttp upnpevents_addSubscriber upnpevents_addSubscriber sub_4111C0 sub_4111C0 0
+main main getOurIP getOurIP ioctl __errno_location 1
+start sub_1000C878 sub_1000C878 1
+_ftext _ftext sub_405868 sub_405868 sub_404118 sub_404118 sub_403DB4 sub_403DB4 sub_403950 sub_403950 0
+gpio_test_write gpio_write_bit gpio_write_bit 0
+start sub_CE70 sub_CE70 sub_CB08 sub_CB08 sub_C544 sub_C544 1
+BeceemAPI_ProcessMessages BeceemAPI_ProcessMessages sub_416D18 sub_416D18 BeceemAPI_NetworkSearchRequest BeceemAPI_NetworkSearchRequest BeceemAPI_OpenDevice BeceemAPI_OpenDevice BeceemAPI_GetSSInfoRequest BeceemAPI_GetSSInfoRequest BeceemAPI_OpenDevice BeceemAPI_OpenDevice BeceemAPI_GetSSInfoRequest BeceemAPI_GetSSInfoRequest BeceemAPI_OpenDevice BeceemAPI_OpenDevice BeceemAPI_SetState BeceemAPI_SetState BeceemAPI_DecodeState BeceemAPI_DecodeState BeceemAPI_ProgramError BeceemAPI_ProgramError 0
+iptables_restore_main iptables_restore_main do_command do_command sub_405BBC sub_405BBC sub_4052C4 sub_4052C4 find_match find_match exit_error exit_error find_target find_target exit_error exit_error find_target find_target exit_error exit_error find_target find_target exit_error exit_error find_target find_target exit_error exit_error exit_tryhelp exit_tryhelp get_kernel_version get_kernel_version 0
+main main processCmd processCmd TelnetScanner TelnetScanner RemoveTempDirs RemoveTempDirs system signal sigaction __errno_location 1
+watchdog_maintain main main scanner_init scanner_init fcntl 1
+sub_433B9C sub_433B9C mxmlElementSetAttr mxmlElementSetAttr mxml_error mxml_error 0
+start sub_10094 sub_10094 sub_10B48 sub_10B48 1
+main main FindAllApp FindAllApp SendHttpReq SendHttpReq 0
+main main sub_4041C0 sub_4041C0 sub_4040E8 sub_4040E8 sub_403F50 sub_403F50 0
+sub_1000C0C0 sub_10009298 sub_10009298 __libc_fcntl 1
+main ASUS_Discovery ASUS_Discovery ParseASUSDiscoveryPackage ParseASUSDiscoveryPackage PROCESS_UNPACK_GET_INFO PROCESS_UNPACK_GET_INFO 0
+main main killer_init killer_init table_unlock_val table_unlock_val printf 1
+main main read_opts read_opts sub_412988 sub_412988 sub_412490 sub_412490 sub_40C888 sub_40C888 sub_412988 sub_412988 sub_412490 sub_412490 sub_40C888 sub_40C888 sub_412988 sub_412988 sub_412490 sub_412490 sub_40C888 sub_40C888 die die my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 my_syslog my_syslog sub_429770 sub_429770 0
+StartTheLelz StartTheLelz sockprintf sockprintf print print printi prints printchar write __libc_write __errno_location 1
+sub_1E834 sub_1E834 sub_1CD70 sub_1CD70 sub_1968C sub_1968C __libc_fcntl 1
+start sub_E0E8 sub_ECA4 sub_ECA4 1
+main main rules_from_config rules_from_config xrealloc xrealloc 0
+main main sub_403AD0 sub_403AD0 Config_read Config_read Query_config_from_driver Query_config_from_driver RT_ioctl RT_ioctl 0
+start sub_FCCC 1
+main main processCmd processCmd StartTheLelz StartTheLelz ISTHISLIZARDSQUADSECHOLOADER ISTHISLIZARDSQUADSECHOLOADER socket_connect socket_connect herror herror fprintf 1
+main main FindAllApp FindAllApp SendSMBReq SendSMBReq 0
+main main botkill botkill system signal sigaction memcpy 1
+main main processCmd processCmd HekThaModems HekThaModems matchPrompt matchPrompt strlen 1
+sub_10002004 _ZN6vectorIjED2Ev 0
+main main processCmd processCmd StartTheLelz StartTheLelz sockprintf sockprintf sub_4025B4 sub_4025B4 1
+main main encryption_init encryption_init memcpy 1
+start sub_116F4 sub_116F4 sub_13598 sub_13598 sub_12798 sub_12798 1
+main main get_webdav_https_port get_webdav_https_port 0
+SSHScanner SSHScanner matchPrompt matchPrompt strlen 1
+sub_10013AF8 inet_pton inet_pton 1
+start sub_E3AC sub_E3AC sub_DA6C sub_DA6C sub_B7BC sub_B7BC sub_9B60 sub_9B60 sub_9A24 sub_9A24 sub_F810 sub_F810 1
+attack_kill_all scanner_init scanner_init select __errno_location 1
+Socket_Parser Socket_Parser cmd_parser cmd_parser api_move api_move upload_file upload_file api_upload_put api_upload_put write_log write_log dofile dofile doit doit cJSON_Parse cJSON_Parse sub_439AC8 sub_439AC8 sub_439F94 sub_439F94 sub_439AC8 sub_439AC8 sub_439F94 sub_439F94 sub_439AC8 sub_439AC8 sub_43A7E0 sub_43A7E0 sub_439AC8 sub_439AC8 sub_43A7E0 sub_43A7E0 sub_439AC8 sub_439AC8 sub_4381E0 sub_4381E0 0
+sub_10004258 _ZN6vectorIjED2Ev 0
+main main sub_405368 sub_405368 start_scanner start_scanner fill_playlists fill_playlists GetFolderMetadata GetFolderMetadata sql_exec sql_exec 0
+start sub_110E0 sub_110E0 sub_12D28 sub_12D28 sub_1298C sub_1298C 1
+main main commandcontrol commandcontrol telnet_scanner telnet_scanner parse_elf_response parse_elf_response strlen 1
+main waitpid wait4 1
+start sub_11B98 sub_11B98 1
+_ftext _ftext sub_402908 sub_402908 0
+start start sub_1F020 sub_1F020 sub_1EF74 sub_1EF74 1
+main main libubi_open libubi_open read_positive_int read_positive_int read_positive_ll read_positive_ll 0
+SSHScanner SSHScanner RemoveTempDirs RemoveTempDirs system system fork __errno_location 1
+main main processCmd processCmd atcp atcp strcoll strcoll 1
+main dns_init dns_init cache_purge cache_purge cache_add_hosts_entries cache_add_hosts_entries 0
+findARandomIP HackerScan2 HackerScan2 szprintf print print printi prints printchar write __errno_location 1
+main main processCmd processCmd StartTheLelz StartTheLelz matchPrompt matchPrompt 1
+sub_403690 sub_403690 main main sub_4136C0 sub_4136C0 sub_40F5E4 sub_40F5E4 sub_40F280 sub_40F280 sub_40D78C sub_40D78C sub_40AF40 sub_40AF40 0
+_ftext _ftext sub_4016A0 sub_4016A0 sub_401544 sub_401544 0
+main addVIF log 0
+main main start_daemon start_daemon parse_arguments parse_arguments parse_rule parse_rule _exit_cleanup _exit_cleanup finish_transfer finish_transfer make_backup make_backup set_file_attrs set_file_attrs rsyserr rsyserr rwrite rwrite _exit_cleanup _exit_cleanup finish_transfer finish_transfer make_backup make_backup make_file make_file rsyserr rsyserr _exit_cleanup _exit_cleanup finish_transfer finish_transfer rsyserr rsyserr rwrite rwrite filtered_fwrite filtered_fwrite _exit_cleanup _exit_cleanup log_exit log_exit __floatdidf 0
+set_nt_acl set_nt_acl unpack_nt_owners unpack_nt_owners sid_to_uid sid_to_uid get_global_sam_sid get_global_sam_sid smb_panic smb_panic lp_panic_action lp_panic_action sub_45110 sub_45110 alloc_sub_basic alloc_sub_basic realloc_string_sub realloc_string_sub strstr_m strstr_m dbghdr dbghdr current_timestring current_timestring 0
+accept_msg accept_msg print_route print_route rtnl_rtscope_n2a rtnl_rtscope_n2a sub_2A00C sub_2A00C sub_29E30 sub_29E30 0
+main main cncinput cncinput atcp atcp strcoll 1
+main main sub_403F18 sub_403F18 sub_403858 sub_403858 sub_4032BC sub_4032BC sub_403060 sub_403060 wpa_ctrl_open wpa_ctrl_open 0
+main eapd_wksp_auto_config eapd_wksp_auto_config nas_app_enabled nas_app_enabled eapd_safe_get_conf eapd_safe_get_conf 0
+Do_control_file Do_control_file Set_hold_file Set_hold_file Set_str_value Set_str_value Add_line_list Add_line_list Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die Check_max Check_max realloc_or_die realloc_or_die 0
+sub_40110C sub_40110C insert_user_in_smbpasswd insert_user_in_smbpasswd 0
+main main send_sg_cmd send_sg_cmd 0
+process_sup_wpa eapol_sup_process_key eapol_sup_process_key sub_407C30 sub_407C30 sub_4065DC sub_4065DC 0
+main main process process send_ra_forall send_ra_forall sub_404B90 sub_404B90 reload_config reload_config send_ra_forall send_ra_forall sub_404B90 sub_404B90 reload_config reload_config sub_402F80 sub_402F80 yyparse yyparse setup_deviceinfo setup_deviceinfo 0
+main scanner_init scanner_init inet_addr inet_aton 1
+main main sub_40173C sub_40173C sub_4013D4 sub_4013D4 0
+resolve_cnc_addr resolve_cnc_addr resolv_lookup resolv_lookup printf 1
+buffered_vfprintf_0 vfwprintf vfwprintf __assert_fail __assert_fail __assert_fail_base __assert_fail_base __fxprintf __fxprintf vfwprintf vfwprintf __assert_fail __assert_fail __assert_fail_base __assert_fail_base __fxprintf __fxprintf vfwprintf vfwprintf wcsnlen 1
+main kill_daemons find_pid_by_name 0
+main main read_opts read_opts sub_413B5C sub_413B5C sub_413500 sub_413500 sub_40DD40 sub_40DD40 sub_413B5C sub_413B5C sub_413500 sub_413500 sub_40DD40 sub_40DD40 die die my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog sub_429244 sub_429244 my_syslog my_syslog 0
+dgst_main dgst_main sub_4D9E4 sub_4D9E4 sub_4CFB0 sub_4CFB0 password_callback password_callback 0
+main main processCmd processCmd xtcp xtcp socket __errno_location 1
+realloc_check realloc_check fprintf vfprintf vfprintf strerror_r strerror_r mempcpy 1
+main main get_ip_address get_ip_address launch_callmgr launch_callmgr callmgr_main callmgr_main pptp_conn_close pptp_conn_close pptp_call_close pptp_call_close pptp_send_ctrl_packet pptp_send_ctrl_packet pptp_conn_destroy pptp_conn_destroy pptp_call_destroy pptp_call_destroy vector_contains vector_contains 0
+network_readable l2tp_tunnel_handle_received_control_datagram l2tp_tunnel_handle_received_control_datagram sub_408CA0 sub_408CA0 sub_408B44 sub_408B44 l2tp_tunnel_xmit_control_message l2tp_tunnel_xmit_control_message sub_4085F0 sub_4085F0 l2tp_dgram_send_to_wire l2tp_dgram_send_to_wire l2tp_debug_describe_dgram l2tp_debug_describe_dgram l2tp_debug_message_type_to_str l2tp_debug_message_type_to_str 0
+_start sub_141EC sub_141EC sub_12C50 sub_12C50 StartTheLelz StartTheLelz __libc_fcntl 1
+MiraiScanner MiraiScanner contains_success contains_success contains_string 1
+main main get_cpu_nr get_cpu_nr sub_40B0AC sub_40B0AC 0
+sub_4075F0 sub_4075F0 sub_40F248 sub_40F248 sub_40DD50 sub_40DD50 sub_406B70 sub_406B70 sub_405A2C sub_405A2C warn warn 0
+uzitelscanargs uzitelscan uzitelscan getRandomPublicIP getRandomPublicIP 1
+start sub_EAE4 sub_EAE4 sub_F4EC sub_F4EC 1
+TelnetScan TelnetScan sockprintf print print printi prints printchar write __errno_location 1
+start sub_E128 sub_E128 sub_D570 sub_D570 sub_B11C sub_B11C sub_9220 sub_9220 sub_8DA0 sub_8DA0 1
+main main dhcp_packet dhcp_packet dhcp_reply dhcp_reply sub_42561C sub_42561C sub_42508C sub_42508C my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog sub_42DFE8 sub_42DFE8 my_syslog my_syslog 0
+start sub_FAE8 sub_FAE8 1
+sub_404B68 sub_402F88 sub_402F88 sub_402B48 sub_402B48 watch_dir watch_dir 0
+sub_409388 sub_409388 sub_40451C sub_40451C sub_40462C sub_40462C sub_40451C sub_40451C sub_40462C sub_40462C sub_40451C sub_40451C sub_40462C sub_40462C xsetuid xsetuid bb_perror_msg_and_die bb_perror_msg_and_die bb_verror_msg bb_verror_msg xrealloc xrealloc 0
+sub_10020C9C _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+main main processCmd processCmd StartTheLelz StartTheLelz __libc_fcntl fcntl64 1
+iptables_main iptables_main do_command do_command sub_406FD4 sub_406FD4 sub_40691C sub_40691C 0
+sub_40DFEC sub_40DFEC set_wltxpower set_wltxpower wltxpower_rtn12hp wltxpower_rtn12hp setpoweroffset_rtn12hp setpoweroffset_rtn12hp 0
+start sub_E124 sub_ECE0 sub_ECE0 1
+sub_10003F0C _ZN6vectorIjEC2Ej 0
+start sub_9F08 sub_9F08 sub_9B18 sub_9B18 sub_9050 sub_9050 sub_8EE8 sub_8EE8 1
+main main nvram_save_new nvram_save_new get_rand get_rand 0
+main main chat_expect chat_expect chat_send chat_send put_string put_string write_char write_char put_char put_char fatal fatal terminate terminate get_char get_char fatal fatal terminate terminate fatal fatal terminate terminate get_char get_char fatal fatal terminate terminate echo_stderr echo_stderr character character 0
+start sub_E778 sub_E778 1
+main main processCmd processCmd CleanDevice CleanDevice system system signal sigaction memcpy 1
+main main scanner_init scanner_init recvfrom 1
+start sub_9C54 sub_ABCC sub_ABCC 1
+help help mfork mfork fork pthread_mutexattr_settype 1
+main main processCmd processCmd ICMPFlood ICMPFlood system signal sigaction memcpy 1
+do_xfrm_state do_xfrm_state xfrm_state_print xfrm_state_print xfrm_state_info_print xfrm_state_info_print xfrm_xfrma_print xfrm_xfrma_print xfrm_id_info_print xfrm_id_info_print rt_addr_n2a rt_addr_n2a 0
+start sub_1050C sub_1050C sub_10EEC sub_10EEC 1
+process_sup_wpa eapol_sup_process_key eapol_sup_process_key sub_407EA0 sub_407EA0 sub_4067DC sub_4067DC 0
+sub_100118FC inet_pton inet_pton 1
+main main read_opts read_opts sub_415268 sub_415268 sub_414C0C sub_414C0C sub_40E53C sub_40E53C sub_415268 sub_415268 sub_414C0C sub_414C0C sub_40E53C sub_40E53C die die my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog sub_42BF64 sub_42BF64 my_syslog my_syslog 0
+sub_4009D0 sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 main main sub_400A04 sub_400A04 0
+start sub_E0A0 sub_ECB0 sub_ECB0 1
+start sub_102A4 sub_102A4 sub_E9D0 sub_E9D0 sub_9D3C sub_9D3C sub_9C9C sub_9C9C 1
+sendUNKNOWN processCmd processCmd TelnetScanner TelnetScanner sockprintf sockprintf send __errno_location 1
+start sub_100097A4 sub_100097A4 1
+main main processCmd processCmd StartTheLelz StartTheLelz infectlol infectlol system system signal sigaction __errno_location 1
+ej_wl_status_2g ej_wl_status_2g ej_wl_status ej_wl_status wl_control_channel wl_control_channel sub_427990 sub_427990 0
+main main sub_403E8C sub_403E8C gen_ralink_config gen_ralink_config mac_conv mac_conv 0
+attack_app_http attack_app_http sleep sigaction memcpy 1
+main main gponscanner_scanner_init gponscanner_scanner_init fork 1
+processCmd sendHTTP sendHTTP getdtablesize getrlimit __errno_location 1
+start sub_E838 sub_E838 1
+main main HTTPSCANNER_SCanner_init HTTPSCANNER_SCanner_init sendto 1
+main main fdpopen fdpopen malloc sbrk __init_brk _brk __errno_location 1
+start sub_1000B750 sub_1000B750 1
+start sub_11834 sub_11834 sub_FA74 sub_FA74 sub_F614 sub_F614 sub_16720 sub_16720 1
+start sub_DF0C sub_DF0C sub_D354 sub_D354 sub_B3B4 sub_B3B4 sub_B010 sub_B010 sub_AEB4 sub_AEB4 sub_F18C sub_F18C 1
+main main processCmd processCmd TelnetScanner TelnetScanner send_to_receiver send_to_receiver sleep sigaction memcpy 1
+sub_806AC38 ctor_001 ctor_001 sub_8053F08 sub_8053F08 sub_8053E17 0
+sub_403A84 sub_403A84 client6_script client6_script safefile safefile my_dprintf my_dprintf 0
+main main SetAclEntry SetAclEntry 0
+main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 main main sub_400DE8 sub_400DE8 0
+main waitforconnects waitforconnects wakeme wakeme usage usage 0
+main main processCmd processCmd sendTCP sendTCP sockprintf sockprintf print print 1
+main main conf_read conf_read os_chown os_chown err_log err_log util_mutex_lock util_mutex_lock _util_mutex_init _util_mutex_init 0
+main main processCmd processCmd StartTheLelz StartTheLelz readUntil readUntil select 1
+start sub_10D98 sub_10D98 sub_F690 sub_F690 sub_C1D4 sub_C1D4 sub_C0D4 sub_C0D4 sub_BF78 sub_BF78 sub_124E0 sub_124E0 1
+sub_402E10 sub_402E10 bftpd_login bftpd_login print_file print_file control_printf control_printf bftpd_statuslog bftpd_statuslog 0
+start sub_F47C sub_F47C sub_E908 sub_E908 1
+main main malloc malloc __malloc_consolidate sysconf sysconf nprocessors_onln nprocessors_onln __GI_config_close fclose free __malloc_consolidate sysconf sysconf nprocessors_onln nprocessors_onln __GI_config_read malloc malloc sbrk __init_brk _brk 1
+_ftext _ftext sub_404A40 sub_404A40 sub_409164 sub_409164 sub_408C60 sub_408C60 sub_4086FC sub_4086FC sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 sub_4073B0 sub_4073B0 sub_407250 sub_407250 0
+main main processCmd processCmd botkiller botkiller check_exe check_exe open __errno_location 1
+main main processCmd processCmd TelnetRep TelnetRep fcntl fcntl64 __errno_location 1
+sub_10D98 sub_10D98 sub_F690 sub_F690 sub_C1D4 sub_C1D4 ZeroEchoLoader ZeroEchoLoader sub_BF78 sub_BF78 perror perror 1
+process_sup_wpa eapol_sup_process_key eapol_sup_process_key sub_4040D4 sub_4040D4 sub_4022D8 sub_4022D8 nas_get_wpa_ie nas_get_wpa_ie 0
+main main read_opts read_opts sub_40C2CC sub_40C2CC sub_40C398 sub_40C398 sub_40C2CC sub_40C2CC sub_40C398 sub_40C398 sub_40C2CC sub_40C2CC sub_40C398 sub_40C398 sub_40C2CC sub_40C2CC sub_40C398 sub_40C398 safe_malloc safe_malloc die die my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 my_syslog my_syslog sub_427290 sub_427290 0
+iptables_main iptables_main do_command4 do_command4 sub_405308 sub_405308 sub_405144 sub_405144 0
+main main _Z11MainBeikongv _Z11MainBeikongv _Z11MainProcessv _Z11MainProcessv _ZN12CConfigDoing10InitializeEv _ZN12CConfigDoing10InitializeEv _ZN8CUtility6IsRootEv _ZN8CUtility6IsRootEv 1
+main main usage usage 0
+main main processCmd processCmd strcoll strcoll 1
+start sub_DFC8 sub_DFC8 sub_C6F8 sub_C6F8 1
+_ftext _ftext sub_4010D4 sub_4010D4 0
+main main run_packet_queue run_packet_queue process_logon_packet process_logon_packet send_mailslot send_mailslot 0
+main eapd_wksp_auto_config eapd_wksp_auto_config sub_40441C sub_40441C 0
+start sub_FDA8 sub_FDA8 1
+main main malloc malloc __malloc_consolidate sysconf sysconf nprocessors_onln nprocessors_onln __GI_config_close free __malloc_consolidate sysconf sysconf nprocessors_onln nprocessors_onln __GI_config_read 1
+start sub_130A0 sub_130A0 1
+start sub_106FC sub_106FC 1
+main main sub_403CE0 sub_403CE0 sub_405C68 sub_405C68 sub_40666C sub_40666C sub_409488 sub_409488 sub_4084C4 sub_4084C4 sub_407D04 sub_407D04 0
+main main sub_4048D0 sub_4048D0 sub_405F7C sub_405F7C sub_4066E0 sub_4066E0 sub_408B00 sub_408B00 sub_407E60 sub_407E60 sub_407880 sub_407880 0
+malloc_check _int_malloc _int_malloc _int_free _int_free malloc_consolidate malloc_consolidate __malloc_assert __malloc_assert __fxprintf __fxprintf vfwprintf vfwprintf __readonly_area __readonly_area fclose fclose __gconv_release_step __gconv_release_step __assert_fail __assert_fail __assert_fail_base __assert_fail_base __fxprintf __fxprintf vfwprintf vfwprintf strerror_r strerror_r mempcpy 1
+main main report report get_wlan0_stats get_wlan0_stats 0
+start sub_1000A4D8 1
+sub_409318 sub_409318 daap_response_songlist daap_response_songlist daap_add_song_entry daap_add_song_entry daap_add_string daap_add_string daap_add_formatted daap_add_formatted daap_get_new daap_get_new err_log err_log 0
+main scanner_init scanner_init send 1
+main main sub_401174 sub_401174 sub_400BB8 sub_400BB8 0
+sub_10004044 _ZN6vectorI7IPAddr6EC2ERKS1_ 0
+start sub_E6F8 sub_E6F8 1
+botkiller botkiller opendir calloc malloc sbrk __init_brk _brk __errno_location 1
+main main processCmd processCmd HangTheNiggers HangTheNiggers GetMeHellaBots GetMeHellaBots inet_addr inet_aton 1
+main main udpxy_main udpxy_main srv_loop srv_loop process_requests process_requests read_data read_data read_frecord read_frecord read_buf read_buf mperror mperror tmfprintf tmfprintf get_pidstr get_pidstr 0
+start sub_92A4 sub_92A4 sub_9D90 sub_9D90 sub_9C30 1
+start sub_ED88 sub_ED88 sub_DB04 sub_DB04 sub_A690 sub_A690 sub_9E4C sub_9E4C 1
+processCmd telnetrep telnetrep fcntl fcntl64 __errno_location 1
+scanner_init scanner_init printf printf vfprintf vfprintf malloc _int_malloc _int_malloc sYSMALLOc sYSMALLOc _int_free _int_free malloc_consolidate malloc_consolidate malloc_printerr malloc_printerr __libc_message __libc_message backtrace_symbols_fd backtrace_symbols_fd _itoa_word _itoa_word 1
+start sub_8720 sub_8720 sub_841C sub_841C 1
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptGroupReport acceptGroupReport insertRoute insertRoute sendJoinLeaveUpstream sendJoinLeaveUpstream my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket my_log my_log openUdpSocket openUdpSocket 0
+StartTheLelz StartTheLelz getdtablesize getrlimit 1
+main main if_wan_phyconnected if_wan_phyconnected chk_proto chk_proto check_ppp_link_exist check_ppp_link_exist 0
+attack_kill_all scanner_init scanner_init recv 1
+main main run_script run_script sub_403950 sub_403950 0
+main main scanner_init scanner_init memmove 1
+sub_40CC68 sub_40CC68 handle_notifications handle_notifications start_wan start_wan start_wan_if start_wan_if wan_up wan_up start_vpnc start_vpnc stop_vpnc stop_vpnc kill_pidfile_tk kill_pidfile_tk 0
+botnetTScan botnetTScan botnetPrint print print printi prints printchar write __errno_location 1
+sub_E240 sub_E240 sub_D350 sub_D350 sub_B0A0 sub_B0A0 GetRandomPublicIP GetRandomPublicIP 1
+start sub_FA30 sub_FA30 sub_104E4 sub_104E4 1
+main main initandparserfile initandparserfile sub_436C88 sub_436C88 0
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptLeaveMessage acceptLeaveMessage remove_member remove_member sub_40D2BC sub_40D2BC sub_40E36C sub_40E36C sub_40E14C sub_40E14C 0
+main main processCmd processCmd StartTheLelz StartTheLelz matchPrompt matchPrompt strlen 1
+main main processCmd processCmd scan scan get_request get_request ssc ssc herror herror hstrerror hstrerror 1
+macRT7530VlanActive macRT7530VlanActive gsw_reg_read2 gsw_reg_read2 0
+main main version version readin_config readin_config yyparse yyparse yylex yylex yyrestart yyrestart yy_create_buffer yy_create_buffer sub_40814C sub_40814C 0
+sub_410000 sub_410000 load_key load_key sub_43ECB0 sub_43ECB0 0
+main main processCmd processCmd StartTheLelz StartTheLelz RemoveTempDirs RemoveTempDirs system signal sigaction memcpy 1
+StartTheLelz StartTheLelz HackerScan2 HackerScan2 szprintf print print printi prints printchar write __errno_location 1
+processCmd processCmd StartTheLelz StartTheLelz 1
+main main FlashRead FlashRead 0
+main main doscript doscript getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring getstringindex getstringindex getindex getindex serror serror vmsg vmsg 0
+start sub_FB9C sub_FB9C sub_106AC sub_106AC 1
+main main processCmd processCmd ElfenLiedScan ElfenLiedScan send __errno_location 1
+main main processCmd processCmd CleanDevice CleanDevice system signal sigaction memcpy 1
+main main huawei_init huawei_init fcntl 1
+p295D9ECBAF5D559FCB2AA86C93E684A4 p295D9ECBAF5D559FCB2AA86C93E684A4 pD7ACCC15B62AB9740F1DCA47F2B2C769 1
+sub_44BCF4 sub_44BCF4 get_reg_rate_index_from_ratespec get_reg_rate_index_from_ratespec sub_453E24 sub_453E24 sub_453DF0 sub_453DF0 0
+main main sub_401874 sub_401874 sub_401570 sub_401570 0
+sub_10002594 _ZN6vectorIjED2Ev 0
+main main run_packet_queue run_packet_queue sub_411644 sub_411644 find_response_record find_response_record 0
+SSHScanner SSHScanner getRandomPublicIP getRandomPublicIP szprintf print print printi prints printchar write __libc_write __errno_location 1
+wfa_PutMessage wfa_PutMessage wps_libupnp_ProcessMsg wps_libupnp_ProcessMsg wpsap_open_session wpsap_open_session sub_41E60C sub_41E60C wps_start_ap_registration wps_start_ap_registration wps_setWpsIE wps_setWpsIE wps_ie_set wps_ie_set sub_40DE6C sub_40DE6C wps_wl_set_wps_ie wps_wl_set_wps_ie wps_wl_del_wps_ie wps_wl_del_wps_ie 0
+main main script_call script_call sub_40834C sub_40834C 0
+main main processCmd processCmd RemoveTempDirs RemoveTempDirs system signal sigaction memcpy 1
+afp_openfork afp_openfork cname cname dirlookup dirlookup dircache_add dircache_add dir_remove dir_remove dircache_remove dircache_remove dircache_dump dircache_dump 0
+_ftext _ftext sub_4018B8 sub_4018B8 sub_408658 sub_408658 sub_408858 sub_408858 sub_408904 sub_408904 sub_408A4C sub_408A4C sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 sub_4064D4 sub_4064D4 sub_406540 sub_406540 0
+start sub_E88C sub_F49C sub_F49C 1
+_ftext _ftext sub_400AE0 sub_400AE0 0
+sub_403240 sub_403240 sub_400DC4 print print printi prints printchar write 1
+processReq processPacket processPacket get_lan_netmask get_lan_netmask 0
+start sub_130C0 sub_130C0 1
+sub_44193C sub_44193C sub_43FECC sub_43FECC ppr_get_vht_mcs ppr_get_vht_mcs sub_44A15C sub_44A15C 0
+network_readable l2tp_tunnel_handle_received_control_datagram l2tp_tunnel_handle_received_control_datagram sub_FC60 sub_FC60 sub_FB1C sub_FB1C l2tp_tunnel_xmit_control_message l2tp_tunnel_xmit_control_message sub_F6E4 sub_F6E4 l2tp_dgram_send_to_wire l2tp_dgram_send_to_wire l2tp_debug_describe_dgram l2tp_debug_describe_dgram l2tp_debug_message_type_to_str l2tp_debug_message_type_to_str 0
+main main processCmd processCmd tcpFl00d tcpFl00d inet_addr inet_aton 1
+sub_804DE50 sub_804DE50 sub_8052298 sub_8052298 _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+asus_usb_interface asus_usb_interface init_3g_param init_3g_param write_3g_conf write_3g_conf 0
+Socket_Parser Socket_Parser cmd_parser cmd_parser Move Move createFolder createFolder Upload Upload Mkcol Mkcol is_server_exist is_server_exist getCloudInfo getCloudInfo write_log write_log ne_getrouterinfo ne_getrouterinfo sub_40BE1C sub_40BE1C 0
+sub_415C60 sub_415C60 sub_415AF8 sub_415AF8 sub_4154E8 sub_4154E8 sub_41508C sub_41508C sprint_nip6 sprint_nip6 sub_4061E4 sub_4061E4 0
+cmd_parser perform_socket_cmd perform_socket_cmd uploadFile uploadFile initBinaryUpload initBinaryUpload parseDoc1 parseDoc1 sub_40E7AC sub_40E7AC handle_error handle_error 0
+start sub_96AC sub_96AC sub_A190 sub_A190 1
+scan scan get_request get_request ssc ssc gethostbyname gethostbyname_r __get_hosts_byname_r __read_etc_hosts_r inet_pton inet_pton inet_pton4 memcpy 1
+main main processCmd processCmd httphex httphex strcoll strcoll 1
+help help sleep sigaction memcpy 1
+main sub_40ABB8 process_event sub_4081FC get_hidden_mib wlioctl_get_mib 0
+_ftext _ftext sub_4013F0 sub_4013F0 0
+ej_wps_info_2g wl_wps_info wl_wps_info getWPSEncrypType getWPSEncrypType 0
+ctor_001 sub_8050E64 sub_8050E64 sub_8051E14 0
+main main processCmd processCmd StartTheCheats StartTheCheats select __errno_location 1
+main main processCmd processCmd sendTCP sendTCP HackerScan2 HackerScan2 1
+start sub_E55C sub_E55C sub_D39C sub_D39C sub_8FA8 sub_8FA8 1
+StartTheLelz StartTheLelz echoLoader echoLoader socket_connect socket_connect gethostbyname gethostbyname_r __get_hosts_byname_r __read_etc_hosts_r fclose fflush_unlocked _stdio_openlist_dec_use free pthread_mutex_lock __pthread_alt_lock __pthread_acquire nanosleep __libc_nanosleep __errno_location 1
+main main sub_401D0C sub_401D0C 0
+main main sub_804C250 sub_804C250 sub_804E370 sub_804E370 sub_8049B30 sub_8049B30 1
+main main scanner_init scanner_init memcpy 1
+start sub_1000C998 sub_1000C998 1
+d_print_subexpr d_print_comp.part.10 d_print_comp.part.10 d_print_mod d_print_mod d_print_comp.part.10 d_print_comp.part.10 d_print_mod d_print_mod d_print_comp.part.10 d_print_comp.part.10 sprintf vsprintf vfprintf vfprintf wcsrtombs wcsrtombs __assert_fail __assert_fail __assert_fail_base __assert_fail_base __fxprintf __fxprintf vfwprintf vfwprintf __printf_fphex __printf_fphex _itoa _itoa 1
+main main processCmd processCmd RemoveTMP RemoveTMP system system signal sigaction memcpy 1
+t_scanner t_scanner sockprintf print print printi prints printchar write __errno_location 1
+start sub_D718 sub_D718 sub_D414 sub_D414 sub_CE50 sub_CE50 1
+_ftext _ftext sub_4016C4 sub_4016C4 sub_4015B0 sub_4015B0 0
+_ftext _ftext find_uid_for_user find_uid_for_user 0
+main sub_403E28 sub_403C8C sub_403B68 recover_rules upnp_redirect get_redirect_rule sub_40D540 0
+main main http_login_timeout http_login_timeout http_logout http_logout delete_logout_from_list delete_logout_from_list search_token_in_list search_token_in_list 0
+sub_40E4E0 sub_40A1B0 sub_40A1B0 _Z7commandiPKci _Z7commandiPKci sub_406868 sub_406868 sub_4066C8 sub_4066C8 0
+scan scan HackerScan1 HackerScan1 szprintf print print printi prints printchar write __errno_location 1
+sub_409E58 sub_409E58 daap_response_songlist daap_response_songlist daap_add_song_entry daap_add_song_entry daap_free daap_free err_log err_log 0
+main main processCmd processCmd sendTCP sendTCP 1
+start sub_12FB4 sub_12FB4 1
+do_iproute do_iproute iproute_get iproute_get print_route print_route sub_4087C8 sub_4087C8 0
+sub_409E99 sub_409E99 sub_408848 sub_408848 sub_406124 sub_406124 fcntl64 1
+start sub_D7CC sub_D7CC sub_E3DC sub_E3DC 1
+scan_root sub_4038B4 sub_4038B4 lfn_add_slot lfn_add_slot fs_write fs_write fs_test fs_test pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie alloc alloc pdie pdie 0
+main main options_from_user options_from_user options_from_file options_from_file sub_42209C sub_42209C option_error option_error vslprintf vslprintf 0
+_ftext _ftext sub_401F70 sub_401F70 0
+main main processCmd processCmd SSHSkannahNigga SSHSkannahNigga matchPrompt matchPrompt strlen 1
+main main relayLoop relayLoop relayGotDiscoveryPacket relayGotDiscoveryPacket relayHandlePADS relayHandlePADS sendPacket sendPacket sysErr sysErr printErr printErr 0
+main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext main main _ftext _ftext 0
+start sub_DF10 sub_DF10 sub_D354 sub_D354 sub_B3B4 sub_B3B4 sub_B010 sub_B010 sub_AEB4 sub_AEB4 sub_F18C sub_F18C 1
+network_readable l2tp_tunnel_handle_received_control_datagram l2tp_tunnel_handle_received_control_datagram sub_409DC4 sub_409DC4 sub_4099D0 sub_4099D0 l2tp_tunnel_xmit_control_message l2tp_tunnel_xmit_control_message sub_409440 sub_409440 Event_DelHandler Event_DelHandler sub_40C178 sub_40C178 Event_DebugMsg Event_DebugMsg 0
+fuckfatpeople fuckfatpeople fcntl fcntl64 __errno_location 1
+start sub_D55C sub_D55C sub_E014 sub_E014 1
+processCmd StartTheLelz StartTheLelz connect 1
+sub_4079C0 sub_4079C0 sub_40B9D0 sub_40B9D0 _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+init_instance_handle_signals init_instance init_instance sub_420710 sub_420710 do_route do_route plugin_call_ssl plugin_call_ssl make_env_array make_env_array gc_malloc gc_malloc assert_failed assert_failed dont_mute dont_mute 0
+insmod_main insmod_main sub_409A14 sub_409A14 sub_4098DC sub_4098DC xmalloc xmalloc 0
+packetio_recv_handler packetio_recv_handler qosrcvpkt qosrcvpkt get_raw_samples get_raw_samples warn warn 0
+main main processCmd processCmd StartTheLelz StartTheLelz strcasestr 1
+asus_tty asus_tty init_3g_param init_3g_param write_3g_conf write_3g_conf nvram_safe_get_2 nvram_safe_get_2 0
+sub_403E90 sub_403E90 dhcp6_get_options dhcp6_get_options sub_409BC4 sub_409BC4 dhcp6_add_listval dhcp6_add_listval my_dprintf my_dprintf 0
+main main table_dump table_dump reg_write reg_write table_dump table_dump reg_write reg_write table_dump table_dump reg_read reg_read reg_write reg_write table_dump table_dump reg_read reg_read reg_write reg_write table_dump table_dump reg_read reg_read reg_write reg_write table_dump table_dump reg_write reg_write table_dump table_dump reg_read reg_read reg_write reg_write table_dump table_dump reg_read reg_read reg_write reg_write table_dump table_dump reg_read reg_read reg_write reg_write table_dump table_dump reg_read reg_read reg_write reg_write table_dump table_dump reg_read reg_read reg_write reg_write table_dump table_dump reg_read reg_read reg_write reg_write table_dump table_dump reg_read reg_read reg_write reg_write table_dump table_dump reg_read reg_read 0
+main main ip6tables_restore_main ip6tables_restore_main do_command6 do_command6 sub_404A3C sub_404A3C sub_40451C sub_40451C 0
+main main processCmd processCmd StartTheLelz StartTheLelz sleep sigaction memcpy 1
+sub_21084 configparser configparser sub_22ED4 sub_22ED4 sub_22294 sub_22294 array_insert_unique array_insert_unique 0
+_ftext _ftext sub_404DEC sub_404DEC sub_4038B4 sub_4038B4 sub_403548 sub_403548 sub_4030C8 sub_4030C8 0
+sub_402888 sub_402888 sub_410A04 sub_410A04 mdio_read mdio_read 0
+main main processCmd processCmd TelnetScan TelnetScan select __errno_location 1
+start sub_1000C898 sub_1000C898 1
+main main options_from_file options_from_file sub_23C94 sub_23C94 int_option int_option option_error option_error vslprintf vslprintf 0
+getVirtualIndex getIndex isDhcpClientExist getPid 0
+br_cmd_showstp br_dump_info br_dump_port_info br_dump_bridge_id 0
+main main fuckinghugec0ck fuckinghugec0ck fuckfatpeople fuckfatpeople bignetreppin bignetreppin print print 1
+processCmd httphex httphex fork __errno_location 1
+main main fuckinghugec0ck fuckinghugec0ck d0ggyd1ckz d0ggyd1ckz strcoll 1
+start sub_F2AC sub_F2AC sub_FC5C sub_FC5C 1
+processCmd StartTheLelz StartTheLelz echoLoader echoLoader inet_pton inet_pton __errno_location 1
+pcap_activate_bpf pcap_activate_bpf monitor_mode monitor_mode malloc malloc malloc_init_hard malloc_init_hard arenas_extend arenas_extend getprogname getprogname 1
+_ZSt19__throw_range_errorPKc _ZSt19__throw_range_errorPKc _ZN9__gnu_cxx18__exchange_and_addEPVii _ZN9__gnu_cxx18__exchange_and_addEPVii pthread_mutex_lock pthread_mutex_lock sub_194D0 sub_194D0 __assert_fail __assert_fail __fxprintf __fxprintf vfwprintf vfwprintf __assert_fail __assert_fail __fxprintf __fxprintf vfwprintf vfwprintf __assert_fail __assert_fail __fxprintf __fxprintf vfwprintf vfwprintf sub_31BC8 sub_31BC8 __libc_message __libc_message backtrace_symbols_fd backtrace_symbols_fd writev 1
+main main processCmd processCmd sendTCP sendTCP HackerScan2 HackerScan2 inet_addr inet_aton 1
+read_header read_header process_header_end process_header_end translate_uri translate_uri send_r_moved_temp send_r_moved_temp print_http_headers print_http_headers req_write req_write 0
+_ftext _ftext sub_403E08 sub_403E08 sub_403460 sub_403460 sub_403B7C sub_403B7C sub_403460 sub_403460 sub_403B7C sub_403B7C sub_403460 sub_403460 sub_4025DC sub_4025DC sub_401F4C sub_401F4C sub_40209C sub_40209C sub_401F4C sub_401F4C sub_40209C sub_40209C sub_401FE8 sub_401FE8 sub_40209C sub_40209C sub_401FE8 sub_401FE8 sub_401F4C sub_401F4C sub_40209C sub_40209C sub_401638 sub_401638 sub_401580 sub_401580 0
+main main commandcontrol commandcontrol telnet_scanner telnet_scanner sysconf sysconf nprocessors_onln nprocessors_onln strcoll strcoll 1
+start sub_13404 sub_13404 1
+main main processCmd processCmd TelnetScan TelnetScan sockprintf sockprintf send sendto 1
+StartTheLelz StartTheLelz findARandomIP getRandomPublicIP4 getRandomPublicIP4 sendstatsforbrange sendstatsforbrange sockprintf print print printi prints printchar write __errno_location 1
+PhoneScanner PhoneScanner PhoneScan PhoneScan szprintf print print printi prints printchar write __errno_location 1
+main main fork pthread_mutexattr_settype 1
+main main scanner_init scanner_init report_working report_working fork __errno_location 1
+_main ProcessData ProcessData GetMozillaProductPasswords GetMozillaProductPasswords LoadMozillaLibs LoadMozillaLibs FindMozillaLib FindMozillaLib FindFile FindFile 1
+_start sub_E240 sub_E240 processCmd processCmd StartTheLelz StartTheLelz GetRandomPublicIP GetRandomPublicIP 1
+processCmd PonyScanner PonyScanner fcntl fcntl64 __errno_location 1
+do_iptunnel do_iptunnel sub_439B30 sub_439B30 sub_438DFC sub_438DFC rtnl_dsfield_a2n rtnl_dsfield_a2n sub_43BED0 sub_43BED0 0
+main wan_connect set_l2tp start_dns_relay DoCmd 0
+start sub_108E0 sub_108E0 sub_BF8C sub_BF8C 1
+main main processCmd processCmd BCMscanner BCMscanner RemoveTempDirs RemoveTempDirs system system signal sigaction memcpy 1
+_ppfs_init sub_10820 sub_10820 _promoted_size 1
+network_readable l2tp_tunnel_handle_received_control_datagram l2tp_tunnel_handle_received_control_datagram sub_409698 sub_409698 sub_409370 sub_409370 l2tp_tunnel_xmit_control_message l2tp_tunnel_xmit_control_message sub_408F4C sub_408F4C l2tp_dgram_send_to_wire l2tp_dgram_send_to_wire l2tp_debug_describe_dgram l2tp_debug_describe_dgram l2tp_debug_message_type_to_str l2tp_debug_message_type_to_str 0
+start sub_F460 sub_F460 sub_FF20 sub_FF20 1
+main main processCmd processCmd telnetrep telnetrep send __errno_location 1
+main main processCmd processCmd SSHSCANNER2 SSHSCANNER2 fcntl fcntl64 __errno_location 1
+main main sub_402EB4 sub_402EB4 sub_402B00 sub_402B00 sub_4029DC sub_4029DC sub_4027AC sub_4027AC 0
+sub_FCA0 sub_FCA0 sub_E980 sub_E980 sub_D4E0 sub_D4E0 sub_8EEC sub_8EEC print print 1
+main main detectARP detectARP op_ap_dhcpd op_ap_dhcpd reset_tmplan reset_tmplan 0
+ej_SiteSurvey ej_SiteSurvey char_to_ascii char_to_ascii 0
+start sub_1000FF94 sub_1000FF94 1
+sub_403E98 sub_403E98 dhcp6_get_options dhcp6_get_options sub_409AF0 sub_409AF0 dhcp6_add_listval dhcp6_add_listval my_dprintf my_dprintf 0
+accept_msg accept_msg print_route print_route rtnl_rtscope_n2a rtnl_rtscope_n2a sub_29F70 sub_29F70 sub_29D94 sub_29D94 0
+sub_40A720 sub_40A720 sub_4086A0 sub_4086A0 sub_404DE8 sub_404DE8 GetRandomPublicIP GetRandomPublicIP 1
+lets_rep scanner_init scanner_init report_working report_working send sendto __errno_location 1
+sub_804CD94 sub_804CD94 sub_804C03F sub_804C03F sub_804A2E3 sub_804A2E3 GetRandomPublicIP GetRandomPublicIP 1
+scanner_init scanner_init select __errno_location 1
+sub_415AF0 sub_415AF0 sub_415988 sub_415988 sub_415378 sub_415378 sub_414E74 sub_414E74 sprint_nip6 sprint_nip6 sub_4061E4 sub_4061E4 0
+main main run_packet_queue run_packet_queue process_logon_packet process_logon_packet lock_path lock_path lp_lockdir lp_lockdir sub_3EAF8 sub_3EAF8 alloc_sub_basic alloc_sub_basic sub_A82D0 sub_A82D0 safe_strcpy_fn safe_strcpy_fn dbghdr dbghdr current_timestring current_timestring 0
+d_print_mod_list d_print_comp d_print_comp d_print_mod d_print_mod d_print_comp d_print_comp d_print_mod d_print_mod d_print_comp d_print_comp d_print_mod d_print_mod d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_mod d_print_mod d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_mod d_print_mod d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_mod d_print_mod d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_mod d_print_mod d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type d_print_comp d_print_comp d_print_array_type d_print_array_type 1
+start sub_11064 sub_11064 sub_1015C sub_1015C sub_DFC0 sub_DFC0 infectlol infectlol 1
+gaih_inet gaih_inet gethostbyname2_r gethostbyname_r memmove memcpy 1
+main main sub_4038DC sub_4038DC readoptionsfile readoptionsfile read_permission_line read_permission_line 0
+sub_4060BC sub_4060BC dhcp6_get_options dhcp6_get_options sub_40B954 sub_40B954 dhcp6_add_listval dhcp6_add_listval my_dprintf my_dprintf 0
+start sub_11AC4 sub_11AC4 sub_108D0 sub_108D0 sub_C7A4 sub_C7A4 sub_A24C sub_A24C 1
+start sub_400234 sub_400234 1
+sub_408DC8 sub_408DC8 sub_407698 sub_407698 sub_404964 sub_404964 GetRandomPublicIP GetRandomPublicIP 1
+_start main main processCmd processCmd StartTheLelz StartTheLelz __libc_fcntl 1
+dgst_main dgst_main sub_4D5F8 sub_4D5F8 sub_4CBC8 sub_4CBC8 password_callback password_callback 0
+main main run_packet_queue run_packet_queue sub_410C84 sub_410C84 find_response_record find_response_record 0
+sub_100088F0 _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+__start run run 1
+asus_sg asus_sg init_3g_param init_3g_param write_3g_conf write_3g_conf 0
+main main script_call script_call sub_408320 sub_408320 0
+start sub_D930 sub_D930 sub_E544 sub_E544 1
+main main processCmd processCmd senditbudAMP senditbudAMP system system signal sigaction memcpy 1
+start sub_11800 sub_11800 sub_104D4 sub_104D4 sub_DE94 sub_DE94 sub_AA74 sub_AA74 1
+_dl_scope_free malloc malloc __malloc_assert __malloc_assert __fxprintf __fxprintf vfwprintf vfwprintf printf_positional_0 printf_positional_0 __readonly_area __readonly_area getdelim malloc malloc __malloc_assert __malloc_assert __fxprintf __fxprintf vfwprintf vfwprintf _IO_wpadn _IO_wpadn 1
+main main nvram_getall nvram_getall nvram_init nvram_init 0
+start sub_F280 sub_F280 sub_FD90 sub_FD90 1
+start sub_1000E1BC sub_1000E1BC 1
+main main processCmd processCmd TelnetScan TelnetScan sockprintf sockprintf print print 1
+start sub_ED9C sub_ED9C sub_F8AC sub_F8AC 1
+start sub_1000BC44 sub_1000BC44 1
+main main processCmd processCmd xtcp xtcp sendto __errno_location 1
+main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage main main show_usage show_usage 0
+start_cc start_cc sub_45CB88 sub_45CB88 sub_45C8FC sub_45C8FC 0
+start sub_E360 sub_E360 sub_D488 sub_D488 sub_B270 sub_B270 sub_A814 sub_A814 1
+start sub_1000C724 1
+main main processCmd processCmd Cleaner Cleaner system system signal sigaction memcpy 1
+open_ubi libubi_open libubi_open read_positive_int read_positive_int read_positive_ll read_positive_ll 0
+main main processCmd processCmd sendTCP sendTCP strcoll strcoll 1
+start sub_E0A0 sub_ECA8 sub_ECA8 1
+tcp tcp tcpcsum malloc sbrk __init_brk _brk __errno_location 1
+main main sub_407E68 sub_407E68 sub_402464 sub_402464 0
+main main spiflash_set spiflash_set 0
+sub_1000BB6C _ZN6vectorIN2nv7messageEED2Ev 0
+start sub_8048338 sub_8048338 1
+help help mfork mfork fork 1
+sub_414F7C sub_414290 sub_414290 sub_412210 sub_412210 sub_40FEDC sub_40FEDC sub_40FDC8 sub_40FDC8 _ZN6vectorI6stringEC2ERKS1_ 0
+scanner_init scanner_init report_working report_working fork __errno_location 1
+buffered_vfprintf vfprintf vfprintf __readonly_area __readonly_area getdelim realloc realloc malloc _int_malloc _int_malloc sYSMALLOc sYSMALLOc _int_free _int_free malloc_consolidate malloc_consolidate malloc_printerr malloc_printerr __libc_message __libc_message backtrace_symbols_fd backtrace_symbols_fd _itoa_word _itoa_word 1
+scanner_init scanner_init printf printf vfprintf vfprintf __readonly_area __readonly_area fclose fclose free free _int_free _int_free malloc_consolidate malloc_consolidate malloc_printerr malloc_printerr __libc_message __libc_message backtrace_symbols_fd backtrace_symbols_fd _itoa_word _itoa_word 1
+start sub_E09C sub_ECA4 sub_ECA4 1
+processCmd processCmd StartTheLelz StartTheLelz select 1
+main main processCmd processCmd SSHScanner SSHScanner RemoveTempDirs RemoveTempDirs system system signal sigaction memcpy 1
+main main tget tget 0
+main main processCmd processCmd StartTheCheats StartTheCheats send __errno_location 1
+main main sub_403B50 sub_403B50 sub_403884 sub_403884 sub_4028B4 sub_4028B4 sub_402BB4 sub_402BB4 sub_4028B4 sub_4028B4 sub_402BB4 sub_402BB4 sub_4028B4 sub_4028B4 sub_402CB4 sub_402CB4 sub_4028B4 sub_4028B4 sub_402CB4 sub_402CB4 sub_4028B4 sub_4028B4 sub_402BB4 sub_402BB4 sub_4028B4 sub_4028B4 sub_40278C sub_40278C sub_40282C sub_40282C tap_bring_down tap_bring_down 0
+main main processCmd processCmd HackaShit HackaShit HackerScan1 HackerScan1 inet_addr inet_aton 1
+main main sub_400D08 sub_400D08 sub_400C24 sub_400C24 0
+main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 main main sub_400A30 sub_400A30 0
+main main retrieve_url retrieve_url http_loop http_loop sub_4198A8 sub_4198A8 warc_write_request_record warc_write_request_record sub_43047C sub_43047C sub_42F91C sub_42F91C sub_43047C sub_43047C sub_42F91C sub_42F91C sub_42F250 sub_42F250 sub_42EB78 sub_42EB78 0
+processCmd SnoopDogg SnoopDogg fcntl fcntl64 __errno_location 1
+sub_804A970 sub_804A970 sub_804BB52 sub_804BB52 _ZN6vectorIjED2Ev 0
+sub_40125C sub_40125C init_timers init_timers 0
+StartTheLelz StartTheLelz sockprintf print print printi prints printchar write __errno_location 1
+main main sub_42A0B0 sub_42A0B0 sub_4245A4 sub_4245A4 sub_40E45C sub_40E45C 0
+start sub_E95C 1
+start sub_14564 sub_14564 sub_12FF0 sub_12FF0 sub_10E18 sub_10E18 sub_CE48 sub_CE48 1
+sub_40A9B0 sub_40A9B0 llc_print llc_print isoclns_print isoclns_print ip_print ip_print sub_429C58 sub_429C58 ip_print ip_print sub_429C58 sub_429C58 pim_print pim_print ip_print ip_print sub_429C58 sub_429C58 igmp_print igmp_print relts_print relts_print 0
+main main scanner_init scanner_init socket 1
+main signal sigaction memcpy 1
+main main Process_upnphttp Process_upnphttp sub_404864 sub_404864 ExecuteSoapAction ExecuteSoapAction SoapError SoapError SendResp_upnphttp SendResp_upnphttp 0
+do_iplink do_iplink sub_412B0C sub_412B0C iplink_parse iplink_parse iplink_usage iplink_usage iplink_parse iplink_parse iplink_usage iplink_usage iplink_parse iplink_parse iplink_usage iplink_usage iplink_parse iplink_parse iplink_usage iplink_usage iplink_parse iplink_parse iplink_usage iplink_usage iplink_parse iplink_parse iplink_parse_vf iplink_parse_vf 0
+main main processCmd processCmd StartTheLelz StartTheLelz GetRandomPublicIP GetRandomPublicIP 1
+sub_40100C sub_40100C _ftext _ftext 0
+start sub_F1AC sub_F1AC sub_E110 sub_E110 sub_DA4C sub_DA4C sub_8FC4 sub_8FC4 sub_8B50 sub_8B50 1
+main main sub_401310 sub_401310 sub_400D90 sub_400D90 sub_400CAC sub_400CAC sub_400CF0 sub_400CF0 sub_400D90 sub_400D90 sub_400CAC sub_400CAC sub_400CF0 sub_400CF0 sub_400D90 sub_400D90 sub_400CAC sub_400CAC sub_400CF0 sub_400CF0 sub_400D90 sub_400D90 sub_400CAC sub_400CAC sub_400CF0 sub_400CF0 sub_400D90 sub_400D90 sub_401140 sub_401140 0
+main main processCmd processCmd StartTheLelz StartTheLelz GetRandomPublicIP GetRandomPublicIP inet_addr inet_aton 1
+start sub_10009DEC sub_10009DEC 1
+main main processCmd processCmd scanner1 scanner1 sockprintf sockprintf send __errno_location 1
+main main processCmd processCmd StartTheLelz StartTheLelz echoloader echoloader write __errno_location 1
+sub_1517B4 sub_1517B4 api_pipe_bind_req api_pipe_bind_req smb_io_rpc_hdr smb_io_rpc_hdr prs_uint32 prs_uint32 prs_mem_get prs_mem_get prs_grow prs_grow Realloc Realloc dbghdr dbghdr current_timestring current_timestring 0
+main main makestring makestring memcpy 1
+main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 main main sub_4009F0 sub_4009F0 0
+nomom HackerScan2 HackerScan2 inet_addr inet_aton 1
+sig_handler main main tcp_request tcp_request answer_request answer_request log_query log_query my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog log_write log_write my_syslog my_syslog 0
+start sub_E64C sub_E480 sub_E480 sub_D7B4 sub_D7B4 1
+sub_151A24 sub_151A24 api_pipe_bind_req api_pipe_bind_req smb_io_rpc_hdr smb_io_rpc_hdr prs_uint32 prs_uint32 prs_mem_get prs_mem_get prs_grow prs_grow Realloc Realloc dbghdr dbghdr current_timestring current_timestring 0
+main main sub_400E14 sub_400E14 sub_400BA4 sub_400BA4 0
+main main processCmd processCmd TelnetScanner TelnetScanner fcntl fcntl64 __errno_location 1
+sub_2186C sub_2186C sub_25DAC sub_25DAC wf_chspec_ntoa wf_chspec_ntoa 0
+main main nvram_save nvram_save get_rand get_rand 0
+main main processCmd processCmd StartTheMirai StartTheMirai HackerScanMirai HackerScanMirai inet_addr inet_aton 1
+main main processCmd processCmd RealtekRep RealtekRep random_realtek random_realtek inet_addr inet_aton 1
+packetio_recv_handler state_process_packet smE_process_event osl_set_promisc die warn 0
+start sub_E354 sub_E354 sub_D7BC sub_D7BC sub_96B4 sub_96B4 1
+startTelnetScanner StartTheLelz StartTheLelz fcntl fcntl64 __errno_location 1
+start sub_11F8C 1
+ndr_pull_wkssvc_NetWkstaTransportEnum ndr_pull_wkssvc_NetWkstaTransportEnum ndr_pull_wkssvc_NetWkstaTransportCtr ndr_pull_wkssvc_NetWkstaTransportCtr ndr_pull_wkssvc_NetWkstaTransportCtr0 ndr_pull_wkssvc_NetWkstaTransportCtr0 ndr_pull_wkssvc_NetWkstaTransportInfo0 ndr_pull_wkssvc_NetWkstaTransportInfo0 ndr_pull_array_length ndr_pull_array_length ndr_pull_uint32 ndr_pull_uint32 ndr_check_padding ndr_check_padding 0
+main main sub_40557C sub_40557C sub_4049E0 sub_4049E0 sub_401BBC sub_401BBC 0
+main main igmpProxyRun igmpProxyRun acceptIgmp acceptIgmp acceptGroupReport acceptGroupReport insertRoute insertRoute sendJoinLeaveUpstream sendJoinLeaveUpstream log log 0
+main main processCmd processCmd OnionPorn OnionPorn Childporn Childporn inet_addr inet_aton 1
+processCmd processCmd StartTheLelz StartTheLelz sockprintf print print printi prints printchar write __errno_location 1
+start sub_1000873C sub_1000873C 1
+start sub_DE54 sub_EA60 sub_EA60 1
+start sub_E360 sub_E360 sub_D488 sub_D488 sub_B270 sub_B270 GetRandomPublicIP GetRandomPublicIP 1
+main main processCmd processCmd StartTheLelz StartTheLelz infectlol infectlol 1
+main main udp_rcv_test udp_rcv_test result_summary result_summary prusage prusage psecs psecs 0
+main parse_args option_handler get_duration show_message 0
+main main ensure_single_instance ensure_single_instance sleep sigaction memcpy 1
+sub_409844 sub_409844 scanner_init scanner_init __libc_fcntl 1
+main main processCmd processCmd getpid __errno_location 1
+tcp tcp sendto __errno_location 1
+lets_rep scanner_init scanner_init report_working report_working inet_addr inet_aton 1
+cmd_parser sub_405810 sub_405810 uploadFile uploadFile sub_4145D4 sub_4145D4 checkEntryExisted checkEntryExisted sub_40F2A4 sub_40F2A4 sub_40BD84 sub_40BD84 handle_error handle_error 0
+malloc_stats malloc_stats fprintf vfprintf vfprintf printf_positional printf_positional malloc malloc __malloc_assert __malloc_assert __fxprintf __fxprintf vfprintf vfprintf printf_positional printf_positional wcsrtombs wcsrtombs __assert_fail __assert_fail __assert_fail_base __assert_fail_base __fxprintf __fxprintf vfwprintf vfwprintf __assert_fail __assert_fail __assert_fail_base __assert_fail_base asprintf 1
+main main processCmd processCmd DeviceScanner DeviceScanner getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+main main processCmd processCmd SendTCP SendTCP socket __errno_location 1
+main main processCmd processCmd telnetscanner telnetscanner getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+_start sub_E240 sub_E240 pro pro StartTheLelz StartTheLelz GetRandomPublicIP GetRandomPublicIP 1
+main main fuckinghugec0ck fuckinghugec0ck fuckfatpeople fuckfatpeople bignetreppin bignetreppin send __errno_location 1
+main main processCmd processCmd NetisExploit NetisExploit getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+ip6tables_restore_main ip6tables_restore_main do_command6 do_command6 sub_405AEC sub_405AEC sub_405224 sub_405224 find_match find_match exit_error exit_error find_target find_target exit_error exit_error find_target find_target exit_error exit_error find_target find_target exit_error exit_error find_target find_target exit_error exit_error exit_tryhelp exit_tryhelp ip6tables_insmod ip6tables_insmod 0
+main main processCmd processCmd UpdateDaBotzzz UpdateDaBotzzz SnoopDogg SnoopDogg select __errno_location 1
+process_sup_wpa eapol_sup_process_key eapol_sup_process_key sub_403FB8 sub_403FB8 nas_handle_error nas_handle_error 0
+scanneron SnoopDogg SnoopDogg fcntl fcntl64 __errno_location 1
+start sub_12008 sub_12008 sub_112E8 sub_112E8 sub_ABD8 sub_ABD8 sub_A460 sub_A460 1
+start sub_DCB8 sub_DCB8 1
+main main subcmd subcmd 0
+BotKiller1 BotKiller1 killbot killbot sscanf vsscanf strlen 1
+start sub_10D1C sub_10D1C sub_D878 sub_D878 1
+start sub_1001133C sub_1001133C 1
+scanner_init fcntl fcntl64 __errno_location 1
+start sub_1000EC50 sub_1000EC50 1
+main main processCmd processCmd HackaShit HackaShit HackerPrint HackerPrint send __errno_location 1
+attack_kill_all scanner_init scanner_init inet_addr inet_aton 1
+main main sub_401360 sub_401360 0
+attack_kill_all scanner_init scanner_init report_working report_working table_retrieve_val table_retrieve_val printf 1
+buffer_append_int buffer_append_int buffer_append_string_len buffer_append_string_len buffer_string_prepare_append buffer_string_prepare_append buffer_string_prepare_copy buffer_string_prepare_copy sub_401668 sub_401668 log_failed_assert log_failed_assert 0
+start sub_1000D79C sub_1000D79C 1
+start sub_9DEC sub_9DEC sub_8B24 sub_8B24 sub_844C sub_844C sub_10D50 sub_10D50 sub_B340 sub_B340 sub_11FEC sub_11FEC 1
+start sub_1000A884 sub_1000A884 1
+sub_10079DC0 sub_100783A0 sub_100783A0 _ZN6vectorIjED2Ev 0
+start sub_1000B13C sub_1000B13C 1
+main main auth_check_options auth_check_options sub_41D350 sub_41D350 sub_41C970 sub_41C970 getword getword option_error option_error vslprintf vslprintf 0
+Socket_Parser Socket_Parser cmd_parser cmd_parser createFolder createFolder Upload Upload Mkcol Mkcol is_server_exist is_server_exist getCloudInfo getCloudInfo write_log write_log ne_getrouterinfo ne_getrouterinfo my_parseMemory my_parseMemory 0
+main main read_opts read_opts sub_415050 sub_415050 sub_4149F4 sub_4149F4 sub_40E510 sub_40E510 sub_415050 sub_415050 sub_4149F4 sub_4149F4 sub_40E510 sub_40E510 die die my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog sub_42C0A8 sub_42C0A8 my_syslog my_syslog 0
+main main processCmd processCmd SSHSCANNER5 SSHSCANNER5 send __errno_location 1
+sub_410000 sub_410000 load_key load_key sub_43EEC4 sub_43EEC4 0
+main main upnp_mainloop upnp_mainloop upnp_init upnp_init upnp_device_renew_uuid upnp_device_renew_uuid upnp_gen_uuid upnp_gen_uuid 0
+main main ProcessSSDPRequest ProcessSSDPRequest sub_415610 sub_415610 log_err log_err 0
+sub_4183E0 sub_4183E0 sub_417C38 sub_417C38 get_prefix_1 get_prefix_1 get_addr_1 get_addr_1 dnet_pton dnet_pton 0
+do_xfrm_policy do_xfrm_policy xfrm_policy_print xfrm_policy_print xfrm_policy_info_print xfrm_policy_info_print xfrm_xfrma_print xfrm_xfrma_print xfrm_id_info_print xfrm_id_info_print rt_addr_n2a rt_addr_n2a 0
+main main sub_408094 sub_408094 sub_407B5C sub_407B5C sub_407840 sub_407840 sub_404308 sub_404308 sub_4041EC sub_4041EC 0
+sub_400FA4 sub_400FA4 igs_cfg_request_send igs_cfg_request_send 0
+rip_if_init rip_if_init install_element install_element sub_4083BC sub_4083BC 0
+main main sub_400C38 sub_400C38 0
+main main read_opts read_opts sub_413678 sub_413678 sub_41301C sub_41301C sub_40D930 sub_40D930 sub_413678 sub_413678 sub_41301C sub_41301C sub_40D930 sub_40D930 sub_413678 sub_413678 sub_41301C sub_41301C sub_40D930 sub_40D930 sub_40C954 sub_40C954 0
+help help mfork mfork fork __errno_location 1
+sub_CAC4 sub_CAC4 create_disk create_disk create_partition create_partition find_partition_label find_partition_label get_usb_port_by_device get_usb_port_by_device get_device_type_by_device get_device_type_by_device isACMNode isACMNode 0
+main main sub_402798 sub_402798 read_data read_data read_frecord read_frecord get_fstream_type get_fstream_type get_mstream_type get_mstream_type RTP_verify RTP_verify tmfprintf tmfprintf mk_tvstamp mk_tvstamp 0
+sub_100069C4 sub_10003564 sub_10003564 __libc_fcntl 1
+main main processCmd processCmd scan scan get_request get_request ssc ssc perror fprintf 1
+main main sub_400D9C sub_400D9C 0
+main main processCmd processCmd t_scanner t_scanner fcntl fcntl64 __errno_location 1
+main main fuckinghugec0ck fuckinghugec0ck fuckfatpeople fuckfatpeople bignetreppin bignetreppin send sendto __errno_location 1
+dgst_main dgst_main sub_53BAC sub_53BAC sub_52C0C sub_52C0C password_callback password_callback 0
+AddPortMapping AddPortMapping pmlist_PushBack pmlist_PushBack pmlist_AddPortMapping pmlist_AddPortMapping add_rule_by_restore add_rule_by_restore add_to_file add_to_file 0
+main main processCmd processCmd RemoveTempDirs RemoveTempDirs system system signal __errno_location 1
+iptables_main iptables_main do_command4 do_command4 print_rule4 print_rule4 xtables_find_match xtables_find_match xtables_malloc xtables_malloc xtables_realloc xtables_realloc xtables_insmod xtables_insmod 0
+start sub_E084 sub_E084 1
+main main processCmd processCmd processkiller processkiller system system signal sigaction memcpy 1
+fixedEchoLoader fixedEchoLoader read __read_nocancel 1
+_ftext _ftext sub_4011E0 sub_4011E0 0
+main main processCmd processCmd atol strtol 1
+_ftext _ftext sub_403B88 sub_403B88 sub_404854 sub_404854 sub_403B88 sub_403B88 sub_404854 sub_404854 sub_403B88 sub_403B88 sub_404854 sub_404854 sub_403B88 sub_403B88 sub_404854 sub_404854 sub_403B88 sub_403B88 sub_402BB0 sub_402BB0 sub_402BEC sub_402BEC 0
+main main processCmd processCmd atcp atcp strcoll 1
+main processCmd processCmd StartTheLelz StartTheLelz fcntl fcntl64 __errno_location 1
+main main WscUPnPDevStart WscUPnPDevStart SampleUtil_FindAndParseService SampleUtil_FindAndParseService SampleUtil_GetFirstServiceList SampleUtil_GetFirstServiceList 0
+start sub_1000B358 sub_1000B358 1
+do_xfrm_policy do_xfrm_policy xfrm_policy_print xfrm_policy_print xfrm_policy_info_print xfrm_policy_info_print xfrm_xfrma_print xfrm_xfrma_print xfrm_id_info_print xfrm_id_info_print strxf_xfrmproto strxf_xfrmproto 0
+main main processCmd processCmd StartTheLelz StartTheLelz send sendto 1
+pc_main pc_main filter_setting filter_setting start_pptpd start_pptpd write_chap_secret write_chap_secret 0
+start sub_E1E8 sub_E1E8 sub_D65C sub_D65C sub_AAE8 sub_AAE8 sub_9EF4 sub_9EF4 1
+do_class do_class tc_class_modify tc_class_modify parse_estimator parse_estimator incomplete_command incomplete_command missarg missarg invarg invarg duparg duparg duparg2 duparg2 0
+start sub_B4C0 sub_B4C0 sub_CF20 sub_CF20 1
+main main sub_403D84 sub_403D84 sub_404DB4 sub_404DB4 0
+main main sub_401BD8 sub_401BD8 sub_4015AC sub_4015AC ClientReceivedPrint ClientReceivedPrint 0
+main main processCmd processCmd scan scan pfyfa pfyfa send sendto __errno_location 1
+start sub_120D0 sub_120D0 sub_11D70 sub_11D70 sub_117B0 sub_117B0 1
+dgst_main dgst_main sub_53D20 sub_53D20 sub_52D80 sub_52D80 password_callback password_callback 0
+network_readable l2tp_tunnel_handle_received_control_datagram l2tp_tunnel_handle_received_control_datagram l2tp_session_lns_handle_incoming_call l2tp_session_lns_handle_incoming_call l2tp_session_send_CDN l2tp_session_send_CDN l2tp_tunnel_delete_session l2tp_tunnel_delete_session sub_4099C0 sub_4099C0 l2tp_tunnel_xmit_control_message l2tp_tunnel_xmit_control_message sub_409430 sub_409430 l2tp_dgram_send_to_wire l2tp_dgram_send_to_wire l2tp_debug_describe_dgram l2tp_debug_describe_dgram l2tp_debug_message_type_to_str l2tp_debug_message_type_to_str 0
+parse_police act_parse_police act_parse_police get_size get_size 0
+main main processCmd processCmd botkiller botkiller sleep sigaction __errno_location 1
+main main sub_400BE8 sub_400BE8 0
+processCmd MiraiScanner MiraiScanner getdtablesize getrlimit 1
+start sub_11128 sub_11128 1
+main main doscript doscript doset doset getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring getvalue getvalue getstring getstring getstringindex getstringindex serror serror vmsg vmsg 0
+main main sub_404F5C sub_404F5C sub_404BAC sub_404BAC 0
+main main processCmd processCmd StartTheLelz StartTheLelz fcntl __errno_location 1
+start sub_E0A0 sub_E0A0 sub_ECB8 sub_ECB8 1
+main main processCmd processCmd t_scanner t_scanner failedabortion failedabortion socket_connect socket_connect herror herror fprintf 1
+start sub_F2A0 sub_F2A0 sub_FD30 sub_FD30 1
+main main sub_4009DC sub_4009DC 0
+main main processCmd processCmd SendSTD SendSTD processCmd processCmd SendSTD SendSTD processCmd processCmd sendBomb sendBomb SendSTD SendSTD processCmd processCmd sendBomb sendBomb SendSTD SendSTD processCmd processCmd SendSTD SendSTD processCmd processCmd SendSTD SendSTD processCmd processCmd sendHTTP sendHTTP 1
+sub_1000B3FC _ZN6vectorIN2nv7messageEED2Ev 0
+main main RcvMsgQ RcvMsgQ UpdateAllAdslSts UpdateAllAdslSts HandleAdslSysStatus HandleAdslSysStatus SendCmdAndWaitResp SendCmdAndWaitResp LogPktToConsole LogPktToConsole myprintf myprintf 0
+start sub_10364 sub_10364 sub_10E18 sub_10E18 1
+br_cmd_showbr br_dump_info br_dump_info br_dump_port_info br_dump_port_info br_show_timer br_show_timer 0
+start sub_E560 sub_E560 sub_D3A0 sub_D3A0 sub_8FBC sub_8FBC 1
+start sub_10009A54 sub_10009A54 1
+sub_41A4F8 sub_41A4F8 ej_wl_status ej_wl_status dump_rateset dump_rateset 0
+__vfprintf_chk vfprintf vfprintf mbsnrtowcs mbsnrtowcs __assert_fail __assert_fail __fxprintf __fxprintf vfwprintf vfwprintf __assert_fail __assert_fail __fxprintf __fxprintf vfprintf vfprintf mbsnrtowcs mbsnrtowcs __wcsmbs_load_conv __wcsmbs_load_conv malloc _int_malloc _int_malloc getpagesize 1
+main main sub_405544 sub_405544 sub_405070 sub_405070 0
+lets_rep scanner_init scanner_init report_working report_working send __errno_location 1
+start sub_10CFC sub_10CFC sub_E8F4 sub_E8F4 1
+start_scanner scanner_init scanner_init inet_addr inet_aton 1
+main main fork_execute fork_execute 0
+processCmd KyuremTScan KyuremTScan fcntl fcntl64 __errno_location 1
+iptables_restore_main iptables_restore_main do_command4 do_command4 sub_40B084 sub_40B084 print_rule4 print_rule4 sub_40A65C sub_40A65C 0
+StartTheLelz StartTheLelz echoLoader echoLoader socket_connect socket_connect gethostbyname gethostbyname_r __open_nameservers __open_nameservers fclose fflush_unlocked pthread_mutex_lock __pthread_alt_lock __pthread_acquire nanosleep __libc_nanosleep __errno_location 1
+attack_app_http attack_app_http calloc _int_malloc _int_malloc sYSMALLOc sYSMALLOc _int_free _int_free malloc_consolidate malloc_consolidate malloc_printerr malloc_printerr __libc_message __libc_message backtrace_symbols_fd backtrace_symbols_fd _itoa_word _itoa_word 1
+main main processCmd processCmd scan scan get_request get_request ssc ssc herror herror fprintf 1
+iptables_main iptables_main do_command4 do_command4 sub_405D88 sub_405D88 sub_405BC4 sub_405BC4 0
+get get mfork mfork fork __errno_location 1
+botkiller botkiller 1
+_ftext _ftext sub_403434 sub_403434 0
+main main fuckinghugec0ck fuckinghugec0ck fuckfatpeople fuckfatpeople bignetreppin bignetreppin send sendto 1
+main main processCmd processCmd botkiller botkiller check_exe check_exe getpid __errno_location 1
+do_iplink do_iplink sub_413FCC sub_413FCC iplink_parse iplink_parse iplink_usage iplink_usage iplink_parse iplink_parse iplink_usage iplink_usage iplink_parse iplink_parse iplink_usage iplink_usage iplink_parse iplink_parse iplink_usage iplink_usage iplink_parse iplink_parse iplink_usage iplink_usage iplink_parse iplink_parse iplink_usage iplink_usage iplink_parse iplink_parse iplink_parse_vf iplink_parse_vf 0
+cmd_parser perform_socket_cmd perform_socket_cmd upload_entry upload_entry handle_upload_fail_code handle_upload_fail_code uploadFile uploadFile handle_rename handle_rename handle_rename_fail_code handle_rename_fail_code upload_entry upload_entry handle_upload_fail_code handle_upload_fail_code 0
+parse_ematch parse_ematch ematch_parse ematch_parse ematch_lex ematch_lex sub_40E58C sub_40E58C 0
+main main processCmd processCmd updatemybins updatemybins system system signal __sigaddset 1
+TelnetSkannahNigga TelnetSkannahNigga EchoLoaderNigger EchoLoaderNigger socket_connect socket_connect gethostbyname gethostbyname_r __dns_lookup __dns_lookup inet_pton inet_pton inet_pton4 memcpy 1
+sub_10000AC4 _ZN6vectorIjED2Ev 0
+main main processCmd processCmd StartTheLelz StartTheLelz sockprintf sockprintf send sendto 1
+sub_C9EC sub_C9EC create_disk create_disk create_partition create_partition find_partition_label find_partition_label get_usb_port_by_device get_usb_port_by_device get_device_type_by_device get_device_type_by_device isACMNode isACMNode 0
+main main sub_4093D8 sub_4093D8 sub_408CF8 sub_408CF8 sub_4088FC sub_4088FC _ZN4Repo12showProgressER11ipackstreamRK6string _ZN4Repo12showProgressER11ipackstreamRK6string _ZN4Repo9setStatusERK6string _ZN4Repo9setStatusERK6string 0
+iptables_restore_main iptables_restore_main do_command4 do_command4 sub_D658 sub_D658 sub_D308 sub_D308 0
+_ftext _ftext sub_4013B0 sub_4013B0 0
+main main sub_4013F0 sub_4013F0 sub_401390 sub_401390 0
+do_ipaddr do_ipaddr sub_403E34 sub_403E34 print_addrinfo print_addrinfo rtnl_rtscope_n2a rtnl_rtscope_n2a sub_428160 sub_428160 0
+main main processCmd processCmd sendUDP sendUDP HackerScan2 HackerScan2 inet_addr inet_aton 1
+gaih_inet gaih_inet gethostbyname2_r gethostbyname_r __dns_lookup __dns_lookup inet_pton inet_pton6 inet_pton6 memcpy 1
+main auto_channel_select WlSiteSurvey 0
+main main processCmd processCmd t_scanner t_scanner Scanner Scanner 1
+main main processCmd processCmd TelnetScan TelnetScan getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+filecheck filecheck system system signal sigaction __errno_location 1
+_ftext _ftext sub_401730 sub_401730 sub_4014BC sub_4014BC sub_402054 sub_402054 sub_401FA0 sub_401FA0 0
+start sub_1000C60C sub_1000C60C 1
+sub_415F18 sub_415F18 sub_414FD0 sub_414FD0 sub_414E88 sub_414E88 parse_at parse_at 0
+network_readable l2tp_tunnel_handle_received_control_datagram l2tp_tunnel_handle_received_control_datagram sub_FC74 sub_FC74 sub_FB30 sub_FB30 l2tp_tunnel_xmit_control_message l2tp_tunnel_xmit_control_message sub_F6F8 sub_F6F8 l2tp_dgram_send_to_wire l2tp_dgram_send_to_wire l2tp_debug_describe_dgram l2tp_debug_describe_dgram l2tp_debug_message_type_to_str l2tp_debug_message_type_to_str 0
+sub_804DE48 sub_804DE48 sub_8052274 sub_8052274 _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+start sub_D990 sub_D990 sub_83C8 sub_83C8 sub_82D8 sub_82D8 1
+start sub_BDF0 sub_BDF0 sub_BAB8 sub_BAB8 1
+DYNDNS_check_info DYNDNS_check_info option_handler option_handler get_duration get_duration option_handler option_handler get_duration get_duration option_handler option_handler get_duration get_duration option_handler option_handler get_duration get_duration option_handler option_handler get_duration get_duration option_handler option_handler parse_service parse_service show_message show_message 0
+processCmd botnetTScan botnetTScan fcntl fcntl64 __errno_location 1
+sub_430000 sub_430000 load_excert load_excert load_key load_key sub_445D6C sub_445D6C 0
+main main processCmd processCmd botkill botkill 1
+main main do_command do_command sub_402F6C sub_402F6C check_inverse check_inverse find_match find_match parse_interface parse_interface exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp exit_error exit_error exit_tryhelp exit_tryhelp 0
+sub_4028C0 sub_401730 sub_401730 log_error_write log_error_write buffer_append_long_hex buffer_append_long_hex sub_403510 sub_403510 0
+start sub_F410 sub_F410 sub_FCB4 sub_FCB4 1
+main main run_script run_script sub_403610 sub_403610 0
+main main dhcp_packet dhcp_packet dhcp_reply dhcp_reply sub_424FB0 sub_424FB0 sub_424A20 sub_424A20 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog sub_42BF70 sub_42BF70 my_syslog my_syslog 0
+processCmd processCmd StartTheLelz StartTheLelz GetRandomPublicIP GetRandomPublicIP szprintf print print printi prints printchar write __errno_location 1
+main main processCmd processCmd telnet_scanner telnet_scanner sleep sigaction __errno_location 1
+watchdog_maintain main main scanner_init scanner_init memcpy 1
+start sub_10738 sub_10738 sub_112E0 sub_112E0 1
+main main sub_403890 sub_403890 sub_4030D0 sub_4030D0 wmlog_dumphexasc wmlog_dumphexasc 0
+main main processCmd processCmd killer_init killer_init killer_kill_by_port killer_kill_by_port sleep sigaction memcpy 1
+main main sub_40A310 sub_40A310 0
+processCmd processCmd TelnetScan TelnetScan sockprintf sockprintf print print printi prints printchar write __errno_location 1
+main main processCmd processCmd scan scan echoloader echoloader system system signal sigaction memcpy 1
+main sub_4009D0 sub_4009D0 0
+sub_10EA8 sub_10EA8 sub_183D4 sub_183D4 sub_17A58 sub_17A58 password_callback password_callback 0
+main main scanner_init scanner_init inet_addr inet_aton 1
+main dumparptable got_wan_hwaddr 0
+htp htp fcntl fcntl64 __errno_location 1
+malloc_stats malloc_stats fprintf vfprintf vfprintf __assert_fail __assert_fail __fxprintf __fxprintf vfwprintf vfwprintf __assert_fail __assert_fail __fxprintf __fxprintf vfprintf vfprintf mbsnrtowcs mbsnrtowcs __assert_fail __assert_fail __fxprintf __fxprintf vfprintf vfprintf __libc_fatal __libc_fatal __libc_message __libc_message backtrace_symbols_fd backtrace_symbols_fd writev 1
+main main sub_401374 sub_401374 sub_401EB4 sub_401EB4 sub_40193C sub_40193C 0
+start sub_13444 sub_13444 1
+main main commandcontrol commandcontrol telnet_scanner telnet_scanner sysconf sysconf nprocessors_onln nprocessors_onln __GI_config_open __GI_config_open 1
+main main udev_config_init udev_config_init log_priority log_priority string_is_true string_is_true 0
+segv_handler segv_handler main main scanner_init scanner_init report_working report_working socket 1
+main main sdp_process_vpd_page sdp_process_vpd_page sub_40F504 sub_40F504 sub_40E9F4 sub_40E9F4 dStrHex dStrHex 0
+start sub_D2AC sub_D2AC sub_C964 sub_C964 sub_A708 sub_A708 sub_9B00 sub_9B00 sub_99A4 sub_99A4 sub_E630 sub_E630 1
+mDNSPosixRunEventLoopOnce mDNSPosixProcessFDSet mDNSPosixProcessFDSet sub_403ECC sub_403ECC mDNSCoreReceive mDNSCoreReceive uDNS_recvLLQResponse uDNS_recvLLQResponse mDNSSendDNSMessage mDNSSendDNSMessage DumpPacket DumpPacket sub_41D5D4 sub_41D5D4 GetLargeResourceRecord GetLargeResourceRecord GetRRDisplayString_rdb GetRRDisplayString_rdb DNSTypeName DNSTypeName 0
+_ftext _ftext sub_4030AC sub_4030AC sub_402610 sub_402610 sub_4041BC sub_4041BC sub_4050D8 sub_4050D8 sub_4046AC sub_4046AC sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 sub_405634 sub_405634 sub_405718 sub_405718 0
+sub_141EC sub_141EC sub_12C50 sub_12C50 sub_8990 sub_8990 system system 1
+main main processCmd processCmd TelnetScanner TelnetScanner getRandomPublicIP getRandomPublicIP inet_addr inet_aton 1
+sub_1000BEDC _ZN6vectorI6stringED2Ev 0
+main main processCmd processCmd botnetTScan botnetTScan send __errno_location 1
+SeigHeil BurnTheJews BurnTheJews getdtablesize getrlimit 1
+start sub_F410 sub_F410 sub_FEC4 sub_FEC4 1
+start sub_E210 sub_EE1C sub_EE1C 1
+main main processCmd processCmd SendSTD SendSTD processCmd processCmd SendSTD SendSTD processCmd processCmd StartTheLelz StartTheLelz select __errno_location 1
+main main processCmd processCmd SendBO2 SendBO2 strcoll strcoll 1
+main processCmd processCmd getpid __errno_location 1
+main main sub_401814 sub_401814 sub_4012BC sub_4012BC 0
+main main processCmd processCmd TelnetScanner TelnetScanner send __errno_location 1
+main main processCmd processCmd atcp atcp socket __errno_location 1
+main main commandcontrol commandcontrol telnet_scanner telnet_scanner sleep sigaction __errno_location 1
+main main gen_ralink_config gen_ralink_config mac_conv mac_conv 0
+udhcpc_main sub_404F3C run_script sub_406D40 0
+main main flash_write flash_write mtd_open mtd_open 0
+start sub_11D98 sub_11D98 sub_10964 sub_10964 sub_F6E0 sub_F6E0 system system execl 1
+main main connection_state_machine connection_state_machine http_response_prepare http_response_prepare config_patch_connection config_patch_connection config_check_cond config_check_cond sub_44C224 sub_44C224 sub_44B054 sub_44B054 sub_44C224 sub_44C224 sub_44B054 sub_44B054 sub_44C224 sub_44C224 log_error_write log_error_write buffer_append_long_hex buffer_append_long_hex buffer_prepare_append buffer_prepare_append 0
+main main acsd_proc_cmd acsd_proc_cmd acs_select_chspec acs_select_chspec sub_404ED4 sub_404ED4 0
+main main processCmd processCmd StartTheMirai StartTheMirai connect __errno_location 1
+main main phddns_step phddns_step ExecuteUpdate ExecuteUpdate log_print log_print 0
+start sub_E628 sub_E628 sub_DA40 sub_DA40 sub_97CC sub_97CC 1
+scanneron StartTheLelz StartTheLelz select __errno_location 1
+main wpsap_wksp_mainloop wpsap_wksp_mainloop sub_40583C sub_40583C wps_setProcessStates wps_setProcessStates 0
+main main processCmd processCmd SSHScanner SSHScanner sockprintf sockprintf send __errno_location 1
+main main sub_401BDC sub_401BDC 0
+RunSystemCmd DoCmd 0
+start sub_14B60 sub_14B60 sub_12FDC sub_12FDC sub_D0F8 sub_D0F8 sub_B4BC sub_B4BC sub_B360 sub_B360 sub_162A0 sub_162A0 1
+network_readable l2tp_tunnel_handle_received_control_datagram l2tp_tunnel_handle_received_control_datagram tunnel_handle_SCCRQ tunnel_handle_SCCRQ tunnel_set_params tunnel_set_params l2tp_dgram_search_avp l2tp_dgram_search_avp l2tp_dgram_pull_avp l2tp_dgram_pull_avp dgram_do_unhide dgram_do_unhide l2tp_set_errmsg l2tp_set_errmsg 0
+scanneron StartTheLelz StartTheLelz fcntl fcntl64 __errno_location 1
+main main auto_det_main auto_det_main sendPADI_pppoa sendPADI_pppoa sendPacket sendPacket 0
+main main process_rrb process_rrb l2_packet_send l2_packet_send dump_mem dump_mem 0
+start sub_A954 sub_B978 sub_B978 1
+sub_12F28 sub_12F28 sub_1177C sub_1177C sub_DFD8 sub_DFD8 GetRandomPublicIP GetRandomPublicIP 1
+start sub_FE2C sub_FE2C sub_E98C sub_E98C sub_AD7C sub_AD7C sub_8D54 sub_8D54 sub_88E0 sub_88E0 1
+main main killer_init killer_init killer_kill_by_port killer_kill_by_port table_unlock_val table_unlock_val printf 1
+insmod_main insmod_main sub_410298 sub_410298 sub_40FD3C sub_40FD3C sub_410000 sub_410000 sub_40FD3C sub_40FD3C sub_410000 sub_410000 sub_40FD3C sub_40FD3C sub_410000 sub_410000 sub_40FD3C sub_40FD3C sub_410000 sub_410000 sub_40F8B4 sub_40F8B4 0
+help help mfork mfork malloc sbrk __init_brk _brk __errno_location 1
+main main sub_402C40 sub_402C40 sub_405468 sub_405468 sub_402C40 sub_402C40 sub_405468 sub_405468 sub_402C40 sub_402C40 sub_405468 sub_405468 sub_402C40 sub_402C40 sub_402964 sub_402964 sub_402788 sub_402788 0
+start sub_141EC sub_141EC sub_12C50 sub_12C50 sub_F234 sub_F234 __libc_fcntl 1
+iptables_xml_main iptables_xml_main sub_404DDC sub_404DDC sub_403518 sub_403518 sub_4026C8 sub_4026C8 sub_401FEC sub_401FEC 0
+start sub_FE2C sub_FE2C sub_E98C sub_E98C sub_AD7C sub_AD7C sockprintf sockprintf print print 1
+findARandomIP TelnetScan2 TelnetScan2 inet_addr inet_aton 1
+main main processCmd processCmd t_scanner t_scanner select __errno_location 1
+main sleep sigaction memcpy 1
+main main processCmd processCmd RemoveTempDirs RemoveTempDirs system system signal sigaction __errno_location 1
+sub_10003A44 sub_1000447C sub_1000447C memcpy 1
+sub_10079B6C sub_1007814C sub_1007814C _ZN6vectorIjED2Ev 0
+main main create_socket create_socket 0
+cmd_parser perform_socket_cmd perform_socket_cmd uploadFile uploadFile initBinaryUpload initBinaryUpload parseDoc1 parseDoc1 sub_40E79C sub_40E79C handle_error handle_error 0
+main main processCmd processCmd StartTheLelz StartTheLelz fcntl fcntl64 __errno_location 1
+main main scanner_init scanner_init report_working report_working connect __errno_location 1
+start sub_DBAC sub_DBAC sub_CFF0 sub_CFF0 sub_AEA0 sub_AEA0 sub_A734 sub_A734 1
+SSHScanner SSHScanner sockprintf sockprintf print print 1
+main main rules_from_config rules_from_config rules_include rules_include rules_from_config rules_from_config rules_include rules_include rules_from_config rules_from_config rules_include rules_include rules_from_config rules_from_config rules_include rules_include rules_from_config rules_from_config rules_include rules_include rules_from_config rules_from_config xmalloc xmalloc 0
+main main processCmd processCmd htp htp select __errno_location 1
+sub_466D80 sub_466D80 sub_465D88 sub_465D88 sub_407C40 sub_407C40 sub_407D48 sub_407D48 sub_407C40 sub_407C40 sub_407D48 sub_407D48 sub_407EB4 sub_407EB4 sub_407D48 sub_407D48 sub_407EB4 sub_407EB4 sub_407D48 sub_407D48 sub_407C40 sub_407C40 sub_407D48 sub_407D48 sub_407EB4 sub_407EB4 sub_407D48 sub_407D48 sub_407C40 sub_407C40 sub_407D48 sub_407D48 sub_407EB4 sub_407EB4 sub_407D48 sub_407D48 xsetuid xsetuid 0
+main main sub_401C54 sub_401C54 UPNP_AddAnyPortMapping UPNP_AddAnyPortMapping simpleUPnPcommand simpleUPnPcommand simpleUPnPcommand2 simpleUPnPcommand2 getHTTPResponse getHTTPResponse receivedata receivedata 0
+start sub_E238 sub_F568 sub_F568 sub_F208 sub_F208 1
+main main processCmd processCmd MiraiScanner MiraiScanner RemoveTempDirs RemoveTempDirs system system do_system do_system _exit 1
+TelnetScanner TelnetScanner echoLoader echoLoader socket_connect socket_connect gethostbyname gethostbyname_r __dns_lookup __dns_lookup inet_pton inet_pton inet_pton4 memcpy 1
+iproute_get iproute_get print_route print_route rtnl_dsfield_n2a rtnl_dsfield_n2a sub_41FE20 sub_41FE20 sub_41FC10 sub_41FC10 0
+main main processCmd processCmd TelnetScanner TelnetScanner connect __errno_location 1
+processCmd httphex httphex write __errno_location 1
+table_init table_init add_entry malloc sbrk __init_brk _brk __errno_location 1
+start sub_B768 sub_B768 sub_C310 sub_C310 sub_BD48 sub_BD48 sub_C6A8 sub_C6A8 1
+start sub_8048199 sub_8048199 sub_804836E sub_804836E 1
+main main processCmd processCmd PonyScanner PonyScanner send __errno_location 1
+realloc_check realloc_check _int_malloc _int_malloc malloc_consolidate malloc_consolidate __libc_message __libc_message vsyslog vsyslog vfprintf vfprintf __libc_fatal __libc_fatal __libc_message __libc_message vsyslog vsyslog vfprintf vfprintf strerror_r strerror_r _itoa_word _itoa_word 1
+main main discover_interfaces discover_interfaces if_register_receive if_register_receive sub_403658 sub_403658 error error sub_4088F0 sub_4088F0 0
+main main processCmd processCmd StartTheLelz StartTheLelz strcoll strcoll 1
+start sub_E46C sub_E46C sub_DA04 sub_DA04 sub_B01C sub_B01C 1
+main scanner_init scanner_init memcpy 1
+start sub_EAAC sub_EAAC sub_F45C sub_F45C 1
+start sub_1000D104 sub_1000D104 1
+_ftext _ftext sub_403F5C sub_403F5C sub_4035FC sub_4035FC sub_403CE4 sub_403CE4 sub_4035FC sub_4035FC sub_403CE4 sub_403CE4 sub_4035FC sub_4035FC sub_402708 sub_402708 sub_402040 sub_402040 sub_402198 sub_402198 sub_402040 sub_402040 sub_402198 sub_402198 sub_4020E4 sub_4020E4 sub_402198 sub_402198 sub_4020E4 sub_4020E4 sub_402040 sub_402040 sub_402198 sub_402198 sub_4016BC sub_4016BC sub_401604 sub_401604 0
+start sub_F24C sub_F24C sub_FBFC sub_FBFC 1
+main main processCmd processCmd TelnetScanner TelnetScanner RemoveTempDirs RemoveTempDirs system system signal sigaction memcpy 1
+start sub_DFFC sub_EC08 sub_EC08 1
+SSHScanner SSHScanner getRandomPublicIP getRandomPublicIP szprintf print print printi prints printchar write __errno_location 1
+main main sub_400DA0 sub_400DA0 0
+start sub_C5B4 sub_C5B4 sub_A7B4 sub_A7B4 1
+sub_405398 sub_405398 sub_404720 sub_404720 dhcp6_set_options dhcp6_set_options sub_409A70 sub_409A70 my_dprintf my_dprintf 0
+start sub_10011D38 sub_10011D38 1
+help sleep sigaction memcpy 1
+TelnetScan TelnetScan sockprintf sockprintf print print printi prints printchar write __libc_write __errno_location 1
+sub_4111C4 sub_410F58 sub_410F58 sub_40FE74 sub_40FE74 sub_40EB28 sub_40EB28 cmdedit_read_input cmdedit_read_input sub_417BE4 sub_417BE4 concat_path_file concat_path_file bb_xasprintf bb_xasprintf 0
+main main processCmd processCmd StartTheLelz StartTheLelz connect __errno_location 1
+sub_4008F4 sub_4008F4 get_webdav_https_port get_webdav_https_port 0
+main main sub_408C78 sub_408C78 getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 getstring getstring sub_402EB8 sub_402EB8 getintindex getintindex serror serror sub_401AA8 sub_401AA8 0
+main main sub_41A650 sub_41A650 sub_4175F0 sub_4175F0 sub_414F4C sub_414F4C sub_40F9B8 sub_40F9B8 sub_40F94C sub_40F94C sub_40F7DC sub_40F7DC 0
+main main sub_804CE14 sub_804CE14 sub_804AE22 sub_804AE22 sub_8049939 sub_8049939 sub_80496DF sub_80496DF 1
+watchdog_maintain open64 1
+processCmd scan scan fcntl fcntl64 __errno_location 1
+main main processCmd processCmd sendSmartHTTP sendSmartHTTP getHTTPResponse getHTTPResponse getHTTPSecureResponse getHTTPSecureResponse fflush fflush_unlocked _pthread_cleanup_pop_restore 1
+attack_kill_all scanner_init scanner_init fcntl 1
+sub_C718 sub_C718 read_disk_data read_disk_data create_disk create_disk create_partition create_partition find_partition_label find_partition_label sub_CFA8 sub_CFA8 sub_C9F8 sub_C9F8 0
+main main processCmd processCmd MiraiScanner MiraiScanner RemoveTempDirs RemoveTempDirs system system fork __errno_location 1
+StartTheLelz StartTheLelz echoloader echoloader socket_connect gethostbyname gethostbyname_r free sbrk __init_brk _brk __errno_location 1
+_ftext _ftext sub_402E08 sub_402E08 UPNP_AddAnyPortMapping UPNP_AddAnyPortMapping simpleUPnPcommand simpleUPnPcommand simpleUPnPcommand2 simpleUPnPcommand2 getHTTPResponse getHTTPResponse receivedata receivedata 0
+main main processCmd processCmd StartTheLelz StartTheLelz ClearHistory ClearHistory system signal sigaction memcpy 1
+sub_10020F38 _ZN6vectorIN2nv7message12flat_messageEEC2ERKS3_ 0
+sub_FF70 sub_FF70 sub_E9B4 sub_E9B4 sub_D9AC sub_D9AC sub_9074 sub_9074 print print 1
+main main processCmd processCmd zxc zxc sendto 1
+main main table_init table_init add_entry malloc free alloc_fwd __wait __sh_fetch_add 1
+main main mtd_write mtd_write mtd_open mtd_open 0
+_ftext _ftext sub_408764 sub_408764 sub_406E84 sub_406E84 sub_4026F0 sub_4026F0 sub_4125F0 sub_4125F0 0
+sub_805016A sub_805016A _ZN6vectorI6stringED2Ev 0
+start sub_D560 sub_D560 sub_8368 sub_8368 sub_8284 sub_8284 1
+start sub_E3CC sub_E3CC sub_D408 sub_D408 sub_B0B8 sub_B0B8 sub_A74C sub_A74C 1
+start sub_E34C sub_CA38 sub_CA38 1
+WEBCAMScanner WEBCAMScanner sockprintf sockprintf send __errno_location 1
+start sub_FA30 sub_FA30 sub_104E0 sub_104E0 1
+main main processCmd processCmd MiraiScanner MiraiScanner RemoveTempDirs RemoveTempDirs system system wait4 __errno_location 1
+processCmd processCmd sendTCP sendTCP sockprintf sockprintf print print printi prints printchar write __errno_location 1
+main main EventLoop EventLoop mDNSPosixProcessFDSet mDNSPosixProcessFDSet sub_403FEC sub_403FEC mDNSCoreReceive mDNSCoreReceive PenalizeDNSServer PenalizeDNSServer GetServerForName GetServerForName LogMsgWithLevel LogMsgWithLevel mDNS_vsnprintf mDNS_vsnprintf 0
+main main processCmd processCmd sendHTTP sendHTTP socket_connect socket_connect perror perror fprintf 1
