@@ -1,3 +1,5 @@
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import itertools
 from tensorflow.keras.callbacks import ModelCheckpoint
 from tensorflow.keras.layers import Dense, Embedding, LSTM, SpatialDropout1D
@@ -8,19 +10,17 @@ from sklearn import metrics
 from matplotlib import pyplot as plt
 import numpy as np
 from pathlib import Path
-import os
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 # Loading corpus
 X_train, X_test = list(), list()
 y_train, y_test = list(), list()
-with open(Path('corpus/train_1.txt'), 'r') as f:
+with open(Path('corpus/train.txt'), 'r') as f:
     lines = f.readlines()
     for line in lines:
         X_train.append(line[:-3])
         y_train.append(int(line[-2]))
 
-with open(Path('corpus/test_1.txt'), 'r') as f:
+with open(Path('corpus/test.txt'), 'r') as f:
     lines = f.readlines()
     for line in lines:
         X_test.append(line[:-3])
@@ -30,8 +30,14 @@ print(len(X_train), len(X_test))
 
 tokenizer = Tokenizer(filters='')
 tokenizer.fit_on_texts(X_train)
+
 X_train = tokenizer.texts_to_sequences(X_train)
 X_train = pad_sequences(X_train, maxlen=100)
+y_train = np.array(y_train)
+X_test = tokenizer.texts_to_sequences(X_test)
+X_test = pad_sequences(X_test, maxlen=100)
+y_test = np.array(y_test)
+
 vocab_size = len(tokenizer.word_index) + 1
 print(f'Vocab size: {vocab_size}, Unique nodes:', end=' ')
 unique_word = 0
@@ -39,12 +45,6 @@ for k in tokenizer.word_docs:
     if tokenizer.word_docs[k] == 1:
         unique_word += 1
 print(unique_word)
-
-X_test = tokenizer.texts_to_sequences(X_test)
-X_test = pad_sequences(X_test, maxlen=100)
-
-y_train = np.array(y_train)
-y_test = np.array(y_test)
 
 model = Sequential()
 model.add(Embedding(input_dim=vocab_size,
@@ -59,8 +59,8 @@ model.compile(loss='binary_crossentropy',
 batch_size = 512
 mc = ModelCheckpoint('output/model.h5', save_best_only=True,
                      save_weights_only=True)
-history = model.fit(X_train, y_train, epochs=50, batch_size=batch_size,
-                    verbose=2, validation_split=1/9,
+history = model.fit(X_train, y_train, epochs=100, batch_size=batch_size,
+                    verbose=2, validation_split=1/5,
                     callbacks=[mc])
 
 model.load_weights('output/model.h5')
