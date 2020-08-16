@@ -14,13 +14,13 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 # Loading corpus
 X_train, X_test = list(), list()
 y_train, y_test = list(), list()
-with open(Path('corpus/train.txt'), 'r') as f:
+with open(Path('corpus/train_aug.txt'), 'r') as f:
     lines = f.readlines()
     for line in lines:
         X_train.append(line[:-3])
         y_train.append(int(line[-2]))
 
-with open(Path('corpus/test.txt'), 'r') as f:
+with open(Path('corpus/test_aug.txt'), 'r') as f:
     lines = f.readlines()
     for line in lines:
         X_test.append(line[:-3])
@@ -59,7 +59,7 @@ model.compile(loss='binary_crossentropy',
 batch_size = 512
 mc = ModelCheckpoint('output/model.h5', save_best_only=True,
                      save_weights_only=True)
-history = model.fit(X_train, y_train, epochs=150, batch_size=batch_size,
+history = model.fit(X_train, y_train, epochs=25, batch_size=batch_size,
                     verbose=2, validation_split=1/9,
                     callbacks=[mc])
 
