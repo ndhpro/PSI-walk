@@ -1,15 +1,16 @@
+from pathlib import Path
+import numpy as np
+from matplotlib import pyplot as plt
+from sklearn import metrics
+from tensorflow.keras.preprocessing.text import Tokenizer
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Embedding, LSTM, SpatialDropout1D
+from tensorflow.keras.callbacks import ModelCheckpoint
+from joblib import dump
+import itertools
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
-import itertools
-from tensorflow.keras.callbacks import ModelCheckpoint
-from tensorflow.keras.layers import Dense, Embedding, LSTM, SpatialDropout1D
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.preprocessing.sequence import pad_sequences
-from tensorflow.keras.preprocessing.text import Tokenizer
-from sklearn import metrics
-from matplotlib import pyplot as plt
-import numpy as np
-from pathlib import Path
 
 # Loading corpus
 X_train, X_test = list(), list()
@@ -38,13 +39,15 @@ X_test = tokenizer.texts_to_sequences(X_test)
 X_test = pad_sequences(X_test, maxlen=100)
 y_test = np.array(y_test)
 
+dump(tokenizer, 'output/tokenizer.joblib')
+
 vocab_size = len(tokenizer.word_index) + 1
 print(f'Vocab size: {vocab_size}, Unique nodes:', end=' ')
 unique_word = 0
 for k in tokenizer.word_docs:
     if tokenizer.word_docs[k] == 1:
         unique_word += 1
-print(unique_word)
+print(unique_word, X_train[0])
 
 model = Sequential()
 model.add(Embedding(input_dim=vocab_size,
@@ -54,7 +57,7 @@ model.add(LSTM(units=16, dropout=0.2, recurrent_dropout=0.2))
 model.add(Dense(1, activation='sigmoid'))
 model.compile(loss='binary_crossentropy',
               optimizer='adam', metrics=['accuracy'])
-# print(model.summary())
+print(model.summary())
 
 batch_size = 512
 mc = ModelCheckpoint('output/model.h5', save_best_only=True,
